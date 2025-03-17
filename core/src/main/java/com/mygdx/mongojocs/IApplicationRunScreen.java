@@ -214,10 +214,10 @@ public class IApplicationRunScreen implements Screen {
         launcher.batch.setProjectionMatrix(camera.combined);
         launcher.batch.begin();
         if(Canvas.softKey1 != null)
-            launcher.smallFont.draw(launcher.batch, Canvas.softKey1, 0, 20);
+            launcher.smallFont.draw(launcher.batch, Canvas.softKey1, 0, 208*layouts[launcher.currentLayout].screen.y + 20);
         if(Canvas.softKey2 != null) {
             layout.setText(launcher.smallFont, Canvas.softKey2);
-            launcher.smallFont.draw(launcher.batch, Canvas.softKey2, 176-layout.width, 20);
+            launcher.smallFont.draw(launcher.batch, Canvas.softKey2, 176-layout.width, 208*layouts[launcher.currentLayout].screen.y + 20);
         }
         launcher.batch.end();
 
