@@ -197,7 +197,7 @@ public class MIDletRunScreen implements Screen {
 
                 launcher.batch.setProjectionMatrix(camera.combined);
                 launcher.batch.begin();
-                launcher.batch.draw(Display.screenBuffer, px, 208*layouts[launcher.currentLayout].screen.y + py, Display.width, Display.height * layouts[launcher.currentLayout].screen.height, 0, 1, 1, 0);
+                launcher.batch.draw(Display.screenBuffer, px, 208*layouts[launcher.currentLayout].screen.y + py*layouts[launcher.currentLayout].screen.height, Display.width, Display.height * layouts[launcher.currentLayout].screen.height, 0, 1, 1, 0);
                 launcher.batch.end();
 
         // KEYBOARD LAYOUT
