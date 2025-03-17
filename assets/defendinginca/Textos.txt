@@ -1,0 +1,47 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Teclas de menu izquierda y derecha:
+Ir al menu
+
+Boton central:
+Aceptar opcion del menu
+
+Teclas 4 y pad izquierdo:
+Mover camara a la izquerda
+
+Teclas 6 y pad derecha:
+Mover camara a la derecha
+
+Teclas 2 y pad arriba:
+Aumentar angulo de disparo
+
+Teclas 8 y pad abajo:
+Disminuir angulo de disparo
+
+Teclas 5 y boton central:
+Mantener pulsado para aumentar la fuerza y soltar para disparar
+}
+{
+Desarrollado por
+SAIYU
+2004
+}
+ASALTO 
+- GAME OVER -
+BIEN HECHO!
+JUGADOR 1 GANA
+JUGADOR 2 GANA
+Dobles
+{3 Rondas|5 Rondas|7 Rondas}

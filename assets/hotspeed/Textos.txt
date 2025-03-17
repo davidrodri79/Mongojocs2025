@@ -1,0 +1,105 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+-------------------------------
+         INSTRUCCIONES
+-------------------------------
+0. Objetivo
+
+ 0.1 Trata de alcanzar la meta
+  en cada tramo.
+  Cuentas con un potente 
+  deportivo, de altas 
+  prestaciones, pero tambien
+  gran consumo de combustible.
+
+
+1. Controles
+
+ 1.1 Teclas de menu:
+  Ir al menu
+ 1.2 Pad izquierdo / 4:
+  Mover a la izquerda
+ 1.3 Pad derecha / 6:
+  Mover a la derecha
+ 1.4 Pad arriba / 2:
+  Acelerar
+ 1.5 Pad abajo / 8:
+  Frenar
+
+
+2. Items/Obstaculos
+
+ 2.1 Fuel
+  Te proporcionan combustible
+  extra que necesitaras para 
+  finalizar el tramo.
+ 2.2 Piedra
+  Trata de esquivarlas,
+  de lo contrario tu
+  coche explotara y perderas
+  combustible y tiempo...
+ 2.3 Charco
+  Los charcos de agua reduciran
+  tu velocidad al instante, por
+  lo que tambien trata de evitarlos.
+ 2.4 Aceite
+  Las manchas de aceite haran 
+  que tu coche patine.
+
+
+3. Notas
+ 
+ 3.1 Derrape:
+  Cuando choques con
+  un adversario tu deportivo 
+  derrapara.
+  Puedes superar esta
+  situacion si eres lo
+  suficientemente rapido en 
+  girar en la misma direccion.
+    
+}
+{
+
+.::: Hot Speed v0.69 RC1 :::.
+
+
+
+---------------------------
+ Programacion 
+---------------------------
+Xavier Sampedro Valdelvira
+
+---------------------------
+ Graficos 
+---------------------------
+Jordi Palome
+
+---------------------------
+ Sonido 
+---------------------------
+Jordi Gutierrez
+
+---------------------------
+ Apoyo moral 
+---------------------------
+Juan Ant. Gomez
+
+Microjocs Mobile
+2004
+}
+Opciones
+Volver
+{Dificultad FACIL|Dificultad NORMAL|Dificultad EXPERTO}
+Sin combustible
+! Tramo completado !

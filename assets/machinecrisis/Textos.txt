@@ -1,0 +1,77 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+.:: CONTROLES ::.
+
+Teclas de menu izquierda y derecha:
+Ir al menu
+
+Boton central:
+Aceptar opcion del menu
+
+Teclas 4 y pad izquierdo:
+Mover a la izquerda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 1 y pad arriba+izquierda:
+Mover hacia izquierda rapido
+
+Teclas 3 y pad arriba+derecha:
+Mover hacia derecha rapido
+
+
+.:: ITEMS ::.
+
+Rojo/azul: modifican la velocidad del robot.
+
+Verde: da magnetismo al robot.
+
+Amarillo: para la fabrica de piezas.
+
+Lila: paraliza las piezas en el aire.
+
+
+.:: OTROS ::.
+
+Bombas: si el robot entra en contacto con la
+explosion generada por la bomba, la fabrica generara
+inmediatamente piezas. Puede ser beneficioso o
+letal, segun el item que dispongas...
+
+}
+{
+MACHINE CRISIS
+and the stressed robot!
+v1.0-RC1
+Desarrollado por
+SAIYU
+2004
+}
+NIVEL
+COMPLETADO
+Puntuacion
+RAPIDO
+LENTO
+STOP MACHINE
+MAGNETIC
+PARALIZE
+puntos
+Mejor
+{
+Tan solo un par
+¡¡ Magnetic !!
+¡¡ BOOOOOOM !!
+Cuestion de tiempo
+Lento o rapido
+}

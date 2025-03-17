@@ -1,0 +1,53 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Tecla de menu izquierda:
+Ir al menu
+
+Tecla de menu derecha:
+Aceptar opcion
+
+Teclas 4 y pad izquierdo:
+Mover a la izquerda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Mover hacia arriba
+
+Teclas 8 y pad abajo:
+Mover hacia abajo
+
+Teclas 5 y menu derecha:
+Disparar
+}
+{
+Hell Gates
+
+Programación:
+David Rodríguez
+
+Graficos:
+Jordi Palome
+Elias Lozano
+Raul Duran
+
+Sonido:
+Jordi Gutierrez
+
+Microjocs Mobile
+2004
+}
+{Orilla del Aqueron|Cruce del Aqueron|Ciénaga de los condenados|Guarida de la Hydra|Laguna Estigia|Mausoleo del héroe|Desembocadura del Plegeton|Forja del Infierno|Río de llamas|Cascadas del Plegeton}

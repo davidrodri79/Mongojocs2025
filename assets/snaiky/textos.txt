@@ -1,0 +1,46 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Recoge los items, cuando hayas crecido lo suficiente pasaras a la siguiente fase.
+
+Tecla de menu izquierda:
+Ir al menu
+
+Tecla de menu derecha:
+Aceptar opcion
+
+Teclas 4 y flecha izquierdo:
+Mover a la izquerda
+
+Teclas 6 y flecha derecha:
+Mover a la derecha
+
+Teclas 2 y flecha arriba:
+Mover hacia arriba
+
+Teclas 8 y flecha abajo:
+Mover hacia abajo
+
+}
+{
+Acerca de...
+
+
+Desarrollado por:
+Saiyu Games
+2004
+}
+puntos
+Fin de fase
+¡Felicidades!

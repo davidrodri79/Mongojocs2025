@@ -1,0 +1,37 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Teclas de menu izquierda y derecha:
+Ir al menu
+
+Boton central:
+Aceptar opcion del menu
+
+Teclas 4 y pad izquierdo:
+Mover la pala a la izquerda
+
+Teclas 6 y pad derecha:
+Mover la pala a la derecha
+
+Teclas 5 y boton central:
+Lanzar la bola
+Disparar el laser
+}
+{
+Desarrollado por
+SAIYU
+2004
+}
+Nivel
+Nivel Completado

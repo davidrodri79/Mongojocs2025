@@ -1,0 +1,41 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Protege tu porteria y consigue marcar en la del oponente. Aprovecha cuando el disco este lejos para cargar la fuerza y golpear con mas potencia
+
+Teclas de menu izquierda y derecha:
+Ir al menu
+
+Boton central:
+Aceptar opcion del menu
+Aumentar fuerza
+
+Teclas 4 y pad izquierdo:
+Mover a la izquerda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 5:
+Aumentar fuerza
+}
+{
+Sliddisk
+
+Desarrollado por
+SAIYU
+2004
+}
+
+

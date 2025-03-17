@@ -1,0 +1,76 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+--------------------------
+Instrucciones
+--------------------------
+La madriguera donde viven tranquilas
+las tortugas ha sido invadida por los
+malvados cangrejos.
+
+Deja salir a las tortuguitas, y golpea
+a los cangrejos.
+
+
+--------------------------
+Controles
+--------------------------
+Teclas de menu izquierda y derecha:
+-> Ir al menu
+
+Boton central:
+-> Aceptar opcion del menu
+
+Teclas 4 y pad izquierdo:
+-> Golpear la madriguera de la izquierda
+
+Teclas 6 y pad derecha:
+-> Golpear la madriguera de la derecha
+
+Teclas 2 y pad arriba:
+-> Golpear la madriguera de arriba
+
+Teclas 8 y pad abajo:
+-> Golpear la madriguera de abajo
+
+
+--------------------------
+Puntuacion
+--------------------------
+Inicialmente seras bonificado con 5
+puntos al golpear un cangrejo, penalizado
+con la misma cantidad si golpeas por
+error a una tortuguita, y bonificado con
+1 punto por cada tortuguita que logra escapar.
+
+Las bonificaciones y penalizaciones van
+aumentando a medida que avanzas de nivel, excepto
+el punto por tortuga escapada.
+
+Empiezas cada nivel con una puntuacion
+limite, en rojo, que te obliga a no cometer
+demasiados errores al principio. Al alcanzar
+una determinada cantidad de puntos se pasa de
+nivel
+
+}
+{
+Turtle And Sons v1.0
+Desarrollado por
+SAIYU
+2004
+}
+Has perdido todos tus puntos.
+NIVEL
+PUNTOS
+{PrEpArAdO|LiStO|VAMOS ALLA!}
+

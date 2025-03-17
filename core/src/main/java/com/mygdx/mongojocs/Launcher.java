@@ -12,6 +12,7 @@ import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.math.Vector3;
 import com.badlogic.gdx.utils.ScreenUtils;
+import com.mygdx.mongojocs.iapplicationemu.IApplication;
 import com.mygdx.mongojocs.midletemu.Canvas;
 import com.mygdx.mongojocs.midletemu.Display;
 import com.mygdx.mongojocs.midletemu.MIDlet;
@@ -35,6 +36,7 @@ public class Launcher extends Game {
 	public Launcher(MyInterface myInt) {
 		myInterface = myInt;
 		MIDlet.setAppFilesFolder(myInterface.getAppFilesFolder().toString());
+		IApplication.setAppFilesFolder(myInterface.getAppFilesFolder().toString());
 	}
 
 	@Override

@@ -1,0 +1,43 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+¡Lanza paracaidas a los cerditos antes de que se estrellen contra el suelo! Los disparos fallados restan puntos. Cada 100 puntos obtendras una vida extra
+
+Teclas de menu izquierda y derecha:
+Ir al menu
+
+Boton central:
+Aceptar opcion del menu
+Lanzar paracaidas
+
+Teclas 4 y pad izquierdo:
+Apuntar a la izquierda
+
+Teclas 6 y pad derecha:
+Apuntar a la derecha
+
+Teclas 5:
+Lanzar paracaidas
+}
+{
+Parachutist - Save the Pigs
+
+Desarrollado por
+SAIYU
+2004
+}
+Puntuacion: 
+Record: 
+
+

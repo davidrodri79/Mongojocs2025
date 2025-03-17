@@ -3351,11 +3351,11 @@ Thread thread;
 //#endif
 
 //#ifdef EXTRAPAKS
-//static final String defaultPak[] = new String[] {"original","ice","mirror"};
-//static final int defaultPakIds[] = new int[] {0,1,2};
+static final String defaultPak[] = new String[] {"original","ice","mirror"};
+static final int defaultPakIds[] = new int[] {0,1,2};
 //#else
-static final String defaultPak[] = new String[] {"original"};
-static final int defaultPakIds[] = new int[] {0};
+//static final String defaultPak[] = new String[] {"original"};
+//static final int defaultPakIds[] = new int[] {0};
 //#endif
 
 static final int inJarPacks = defaultPak.length;

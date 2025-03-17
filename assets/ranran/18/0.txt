@@ -1,0 +1,38 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+*MÁX. PUNTUACIONES*
+¡BUENA PUNTUACIÓN!
+Escribe tus iniciales:
+(pulsa SELECT para editar)
+PUNTOS:
+NIVEL: 00
+Menu
+Confirma
+Cancela
+{*MENU PRINCIPAL*|-JUEGO PAUSADO-}
+{¿Salir de RanRan?|¿Abandonar?}
+{*INSTRUCCIONES*
+
+4 - IZQUIERDA
+6 - DERECHA
+5 - PUÑETAZO
+1,2,3 - PATADA
+7,8,9 - BARRIDO
+}
+{Acerca de RanRan
+
+Programa: A. Vera
+Graficos: J. Palome
+Sonido: J. Gutierrez
+
+(C) Microjocs 2004
+}

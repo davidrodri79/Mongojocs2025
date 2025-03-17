@@ -1,0 +1,59 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibracion OFF|Vibracion ON}
+{Modo: Facil|Modo: Normal|Modo: Dificil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Tecla de menu izquierda:
+Ir al menu
+
+Tecla de menu derecha:
+Aceptar opcion
+
+Tecla 4 
+y 
+pad izquierdo:
+Mover a la izquerda
+
+Tecla 6
+y
+pad derecho:
+Mover a la derecha
+
+Tecla 2
+y
+pad arriba:
+Mover hacia arriba
+
+Tecla 8
+y
+pad abajo:
+Mover hacia abajo
+
+Tecla 5
+y
+tecla aceptar:
+Poner bomba
+}
+{
+Acerca de...
+
+MrBoom
+desarrollado por Saiyu
+2004
+}
+Nivel 
+Te quedan
+vidas
+{
+Enhorabuena.
+Has completado el juego.
+}
