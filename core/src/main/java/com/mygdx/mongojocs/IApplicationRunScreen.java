@@ -10,6 +10,7 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.GlyphLayout;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
+import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector3;
 
 import com.mygdx.mongojocs.iapplicationemu.IApplication;
@@ -54,17 +55,20 @@ public class IApplicationRunScreen implements Screen {
     {
         float alpha;
         boolean numbers;
-        LayoutConf(float a, boolean num)
+        Rectangle screen;
+        Rectangle buttons;
+        LayoutConf(float a, boolean num, Rectangle screen, Rectangle buttons)
         {
-            alpha = a; numbers = num;
+            alpha = a; numbers = num; this.screen = screen; this.buttons = buttons;
         }
     }
 
-    LayoutConf layouts[] = {
-            new LayoutConf(0.5f, true),
-            new LayoutConf(0.5f, false),
-            new LayoutConf(0.25f, false),
-            new LayoutConf(0.0f, false)
+     LayoutConf layouts[] = {
+            new LayoutConf(1f, true, new Rectangle(0f,0.4f,1f,0.6f), new Rectangle(0f,0.0f,1f,0.4f)),
+            new LayoutConf(0.5f, true, new Rectangle(0f,0f,1f,1f), new Rectangle(0f,0f,1f,1f)),
+            new LayoutConf(0.5f, false, new Rectangle(0f,0f,1f,1f), new Rectangle(0f,0f,1f,1f)),
+            new LayoutConf(0.25f, false, new Rectangle(0f,0f,1f,1f), new Rectangle(0f,0f,1f,1f)),
+            new LayoutConf(0.0f, false, new Rectangle(0f,0f,1f,1f), new Rectangle(0f,0f,1f,1f))
     };
 
     VirtualKey vkeys[] =
@@ -105,6 +109,9 @@ public class IApplicationRunScreen implements Screen {
                     touchPos.set(screenX, screenY, 0);
                     camera.unproject(touchPos);
                     //game.gameCanvas.g.camera.unproject(touchPos);
+                    touchPos.y -= 208 * layouts[launcher.currentLayout].buttons.y;
+                    touchPos.y /= layouts[launcher.currentLayout].buttons.height;
+
 
                     if(vkeys[i].inside((int)touchPos.x, 208 - (int)touchPos.y)) {
                         if(vkeys[i].codes == null)
@@ -199,7 +206,7 @@ public class IApplicationRunScreen implements Screen {
 
         launcher.batch.setProjectionMatrix(camera.combined);
         launcher.batch.begin();
-        launcher.batch.draw(Display.screenBuffer, px, py+20, Display.width, Display.height, 0, 1, 1, 0);
+        launcher.batch.draw(Display.screenBuffer, px, 208*layouts[launcher.currentLayout].screen.y + py*layouts[launcher.currentLayout].screen.height, Display.width, Display.height * layouts[launcher.currentLayout].screen.height, 0, 1, 1, 0);
         launcher.batch.end();
 
         // SOFTLABELS
@@ -225,6 +232,9 @@ public class IApplicationRunScreen implements Screen {
             int w = vk.w - 8;
             int h = vk.h - 8;
             float alpha = vk.codes == null ? 0.5f : (vk == pressedKey ? 0.25f : layouts[launcher.currentLayout].alpha);
+
+            y = (int)(y*layouts[launcher.currentLayout].buttons.height + 208 * layouts[launcher.currentLayout].buttons.y);
+            h *= layouts[launcher.currentLayout].buttons.height;
 
             Gdx.gl.glEnable(GL20.GL_BLEND);
             Gdx.gl.glBlendFunc(GL20.GL_SRC_ALPHA, GL20.GL_ONE_MINUS_SRC_ALPHA);
