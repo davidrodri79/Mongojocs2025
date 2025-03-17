@@ -1,0 +1,367 @@
+Estilo de juego
+Atrás
+Si
+No
+Nombre
+Cancelar
+BANQUILLO
+RESERVA
+Nueva partida
+Continuar
+Opciones
+Ayuda
+Acerca de
+Salir
+Manager de Liga 2006
+No queda espacio para guardar. Libere espacio borrando aplicaciones no deseadas.
+No hay partida guardada.
+La partida guardada pertenece a una versión antigua del juego. Por favor, bórrelo y descárguelo de nuevo.
+Idioma
+Sonido
+Sí
+No
+Teclas
+{Usa las teclas ARRIBA, ABAJO, DERECHA e IZQUIERDA (o las teclas numéricas 2, 8, 4 y 6) para cambiar la opción seleccionada.|Usa la tecla de menú DERECHA, la tecla 5 o la tecla OK para aceptar la opción seleccionada.|Usa la tecla de menú IZQUIERDA para cancelar la opción e ir atrás.}
+*
+*
+(C)2006 The Codemasters Software Company Limited Codemasters. Todos los derechos reservados. Codemasters(R) es una marca registrada de Codemasters. Manager de Liga 2006, y GENIUS AT PLAY son marcas registradas de Codemasters. El uso de nombres de jugadores está autorizada por FIFPro Foundation y sus asociaciones miembros. Todos los copyrights y marcas registradas que aparecen en el juego son propiedad de sus respectivos propietarios.
+*
+*
+*
+*
+Elegir liga
+Equipo
+PS
+Elegir equipo
+Estadísticas del equipo
+¿Eliges este equipo?
+{Partido|Jugar}
+Tácticas
+{Liga|Pretemporada}
+Entrenamiento
+Transferencias
+Salir
+Pant. Principal
+Tabla de la liga
+Máximos goleadores
+Equipo
+PT
+Nombre
+GLS
+Elegir entrenamiento
+restantes
+W, D de M
+Elige jugadores
+está lesionado. No puede jugar ni entrenarse.
+Resultado del entrenamiento
+Comprar
+Vender
+No hay jugadores a la venta esta semana.
+Ya has comprado un jugador esta semana.
+Tu equipo ya tiene 30 jugadores.
+{Filtras a la prensa que no quieres vender a |Filtras a la prensa que estarías dispuesto a vender a }
+Elige qué jugador comprar
+Has comprado a
+del
+Elige qué jugador vender
+Has vendido a
+Ahora juega en
+Formación
+Elige equipo
+Selecciona qué jugador mover
+Elige una nueva posición para el jugador
+está lesionado y no podrá jugar.
+está sancionado y no le estará permitido jugar.
+El jugador está en mala posición. Jugará con un
+de eficiencia.
+{¿Guardar la partida antes de salir?|¿Borrar anterior?}
+Guardar partida
+No se puede guardar la partida
+contra
+Partido
+¿Empezar el partido?
+Saltar
+Subst.
+Has perdido.
+Has ganado.
+Has empatado.
+Has empatado, pero has ganado en los penaltis.
+Fuera del campeonato
+Última jornada
+{ 1er partido: |. 2o partido: |-}
+Has acabado en
+OK
+¿Quieres cambiar de equipo para la siguiente temporada?
+Fin de temporada
+Inglaterra
+Escocia
+Alemania
+Italia
+Francia
+España
+*
+*
+*
+{3-4-3|5-3-2|4-4-2|4-3-3|3-5-2|5-4-1}
+{Porteros|Defensas|Medios|Delanteros}
+{Descanso|Resistencia|Trabajo en el área|Rondo|Centros|Avanzado|Uno contra uno}
+{Programa de entreno|Cambiar programa|Usar izquierda y derecha|T}
+Línea
+*
+PO
+DE
+MD
+DL
+CH
+PA
+VE
+DE
+Chute
+Pase
+Velocidad
+Defensa
+Camp. Europeo
+Semana
+primera
+segunda
+tercera
+posición
+chuta y...
+¡GOL!
+falla...
+estará lesionado durante
+partidos
+estará sancionado durante
+Pantalla Principal
+{Al empezar el juego, o después de continuar una partida guardada, llegas a la pantalla principal. Las opciones de la barra de menú son:
+- Partido: escoge esta opción para empezar el partido de la jornada actual. Durante el partido puedes cambiar tu táctica y cambiar los jugadores. Las lesiones y sanciones tienen efecto inmediato cuando aparecen durante un partido.
+- Táctica: cambia la táctica del equipo y la posición individual de los jugadores.
+- Liga: revisa los resultados de la liga actual y los 20 mejores goleadores.
+- Entrenamiento: asigna tiempo a una serie de actividades para mejorar las habilidades de tus jugadores.
+- Fichajes: compra jugadores y vende jugadores de tu equipo.
+- Finanzas: proporciona información sobre el estado de las finanzas del equipo.
+- Opciones: te permite acceder a la ayuda, activar o desactivar el sonido, guardar y salir.}
+La sección de Finanzas da información sobre el estado monetario de tu equipo. La sección General te muestra cuanto dinero dispone el club y otros detalles, como los salarios semanales del equipo o el dinero gastado y recaudado en fichajes. La sección de Patrocinador te permite conseguir un esponsor, lo que genera un ingreso extra cada semana.
+*
+*
+*
+*
+Estadísticas de jugadores
+{Las estadísticas se miden de 0 a 99.
+- Chute (CH): la precisión del jugador al chutar el balón.
+- Pase (PA): la habilidad del jugador para pasar el balón y organizar el juego.
+- Velocidad (VE): la velocidad del jugador en el campo.
+- Defensa (DE): la capacidad del jugador para interceptar la jugada de un contrario.}
+*
+*
+*
+*
+{Los jugadores tienen una posición natural. La calidad global de un jugador está más influenciada por algunas estadísticas que por otras.
+- Portero (PO): depende casi exclusivamente de DE.
+- Defensa (DE): depende mucho de DE.
+- Mediocampista (MC): necesita de unas estadísticas equilibradas, con énfasis en PA.
+- Delantero (AT): VE y CH son las estadísticas más importantes. PA también es importante.}
+*
+*
+*
+*
+Tácticas
+Después de escoger la formación, debes posicionar a tus jugadores en el campo. Cada jugador tiene una posición natural. Si colocas a un jugador en una posición que no es natural para él, su habilidad se verá menguada. Si tienes  jugadores lesionados o sancionados en el equipo no van a jugar. Si tienen el nombre en rojo o con una cruz al lado significa que el jugador está lesionado. Si el nombre está en verde o con una tarjeta roja al lado significa que el jugador está sancionado.
+Entrenamiento
+Tus jugadores entrenan 140 minutos cada día. Puedes distribuir este tiempo entre diferentes tipos de ejercicio, cada uno repercute de diferente forma en los jugadores. Puedes entrenar diferente a los porteros, defensas, medios y delanteros. Entrenar el atributo más importante de un jugador hace que mejore más rápidamente. El tiempo sobrante es tiempo de descanso. Por defecto cada actividad dura 20 minutos.
+Fichajes
+Tu equipo empieza la temporada con un capital limitado. Cuando juegas en casa ganas dinero por la venta de entradas. Puedes utilizar este dinero para comprar nuevos jugadores. Al vender jugadores también recibirás dinero. El precio de un jugador depende directamente de su calidad global. Si un jugador mejora con los entrenamientos será más valorado.
+Competiciones
+Tu equipo compite en la liga nacional en un sistema de 2 vueltas, jugando 2 veces contra cada equipo. También compite en una competición europea cada temporada. Si tu equipo está en tercera posición o una superior al principio de temporada, jugará contra los mejores equipos de Europa. Si no, jugará contra una selección de equipos de tu liga y de otras ligas. La competición europea se juega cada 2 semanas en las primeras eliminatorias y cada 3 semanas para las fases finales. Siempre se juegan a doble partido de ida y vuelta, excepto la final que es a partido único.
+Espere...
+Estilo
+{Normal|Ofensivo|Defensivo}
+*
+*
+Cambiar jugadores
+Cambios restantes
+Ya has usado los 3 cambios permitidos
+*
+*
+*
+*
+*
+*
+*
+*
+*
+{Finanzas|General|Patrocinador}
+{Enero|Febrero|Marzo|Abril|Mayo|Junio|Júlio|Agosto|Septiembre|Octubre|Noviembre|Diciembre}
+{Lunes|Jueves}
+*
+*
+P
+G
+E
+P
+G+
+G-
+M. Euros
+España
+ME
+No tienes suficiente dinero para comprar el jugador.
+El jugador no quiere jugar en tu equipo.
+Venta de entradas:
+QA
+Tu equipo tiene 16 jugadores o menos. No se te permite vender más.
+Créditos
+*
+*
+*
+*
+*
+de
+Aviso legal
+Partidos para
+Fondos
+¿Deseas comprar
+por
+Entra al campo
+{¿Cambias a|por}
+*
+Los siguientes jugadores están lesionados o sancionados y no jugarán
+Estad. Partido
+Estad. Liga
+Estad. Europa
+El Campeonato Europeo no ha empezado todavía.
+Los siguientes jugadores fueron sancionados o lesionados
+Ganador
+Eliminatoria 32
+Eliminatoria 16
+Octavos de final
+Cuartos de final
+Semifinal
+Final
+Has perdido el partido
+Has empatado el partido y has ganado en la ronda de penaltis
+¡Has ganado el Campeonato Europeo!
+¡Has ganado el partido!
+*
+Has sido eliminado del campeonato Europeo
+Has empatado el partido
+Has empatado la eliminatoria y has perdido en la prórroga.
+falla
+(C)2006 The Codemasters Software Company Limited. Todos los derechos reservados.
+El archivo de la partida está corrupto.
+¿Quieres salir?
+(antes)
+(después)
+Hay muy pocos jugadores en el equipo. No puedes fichar jugadores de este equipo.
+está sancionado y no se puede cambiar.
+No puedes jugar porque en tu 11 inicial hay jugadores sancionados o lesionados.
+hace un pase largo
+pasa la pelota a la banda
+{Bienvenido al estadio del |. Empieza el partido.}
+{Media parte|últimos minutos del partido}
+esquiva a un defensa
+hace una gran jugada
+hace una entrada muy dura
+pasa la pelota a un contrario
+organiza un ataque
+chuta y pasa el balón al otro campo
+discute con el árbitro
+falla un pase
+estaba en fuera de juego
+dribla un defensa
+tiene el balón
+no pasa la pelota
+falló.
+partido
+{Publicado por: JAMDAT Mobile Inc. (C) JAMDAT Mobile Inc. 2006. Todos los derechos reservados. JAMDAT, JAMDAT Mobile y el logotipo de las burbujas son marcas comerciales o marcas registradas de JAMDAT Mobile Inc. en los Estados Unidos y en otros países o regiones.|Atención al cliente:|help@jamdat.com}
+{
+Codemasters Software Company
+
+Productor:
+Iain Hancock
+Licencia:
+Susie Bailey
+
+Director de Codemasters Mobile and Business Development:
+Matt Davies
+
+Desarrollado por:
+Microjocs Mobile
+
+Director ejecutivo:
+Gerard Fernández
+
+Jefes de proyecto:
+Manel Sort
+Itthi Yossundara
+
+Programación:
+Carlos Carrasco
+Carlos Peris
+David Rodríguez
+
+Gráficos:
+Raúl Durán
+Elias Lozano
+
+Sonido:
+Jordi Gutiérrez
+
+Jefe de control de Calidad:
+Alfred Ferrer
+
+Control de Calidad:
+Xavi Espejo
+Ricard Reixach
+Arnau Castellví
+Damià Vázquez
+Artur Rubio
+Cándido Pérez
+Eduardo Berti
+Francesc López
+Gustavo Ortega
+Jana Lara
+Javier Pocovi
+Rafael González
+Toni Yáñez}
+
+*
+{Has recibido una oferta. ¿Deseas vender a |?}
+Guardar después del partido
+Versión
+Guardar
+¿Quieres guardar la partida?
+Continuar con
+Escoger nuevo equipo
+Semanas
+Pausa
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+Para poder usar LMA 2006 debes estar suscrito a la web de JAMDAT/ LMA Manager 2006.
+Debes autorizar el uso de la red para que funcione la aplicación.
+Reinicie la aplicación en un lugar con cobertura.
+JAMDAT / LMA Manager 2006. Instalación en curso. Por favor espere.
+Error
+{Finanzas|General|Fondos: |Ingresos -----|Patrocinio: |Fichajes: |Gastos ------|Salarios: |Fichajes: }
+{Patrocinio|Recibes una oferta de patrocinio por | cada semana. ¿La aceptas?|Aún no dispones de un patrocinador.|Aceptas un nuevo patrocinador.|¿Deseas rechazar al patrocinador actual?|Tu patrocinador actual te proporciona | cada semana.|Has roto relaciones con tu antiguo patrocinador.}
+{Objetivo|Tu objetivo para esta temporada es quedar entre los tres primeros.|Tu objetivo para esta temporada es quedar entre los diez primeros de la liga.|Tu objetivo para esta temporada es quedar en la primera mitad de la clasificación.|Tu objetivo para esta temporada es evitar el descenso}
+{Fin de juego|Lo sentimos, pero no has conseguido los objetivos de esta temporada y el club ha decidido prescindir de tus servicios.|Lo sentimos pero has acabado con todos los fondos disponibles del equipo. Estás despedido.|. El equipo esta muy satisfecho de tu rendimiento esta temporada y prolonga tu contrato un año más}
+{Bienvenido|Bienvenido al |. Esperamos que estés satisfecho con tu contrato, queremos que sepas que confiamos en tu éxito con nuestro equipo. Esperamos lo mejor de ti.|Partido de pretemporada: |La liga aún no ha empezado.}
+{Búsqueda de jugadores|Elige método de búsqueda|Búsqueda manual|Usar filtros|Cancelar}
+{Búsqueda con filtros|Escoja los filtros de búsqueda|Cualquiera|Liga: |Posición: |Max. Precio: |Buscar| Cancelar| No se han encontrado jugadores con estos requisitos}
+{ Resultado final: }
+

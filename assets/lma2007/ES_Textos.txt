@@ -1,0 +1,73 @@
+jugar
+continuar
+{sonido no|sonido sí}
+{vibración no|vibración sí}
+*
+Game Over
+ayuda
+acerca de...
+terminar
+salir
+Cargando
+Por favor espere...
+{acepta|borra}
+*
+Congratulations
+¿Estás seguro?
+{ |Menú
+Aceptar
+Atrás
+Continuar
+Cancelar
+Sí
+No
+Comprar
+Vender
+Confirmar
+Negociar
+Marcar
+Seleccionar
+Cambiar
+Insertar
+Leer
+Empezar
+Auto
+Contratar
+Despedir
+Editar
+Activar
+Desactivar
+Buscar
+Hecho
+}
+{
+About
+}
+*
+opciones
+juego nuevo
+partido amistoso
+Juego en pausa
+{Partido|Tácticas|Liga|Entrenamiento|Comprar|General|Ayuda}
+{Inglaterra|Escocia|Alemania|Italia|Francia|España}
+{Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre}
+{Lunes|Martes|Miércoles|Jueves|Viernes|Sábado|Domingo}
+{EQUIPO|ENTRENAMIENTO|PORTÁTIL|INFORMACIÓN|FICHAJES|FINANZAS|ESTADIO|OPCIONES|CALENDARIO}
+{SELECCIONA ALINEACIÓN|TÁCTICAS|FORMACIÓN|ESTILO|LESIONADOS|SANCIONADOS|EDITAR NOMBRES}
+{PROGRAMACIÓN|ESTILO}
+{MENSAJES}
+{TABLA LIGA 1|TABLA LIGA 2|GRÁFICO DE LIGA|COMPETICIÓN EUROPEA|DETALLES DEL CLUB|MÁXIMOS GOLEADORES|TOP 11|MÁNAGER}
+{BÚSQUEDA MANUAL|BÚSQUEDA FILTRADA|OJEADOR|VENDER}
+{EXTRACTOS DE CUENTA|FIJAR PRECIOS|LISTA DE EMPLEADOS|PATROCINADORES|ASISTENCIA}
+{CONSTRUCCIÓN}
+{AYUDA|SONIDO|GUARDAR|TERMINAR}
+{PARTIDO}
+{3-4-3|5-3-2|4-4-2|4-3-3|3-5-2|5-4-1}
+{Delanteros|Centrocampistas|Defensas|Portero}
+{Descansar|Resistencia|Trabajo en el área|Rondo|Centros|Uno contra uno|Avanzado}
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+{Inglesa|Escocesa|Alemana|Italiana|Francesa|Española}
+Jugador 1
+Equipo 1
+
+

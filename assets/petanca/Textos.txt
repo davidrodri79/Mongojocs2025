@@ -1,0 +1,96 @@
+Jugar
+Continuar
+{Sonido: No|Sonido: Si}
+{Vibración: No|Vibración: Si}
+{Dificultad: Fácil|Dificultad: Medio|Dificultad: Difícil}
+Fin del juego
+Ayuda
+Acerca de...
+Finalizar partida
+Salir
+Cargando
+Espera...
+Nivel
+Nivel Completado
+Enhorabuena
+¿Está seguro?
+{ |Menu|Aceptar|Atras|Continuar|Cancelar|Si|No|Editar}
+{
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 4 y pad izquierdo:
+Mover a la izquierda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Mover hacia arriba
+
+Teclas 8 y pad abajo:
+Mover hacia abajo
+
+Tecla 5:
+Aceptar o disparar
+}
+{
+BIOS
+$version$
+
+Diseño
+Joaquin Hurtado
+Marta Reixach
+
+Gráficos:
+Marta Reixach
+Jordi Palomé
+
+Programación:
+Juan Antonio Gómez
+
+Sonido:
+Jordi Gutiérrez
+
+Desarrolla:
+Microjocs Mobile
+2004
+}
+Opciones
+Nueva Partida
+{Puntos partida: 11|Puntos partida: 13|Puntos partida: 15|Puntos partida: 18|Puntos partida: 21}
+{Control: Fácil|Control: Avanzado}
+{Ayuda: No|Ayuda: Si}
+{Normas: Adaptadas|Normas: Reales}
+Editar nombres
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+Borrar
+Aceptar
+{
+Equipo A
+Jugador 1
+Jugador 2
+Jugador 3
+Equipo B
+Jugador 1
+Jugador 2
+Jugador 3
+}
+{
+1 contra 1
+2 contra 2
+3 contra 3
+2 contra Móvil
+3 contra Móvil
+}
+Un jugador
+Varios jugadores
+
+
+
+

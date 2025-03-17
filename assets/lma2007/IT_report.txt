@@ -1,0 +1,30 @@
+Rapporto partita:
+{
+Partita senza gol tra[team0] e [team1]
+Interessante partita tra[team0] e [team1]
+Pioggia di gol nella partita tra[team0] e [team1]
+}
+{
+Le due squadre hanno aspettative veramente diverse da quasta partita.
+La partita è iniziata senza una chiara favorita.
+}
+{
+[team] ha rimontato un pessimo inizio. 
+[team] ha vinto da lontano.
+[team] ha dominato la partita fino alla vittoria.
+[team] ha dominato la partita ma alla fine si è risolta in pareggio
+}
+{
+Il gol di [playerName] che ha seganto il [result] sul tabellone è stato magnifico. 
+Un impeccabile colpo di testa da un calcio d'angolo.
+Un superbo gol da fuori area, infilato nell'angolo alto.
+Mano a mano con il portiere e gli è scivolato il pallone tra le gambe.
+Un imparabile tiro a bruciapelo.
+}
+{
+i giocatori del [team] sembravano essere fuori forma.
+Il [team] debe migliorare per riuscire ad evitare una brutta stagione.
+La tattica del [team] non ha funzinato in questa partita.
+}
+
+

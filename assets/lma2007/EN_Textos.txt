@@ -1,0 +1,48 @@
+play game
+continue
+{sound off|sound on}
+*
+*
+Game Over
+help
+about
+quit
+exit
+Loading
+Please wait...
+{ok|delete}
+*
+*
+Are you sure?
+{ |Menu|Accept|Back|Continue|Cancel|Yes|No|Buy|Sell|Confirm|Negotiate|Mark|Select|Change|Insert|Read|Start|Auto|Hire|Fire|Edit|Enable|Disable|Search|Done}
+{
+About
+}
+*
+options
+new game
+exhibition match
+Game paused
+{Match|Tactics|League|Training|Buy|General|Help}
+{England|Scotland|Germany|Italy|France|Spain}
+{January|February|March|April|May|June|July|August|September|October|November|December}
+{Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday}
+{SQUAD|TRAINING|LAPTOP|INFO|TRANSFERS|FINANCE|STADIUM|OPTIONS|CALENDAR}
+{SELECT SQUAD|TACTICS|FORMATION|STYLE|INJURED|SUSPENDED|EDIT NAMES}
+{SCHEDULE|STYLE}
+{MESSAGES}
+{LEAGUE TABLE 1|LEAGUE TABLE 2|LEAGUE GRAPH|EUROPEAN CHAMP.|CLUB DETAILS|TOP SCORERS|TOP 11|MANAGER}
+{MANUAL SEARCH|FILTERED SEARCH|SCOUTS|SELL}
+{BANK STATEMENTS|PRICES SET|EMPLOYEE LIST|SPONSORS|ATTENDANCE}
+{CONSTRUCTION}
+{HELP|SOUND|SAVE|QUIT}
+{MATCHES}
+{3-4-3|5-3-2|4-4-2|4-3-3|3-5-2|5-4-1}
+{Attackers|Midfielders|Defenders|Goalkeepers}
+{Rest|Stamina|Box work|5-a-side|Crossing|One-on-one|Advanced}
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+{English|Scottish|German|Italian|French|Spanish}
+Player 1
+Team 1
+
+

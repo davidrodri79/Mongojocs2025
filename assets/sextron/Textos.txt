@@ -1,0 +1,60 @@
+Jugar
+Continuar
+{Activar sonido|Desactivar sonido}
+{Activar vibración|Desactivar vibración}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+Espera...
+Nivel
+Nivel Completado
+Enhorabuena
+¿Está seguro?
+{ |Menu|Aceptar|Atras|Continuar|Cancelar|Si|No}
+{
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 4 y pad izquierdo:
+Mover a la izquierda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Mover hacia arriba
+
+Teclas 8 y pad abajo:
+Mover hacia abajo
+}
+{
+Sextron
+$version$
+
+Programación:
+Juan Antonio Gómez
+
+Gráficos:
+Jordi Palome
+
+Sonido:
+Jordi Gutiérrez
+
+Desarrolla:
+Microjocs Mobile
+2004
+}
+Opciones
+Nueva Partida
+
+
+

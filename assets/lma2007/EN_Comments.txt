@@ -1,0 +1,228 @@
+{
+Both teams are ready for the kick-off of this important match.
+The players are on the pitch and ready for the kick-off.<nk-s40>!
+The home crowd are chanting, the atmosphere is electric!<nk-s40>!
+Everyone is a little nervous about today's match.<nk-s40>!
+}
+{
+Kick-off by [teamAtt]
+And it's [teamAtt] that get the kick-off<nk-s40>!
+[teamAtt] get the match under way<nk-s40>!
+}
+{
+It's the end of the first half
+The game reaches half-time<nk-s40>!
+The referee blows his whistle and signals half-time<nk-s40>!
+}
+{
+This is it. The match is over
+The referee signals the end of the match<nk-s40>!
+And it's over! The referee signals full time<nk-s40>!
+}
+{
+Goal kick from [playerAtt], [teamAtt] are in control of the ball
+The ball goes out of play and [playerAtt] gets ready for the goal kick<nk-s40>!
+[playerAtt] plays the ball into the midfield<nk-s40>!
+}
+{
+Free kick for [teamAtt]
+[teamAtt] will try to take advantage of this free kick<nk-s40>!
+[playerAtt] gets ready for the free kick<nk-s40>!
+}
+{
+[playerAtt] gets the ball for the throw in
+Throw in! [teamAtt] are on the offence<nk-s40>!
+This guy is a long throw specialist - the defence will have to be strong here.<nk-s40>!
+Throw in for [teamAtt]<nk-s40>!
+}
+{
+[playerAtt] gets ready for the corner kick
+[playerAtt] places the ball. He lines up an inswinger.<nk-s40>!
+[teamAtt] are dangerous from corners. [teamDef] must be nervous.<nk-s40>!
+[teamDef] rarely concede from corners, the fans will be confident in the defence here.<nk-s40>!
+Corner kick for [teamAtt], the ball is quickly put into play<nk-s40>!
+}
+{
+... and he scores!!! Terrific strike from [playerAtt]!!! GOAALLL!!!
+Incredible!!! [playerAtt] weaves a path to goal and scores!!! GOAALLL!!!<nk-s40>!
+...and it's gone in! What a lovely strike from [playerAtt]. GOAALLL!!!<nk-s40>!
+Look at that! An amazing goal by [playerAtt]!!<nk-s40>!
+...and it's a goal! [teamAtt] score!<nk-s40>!
+GOAALLL!!! Amazing! [playerAtt] nearly tore through the back of the net with that strike!!<nk-s40>!
+That was a 'blink and you miss it' goal!! [playerAtt] is on fire!!<nk-s40>!
+A cracking header from [playerAtt]. The keeper stood no chance!<nk-s40>!
+What a goal!! Brilliant footwork from [playerAtt]!!!<nk-s40>!
+GOAALLL!!! Amazing strike! [playerAtt] looks as surprised as anybody else, but he just scored!<nk-s40>!
+}
+{
+The crowd is going wild after that incredible goal from the [teamAtt] striker.
+The [teamAtt] fans are going crazy, They're chanting the striker's name.<nk-s40>!
+The crowd is cheering for [teamAtt]. They loved that last goal.<nk-s40>!
+}
+{
+...but the keeper saves.
+The keeper pulls off a stunning save. How did he reach that ball?<nk-s40>!
+The ball is right in the corner, but the keeper dives quickly to keep it out!<nk-s40>!
+...the keeper palms the ball round the post.<nk-s40>!
+...the keeper punches the ball away!<nk-s40>!
+[playerDef] sends the ball away<nk-s40>!
+}
+{
+...the ball comes back off the post!
+Off the post! [playerAtt] doesn't believe it!<nk-s40>!
+...and it hits the post! Unbelievable!<nk-s40>!
+And it hits the crossbar!!<nk-s40>!
+}
+{
+...the strike goes straight into the keeper's hands.
+...and the ball ends up in the keeper's hands!<nk-s40>!
+...the keeper easily gathers the ball.<nk-s40>!
+Outstanding! The keeper got the ball right on the line!<nk-s40>!
+...awesome performance from the keeper! Great save!!<nk-s40>!
+}
+{
+...the ball goes out of play!!
+...and the ball ends up over the line<nk-s40>!
+Nobody can control the ball and it runs off the pitch.<nk-s40>!
+}
+{
+[playerAtt] gets ready for the spot-kick!!
+[playerAtt] places the ball on the spot and takes his run up...<nk-s40>!
+}
+{
+The referee signals play on...
+The referee lets it slide.<nk-s40>!
+That was a badly-timed tackle, he could have broken his leg there. The ref needs to take control of this match!<nk-s40>!
+It was a clear foul, but the referee takes no action...<nk-s40>!
+}
+{
+[playerDef] can't get the ball, it's a corner kick
+The ball goes out of play. It's a corner kick for [teamAtt]<nk-s40>!
+[playerDef] knocks the ball away but can't prevent the corner kick<nk-s40>!
+}
+{
+[playerDef] fouls inside the box!
+That MUST be a penalty, surely! [playerDef] was nowhere near the ball!<nk-s40>!
+}
+{
+And the referee signals a penalty for [teamAtt]!!!
+Penalty!! [teamAtt] get a good opportunity to score<nk-s40>!
+The referee signals a penalty despite the arguments from [playerDef]<nk-s40>!
+Several players complain to the referee but to no avail. Penalty!!!<nk-s40>!
+}
+{
+The referee shows the yellow card to [playerDef]!
+[playerDef] gets booked. Yellow card!<nk-s40>!
+A yellow card! [playerDef] looks like he can't believe it<nk-s40>!
+That was too rough! [playerDef] gets a yellow card<nk-s40>!
+}
+{
+And the ball goes out of play!
+Out of play!<nk-s40>!
+The ball went out!<nk-s40>!
+}
+{
+[playerDef] scythes down [playerAtt]!!<nk-s40>!
+That was a rash challenge by [playerDef]!!!<nk-s40>!
+[playerDef] could have seriously injured him there. The ref should take action!<nk-s40>!
+[playerDef] is getting frustrated, the ref should have a word!<nk-s40>!
+That was crazy! [playerDef] can't make tackles like that!<nk-s40>!
+Violent tackle from [playerDef]!!!
+}
+{
+[playerAtt] intercepts! [teamAtt] regain control of the ball!
+[playerAtt] gets the ball! [teamAtt] are back on the offence!<nk-s40>!
+[playerAtt] intercepts...<nk-s40>!
+[playerAtt] manages to steal the ball<nk-s40>!
+}
+{
+[playerAtt] goes straight towards goal...
+[playerAtt] has a go at goal<nk-s40>!
+[playerAtt] nutmegs the defender and lines up a strike...<nk-s40>!
+[playerAtt] looks to the goalkeeper...<nk-s40>!
+}
+{
+[playerCoop] passes forward to [playerAtt]
+Deep pass from [playerCoop] to [playerAtt]<nk-s40>!
+A great ball from [playerCoop] to [playerAtt], it split the defence apart!<nk-s40>!
+The [teamAtt] players are just knocking the ball between themselves - great play!<nk-s40>!
+Short pass to [playerAtt]<nk-s40>!
+Cross towards [playerAtt]<nk-s40>!
+[playerAtt] receives the ball<nk-s40>!
+}
+{
+[playerCoop] knocks the ball back to [playerAtt]<nk-s40>!
+[playerCoop] passes back to [playerAtt]
+[playerCoop] falls back with the ball<nk-s40>!
+}
+{
+[playerAtt] decides to send the ball directly to the goalkeeper.<nk-s40>!
+[playerAtt] plays the ball back to his keeper. The fans jeer - they want to see positive football here!<nk-s40>!
+[playerAtt] passes the ball to the keeper
+}
+{
+[playerAtt] goes forward on his own!!!
+[playerAtt] goes it alone<nk-s40>!
+[playerAtt] is on a jinking run toward the box.<nk-s40>!
+[playerAtt] darts forward with the ball! <nk-s40>!
+[playerAtt] goes for goal alone!!!<nk-s40>!
+}
+{
+[playerAtt] centres the ball...!
+The ball is crossed in with pinpoint accuracy!<nk-s40>!
+That's a great cross into the box, they MUST score, surely!<nk-s40>!
+The ball is fired into the box...<nk-s40>!
+[playerAtt] plays the ball towards the box...<nk-s40>!
+}
+{
+[playerAtt] leaps and heads the ball...
+the ball reaches [playerAtt]...<nk-s40>!
+the ball drops onto [playerAtt]'s foot. He brings it down and shoots…<nk-s40>!
+[playerAtt] volleys it toward goal...<nk-s40>!
+[playerAtt] receives and turns towards goal...<nk-s40>!
+}
+{
+[playerDef] steals the ball!
+[playerDef] times his tackle perfectly and blasts the ball away to safety.<nk-s40>!
+[playerDef] intercepts and steals the ball<nk-s40>!
+}
+{
+[playerDef] has two yellows. The referee shows him the red.
+[playerDef] already had a yellow card, that was a silly tackle. Yes, it's a second yellow, and he's off!<nk-s40>!
+Second yellow for [playerDef]! The referee shows him the red card.<nk-s40>!
+}
+{
+[playerAtt] has been injured! He is carried away by the physios...
+[playerAtt] is down...he's not moving...the physio runs onto the pitch. Finally he sits up and the crowd cheer!<nk-s40>!
+Looks like [playerAtt] is hurt... and yes, he limps towards the bench<nk-s40>!
+}
+{
+The Chairman is smiling in his seat.
+Everyone is congratulating the Chairman. He sure looks pleased.<nk-s40>!
+[teamAtt]![teamAtt]![teamAtt]! The crowd is going wild!!!<nk-s40>!
+The crowd is howling!!! Everyone is cheering!!! This is spectacular!!!<nk-s40>!
+}
+{
+The Chairman of [teamAtt] looks angrily at the coach.
+The Chairman looks like he's been severely let down by the team.<nk-s40>!
+The [teamLose] supporters are booing the manager!!!<nk-s40>!
+The crowd sounds unhappy. The [teamLose] supporters do not like what they see.<nk-s40>!
+The crowd sound disappointed! [teamLose] are not performing as expected.<nk-s40>!
+}
+{
+There are two balls on the pitch. The referee halts play while the ball-boy gathers the extra ball.<nk-s40>!
+Apparently there is some fighting between the home and away fans!!!<nk-s40>!
+Hooligans are throwing things at the referee.
+}
+{
+The game has been interrupted suddenly! There is a crazy fan running naked on the pitch!... Security has managed to detain him... After a few minutes delay the match resumes.  
+}
+{
+[teamAtt] get the match underway again.<nk-s40>!
+The ball is back on the centre spot. [teamAtt] kick off.<nk-s40>!
+Play restarts with [teamAtt]
+}
+
+
+
+

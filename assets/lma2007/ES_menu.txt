@@ -1,0 +1,319 @@
+EQUIPO
+SUSTITUYE JUGADORES LESIONADOS O SANCIONADOS
+SUSTITUYE JUGADORES LESIONADOS
+CAMBIOS RESTANTES
+SELECCIONA ALINEACIÓN
+PJ
+Nombre
+{PO|DE|MD|AT}
+TÁCTICAS
+Defensiva
+Pase al hueco
+Balón largo
+Ofensiva
+Mantener la posesión
+FORMACIÓN
+ESTILO
+{Defensivo|Normal|Ofensivo}
+LESIONADOS
+Semanas
+No hay jugadores lesionados
+SANCIONADOS
+No hay jugadores sancionados
+ENTRENAMIENTO
+PROGRAMACIÓN
+PROGRAMA
+{DI|PA|VE|DE}
+{Suave|Normal|Duro}
+PORTÁTIL
+BANDEJA DE ENTRADA
+MENSAJE
+INFORMACIÓN
+{TABLA LIGA 1|TABLA LIGA 2}
+{EQUIPO|PT|G|E|P}
+{EQUIPO|PT|G+|G-}
+GRÁFICO DE LIGA
+COMPETICIÓN EUROPEA
+{Clasificado para la siguiente ronda|Fuera de la competición}
+ - 
+DETALLES DEL CLUB
+Club
+Mánager
+Patrocinador Principal
+Anuncio
+Aforo
+Personal
+Jugadores
+TOP 11
+{No|PO|NOMBRE|CA}
+MÁXIMOS GOLEADORES
+{NOMBRE|GOLES}
+MÁNAGER
+Nombre:
+Nacionalidad:
+Club preferido:
+APTITUDES
+Motivación:
+Entreno:
+Criterio:
+Disciplina:
+FINANZAS
+EXTRACTOS DE CUENTA
+LISTA DE EMPLEADOS
+PATROCINADORES
+FIJAR PRECIOS
+FICHAJES
+VENDER
+BÚSQUEDA MANUAL
+COMPRAR
+BÚSQUEDA FILTRADA
+NEGOCIAR
+{ - | - }
+DESCANSO: 
+{Liga|Camp. Europeo|Pretemporada}
+{Normal >|< Rápido >|< Muy rápido}
+{Clasificarse para el Campeonato Europeo.|Acabar la temporada entre los 6 primeros.|Acabar la temporada en la mitad superior de la clasificación.|Evitar el descenso, intentar acabar lo más alto posible en la clasificación.|Evitar el descenso.}
+{Disparos|Faltas|Posesión}
+{FONDOS TOTALES:|ENTRADAS (Esta semana)|Patrocinio:|Transferencias:|Ingresos del partido:|Aparcamiento:|TOTAL ENTRADA:|SALIDAS (Esta semana)|Sueldos:|Transferencias:|Instalaciones:|Extras:|TOTAL SALIDAS:}
+CARGOS
+{Asist. Mánager:|Entrenador:|Ojeador:|Preparador físico:|Fisioterapeuta:|Mánager comercial:}
+CONTRATAR EMPLEADOS
+CALIDAD
+Salario semanal
+{Económico|Regular|Excelente}
+PATROCINADOR CAMISETA
+PATROCINADOR VALLA
+{Nombre: |Cobras [money] por semana.|Contrato vigente durante [time] meses.|No tienes patrocinador de camiseta.}
+{Nombre: |Cobras [money] por semana.|Contrato vigente durante [time] semanas.|No tienes patrocinador de valla.}
+Precio de la entrada
+{Gallinero|Normal|VIP|Aparcamiento}
+Elige Liga
+Elige Equipo
+CA
+{Liga|Posición|Coste máximo}
+No se han encontrado jugadores según los criterios de búsqueda.
+{Duración del contrato| años|Salario semanal|Prima por ganar}
+{Bienvenido al [team].|Tu objetivo para esta temporada es:}
+Has enviado tu oferta a [player]
+Ya estás esperando una respuesta a tu oferta de este jugador.
+Nuevo patrocinador de camiseta contratado
+Nuevo patrocinador de valla contratado
+Los jugadores marcados con << pueden recibir ofertas. Tienes listos para vender [amount] jugadores
+A los jugadores marcados con >> se les ha enviado una oferta. Has enviado ofertas a [amount] jugadores
+{Este empleado está actualmente trabajando para nosotros. ¿Quieres despedirlo?|¿Quieres contratar a este empleado?}
+{Has vendido a [player] por [money]|Ya has vendido a este jugador.}
+{No se han encontrado jugadores según los criterios de búsqueda.|Se han encontrado demasiados jugadores. Se muestran sólo los 100 primeros|No tienes ningún ojeador contratado|El ojeador dice que no ha encontrado jugadores interesantes esta vez|El ojeador te recomienda [amount] jugadores}
+{Ya has realizado los tres cambios en este partido.|Debes sustituir a los jugadores lesionados o sancionados.|Debes sustituir a los jugadores lesionados.|No puedes tener jugadores lesionados o sancionados en la alineación.|Los jugadores sancionados no pueden substituirse|Los jugadores lesionados no puden jugar}
+{Defensivo|Normal|Ofensivo}
+{Inglaterra|Escocia|Alemania|Italia|Francia|España|Cualquiera}
+{PO|DE|MD|AT|Cualquiera}
+{ADW Cars|Godo & Rodo|MJ Graphics|Turley Burger|Furman Designs}
+{ADIDAS|KAPPA|KITKAT|REEBOK|UMBRO|FUNSTA|CODEMASTERS}
+{Oferta de patrocinador de camiseta|¿Quieres firmar un contrato con el patrocinador de camiseta [name] por [money] por semana durante [time] semanas?|Has firmado un contrato con el patrocinador de camiseta [name] por [money] por semana durante [time] semanas.}
+{Oferta de patrocinador de valla|¿Quieres firmar un contrato con el patrocinador de valla [name] por [money] por semana durante [time] semanas?|Has firmado un contrato con el patrocinador de valla [name] por [money] por semana durante [time] semanas.}
+{Oferta por [name]|Este jugador ha recibido una oferta de un club por [money]. ¿Vas a vender a [name]?}
+{[name] rechaza tu oferta|[name] no está interesado en jugar en nuestro club.}
+{[name] ya no está interesado.|[name] ha dejado de negociar con nuestro club.}
+{[name] quiere renegociar.|[name] dice que el salario ofrecido es muy bajo.|[name] quiere un contrato de mayor duración que el que le has ofrecido.|[name] dice que la prima por ganar que le ofreces es baja.}
+{Objetivo de la temporada|¡Felicidades! Has conseguido cumplir tu objetivo de la temporada.}
+{Objetivo de la temporada|Lo sentimos, pero no has conseguido cumplir tu objetivo de la temporada y el club ha decidido despedirte.}
+{[name] abandona el club|[name] ha alcanzado el final de su contrato y deja el club.}
+{Campeonato Europeo|Has ganado el Campeonato Europeo|Has sido eliminado del Campeonato Europeo|Has pasado la ronda del Campeonato Europeo}
+Ronda Europea
+{. Has ganado el partido|. Has perdido el partido|. Has empatado el partido.}
+{ gana la liga}
+{El ganador de la liga es | con | puntos.}
+{Enhorabuena|¡Somos los campeones!|¡Somos los campeones de liga!}
+{Bienvenido al |La junta directiva del | espera lo mejor de ti y de tu equipo para esta temporada.}
+{Gradería Norte|Gradería Sur|Gradería Este|Gradería Oeste|Aparcamiento|Campo de Entrenamiento|Gimnasio|Enfermería|Césped|Marcadores}
+{Instalaciones|Actual}
+Debes tener como mínimo 16 jugadores en el equipo
+No tienes suficiente dinero para comprar a ese jugador
+Has agotado todos los fondos disponibles para adquirir jugadores y gestionar el club. Estás despedido.
+No se han encontrado jugadores según los criterios de búsqueda.
+Se han encontrado demasiados jugadores. Se muestran sólo los 100 primeros
+{¡Una sublime noche de fútbol!|Un excepcional [team1] venció a un [team2] sin esperanza alguna. |¡Vaya partidazo!}
+{W, D de M. Y}
+{st|nd|rd|th}
+La liga aún no ha empezado
+Esta opción está automáticamente gestionada por la junta directiva. ¿Quieres gestionarla?
+{¡Gol!|Media Parte|Falta|Penalty|Fuera|Corner|Fuera de juego}
+{MALO|POBRE|REGULAR|BUENO|EXCELENTE}
+EDITAR NOMBRES
+EDITAR NOMBRES
+{3-4-3 (b)|4-4-2 (b)}
+{(S)|(R)}
+DETALLES
+Fondos
+PATROCINADORES Y ESTADIO
+PERSONAL
+Ninguno
+ASISTENCIA
+ESTADIO
+RESUMEN DEL PARTIDO
+{Has empatado el partido:|Has ganado el partido:|Has perdido el partido:}
+Los siguientes jugadores están lesionados o sancionados:
+partido/s
+RESULTADOS DE LA JORNADA
+Jornada
+El Campeonto Europeo no ha empezado todavía
+{Ha finalizado el Campeonato Europeo|El campeón es }
+DATOS DEL CAMPEONATO EUROPEO
+Datos
+Avanzar
+próximo encuentro
+Campeonato Europeo
+Visualización
+{Pasar partido|Partido en 2D |Partido en texto}
+{Menú|Resumen|Resultados|Camp. Europeo}
+menú principal
+jugar
+fantasy team
+dificultad
+normal
+experto
+elige equipo
+Partido Amistoso
+personalizar
+introducir nombre
+nacionalidad
+edad
+club preferido
+siguiente
+puntos de aptitud:
+motivación:
+entreno:
+criterio:
+disciplina:
+seleccionar liga
+personalizar
+editar nombre
+editar color
+elegir jugadores
+camiseta
+pantalón
+ELEGIR JUGADORES
+Continuar
+Formación
+Órdenes
+Equipo
+Pasar partido
+opciones
+{volumen: bajo|volumen: medio|volumen: alto}
+{autoguardar no|autoguardar sí}
+créditos
+extras
+lluvia en el partido
+formaciones extra
+entrenamiento rápido
+sin lesiones
+fondos ilimitados
+¡Atención! Los datos anteriores se borrarán. ¿Estás seguro?
+Debes distribuir todos los puntos de aptitud para continuar
+No puedes comprar jugadores de tu propio equipo
+Tu equipo tiene ya 30 jugadores. No puedes contratar a este jugador.
+No puedes contratar un nuevo patrocinador de camiseta hasta que expire el contrato vigente.
+No puedes contratar un nuevo patrocinador de valla hasta que espire el contrato vigente.
+{Mala posición de|y|eficacia|¿Estás seguro?}
+no puede ampliarse más.
+{En construcción. Quedan |semanas|. ¿Cancelar la mejora?}
+No dispones de fondos.
+{Las obras durarán | semanas. El coste de construcción es de |. ¿Estás seguro?}
+{
+Para desbloquear: clasifícate para el Campeonato Europeo
+Para desbloquear: acaba la temporada entre los seis primeros
+Para desbloquear: evita el descenso usando uno de los tres últimos equipos de la liga
+Para desbloquear: gana el Campeonato Europeo
+Para desbloquear: acaba la temporada entre los tres primeros tres veces seguidas
+}
+No hay suficientes jugadores en plantilla. ¿Autocompletar?
+¿Estás seguro de que quieres borrar el correo?
+quiere renegociar
+quiere saber qué estamos dispuestos a ofrecerle.
+ha aceptado tu oferta!
+acepta las condiciones y está listo para jugar en nuestro club.
+{El contrato de [playername] está a punto de acabar}
+{El contrato de [playername] expira este año y quiere negociar su renovación.}
+Mejora de la instalación completada
+La mejora de [facility] ha sido completada 
+Expectativas:
+ÚLTIMA HORA
+¿Activar el sonido?
+Sonido
+activado
+desactivado
+Guardando...
+Ha ganado la liga el [clubname]
+Coste:
+Tiempo restante:
+Duración obras:
+{PS|SH|PA|SP|DE}
+{GK|DE|MF|AT}
+Reserva
+Banquillo
+Jornada
+{Acabó el partido entre [team1] y [team2].}
+{Todo el mundo habla de [name], quien llevó a [team] hacia la victoria. ¡Qué fantásticas aptitudes para la gestión!}
+¿Salvar el progreso?
+Edad:
+{¡Has desbloqueado un Extra! Comprueba la sección "Extras":}
+{controles|modos de juego|personalización|gestión del club|"extras"}
+E
+Consejos sobre LMA
+EQUIPO
+No hay suficientes fondos para auto completar. Por favor, elige otros jugadores y vuelve a intentarlo.
+No puedes poner un jugador sustituido de vuelta a la alineación titular.
+{
+Codemasters Software Company
+
+Productor:
+Melissa Scrivin
+
+Director, Desarrollo de producto:
+Samantha Parker
+
+Director, Movil:
+Matt Davies
+
+BDM-Mobile:
+Paul Topping 
+
+
+Desarrollado por:
+Microjocs Mobile
+
+Productor:
+Manel Sort
+
+Jefe de proyecto:
+Carlos Peris
+
+Diseñador:
+Joaquín Hurtado
+
+Programadores:
+Carlos Peris
+David Rodríguez
+Juan Antonio Gómez
+
+Grafista:
+Raúl Durán
+
+Música:
+Jordi Gutiérrez
+
+Productor de portabilidad:
+Itthi Yossundara
+
+QA Manager:
+Damià Vázquez
+
+QA:
+Alfred Ferrer
+Ricard Reixach
+Víctor Mora
+Arnau Castellví
+Jordi Balfegó
+}
+
+

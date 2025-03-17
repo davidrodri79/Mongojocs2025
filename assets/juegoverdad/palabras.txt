@@ -1,0 +1,11 @@
+*
+{*
+}
+{*
+}
+{buho|crin|cura|hoja|humo|mesa|niño|oler|rojo}
+{amigo|axila|ayuda|enero|gruta|hecho|hueso|perro|rueda|video|exito}
+{arroyo|axioma|brocha|chucho|condal|cuatro|extras|filtro|gracia|guinda|tiempo|volcan|zapato}
+{alacran|america|archivo|ardilla|armario|belgica|canguro|lampara|montaña|tijeras|trabajo|tractor|ventana|extasis}
+{abstracto|cabezazo|carnaval|chiflado|garganta|muerdago|paraguas|petroleo|pianista|traspies}
+

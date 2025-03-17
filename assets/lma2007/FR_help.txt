@@ -1,0 +1,52 @@
+{
+MENU PRINCIPAL
+2 touche  - haut une option - 8 touche bas une option, touche menu gauche ou 5 touche - sélectionnez option en cours, touche menu droite - allez ...
+
+EN JEU - BARRE ICONE
+Utilisez la manette de jeu ou les touches 4 et 6 pour vous déplacer horizontalement à travers les options, la manette de jeu ou les touches 2 et 8 pour aller des options principales (barre principale) aux options secondaires (barre la plus basse), la manette centrale ou la touche 5 pour entrer une section <NK-s40>!
+Utilisez la manette de jeu ou les touches 4 et 6 pour vous déplacer horizontalement à travers les options, la manette de jeu ou les touches 2 et 8 pour aller des options principales (barre principale) aux options secondaires (barre la plus basse), la touche 5 pour entrer une section <NK-s40>?
+
+EN JEU - TEXTE
+Pour des écrans qui contiennent une liste ou un texte long, utiliser la manette ou les touches 2 et 8 pour aller en haut et en bas, la manette centrale, la touche 5 ou la touche menu gauche pour sélectionner une option, la touche de menu droite pour revenir en arrière.<NK-s40>!
+Pour des écrans qui contiennent une liste ou un texte long, utiliser la manette ou les touches 2 et 8 pour aller en haut et en bas, la touche 5 ou la touche menu gauche pour sélectionner une option, la touche de menu droite pour revenir en arrière.<NK-s40>?
+
+EN JEU - GÉNÉRAL
+La touche gauche est utilisée pour obtenir des informations et des actions sur les performances et la touche droite sert à annuler ou à revenir en arrière.
+}
+{
+MATCH EXHIBITION
+Sélectionnez deux équipes pour qu'elles jouent l'une contre l'autre et voyez comment elles le font bien 
+
+JEU NORMAL
+Sélectionnez une équipe d'un des championnats et essayez d'atteindre l'objectif de votre club pour la saison. La direction du club est plus ou moins exigeante en fonction de la difficulté du niveau sélectionné. En mode normal, les finances et l'entraînement sont automatiquement dirigés tandis que en mode expert, vous être totalement chargés du contrôle de votre club. 
+
+"FANTASY TEAM"<NK-s40>!
+Similaire au "jeu normal" mais vous pouvez créer une équipe imaginaire à partir de rien. Choisissez les couleurs de votre équipe et votre effectif parfait !<NK-s40>!
+}
+{
+DIRECTEUR
+La customisation du directeur vous permet de customiser votre nom, votre nationalité, votre âge et votre club préféré -le club que finalement vous voulez diriger. Ensuite, il répartit vos points techniques qui auront une influence sur le jeu. "Motivation" améliorera le moral de l'équipe, "Entraînement" améliorera les résultats de l'entraînement, "Jugement" augmentera les chances d'obtenir la signature de contrats de joueurs et "Discipline" contrôlera la discipline du joueur dans les matches, permettant de diminuer le nombre de joueurs suspendus.
+
+L'ÉQUIPE<NK-s40>!
+En mode "fantasy team", vous pouvez créer le club, choisir son nom et les couleurs de son écusson. Vous pouvez choisir les joueurs pour former l'effectif de n'importe quel championnat et de n'importe quelle équipe, ou laisser l'équipe se composer automatiquement.<NK-s40>!
+}
+{
+La direction du club est divisée en neuf blocs principaux, qui sont les suivants :<NK-s40>!
+La direction du club est divisée en huit blocs principaux, qui sont les suivants :<NK-s40>?
+ÉQUIPE: dirigez tout ce qui concerne l'équipe.
+ENTRAÎNEMENT: planifiez l'intensité et la fréquence de l'entraînement.
+PORTABLE: lisez tous les courriers électroniques que l'utilisateur recevra en tant que directeur.
+INFORMATION: Information détaillée, très utile pour le directeur.
+TRANSFERTS: Achetez et vendez des joueurs.
+FINANCES: Dirigez les employés et gérez les finances.
+STADE: Améliorez la capacité et les équipements du stade.<NK-s40>!
+OPTIONS: Accès à aide pour le jeu, options son, enregistrer le jeu ou l'effacer.
+CALENDRIER: matches à jouer.
+
+}
+{
+EXTRAS<NK-s40>!
+Dans la section "Options", vous pouvez sélectionner "Codes bonus", où vous pourrez vérifier ce qui doit être destiné à être ouvert et trouver des indications sur la manière de jouer avec votre console.<NK-s40>!
+Quand un "code bonus" est ouvert, il faut le valider avant qu'il prenne effet. Dans le cas des indications, un click dessus fera apparaître le texte correspondant.<NK-s40>!
+}
+

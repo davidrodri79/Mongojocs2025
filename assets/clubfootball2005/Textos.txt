@@ -1,0 +1,151 @@
+New League
+Continue
+{Sound OFF|Sound ON}
+{Vibration OFF|Vibration ON}
+{Mode: Easy|Mode: Normal|Mode: Difficult}
+GAME OVER
+Help
+About...
+End
+Exit
+Loading
+{
+Left menu key:
+Go to menu
+
+Right menu key:
+Accept option
+
+Key 4 and left pad:
+Run to the left
+
+Key 6 and right pad:
+Run to the right
+
+Key 2 and pad up:
+Run up
+
+Key 8 and pad down:
+Run down
+
+Keys 1,3,7,9 :
+Run diagonally
+
+Key 5 and central pad:
+Pass or shoot
+(close to the goal)
+}
+{Club Football 2005 v1.0.0
+
+Published by: 
+JAMDAT Mobile Inc. 
+
+Managing Director:
+Juan Montes
+
+Director of Product Management:
+Kenny Mathers
+
+QA Tester:
+David Brown
+
+(c) JAMDAT Mobile Inc. 2004. 
+All Rights Reserved
+JAMDAT, JAMDAT Mobile and the bubbles logo are registered trademarks of JAMDAT Mobile Inc.
+
+Customer Support:
+help@jamdat.com
+
+Developed by:
+Microjocs Mobile
+
+Programming:
+Carlos Peris
+David Rodríguez
+
+Graphics:
+Raúl Durán
+Elias Lozano
+
+Sound:
+Jordi Gutiérrez
+
+Testing:
+Alfred Ferrer
+Josep Ruiz
+Xavi Espejo
+Juan Mollá
+
+
+Codemasters Software Company
+
+Producer:
+Simon Humphreys
+
+Business Development Manager:
+Matt Davies
+
+Legal:
+Nav Sunner
+
+Licensing:
+Toby Heap
+
+}
+New Super League
+Continue Super League
+See classification
+Edit players
+{4-4-2|4-3-3|3-5-2|5-4-1|3-4-3|2-3-5}
+{Match 2 min|Match 5 min|Match 10 min}
+Continue League
+Round
+Loading
+{Congratulations!|are the champions}
+{Standard keys|3650 keys}
+{
+Instructions
+
+Left menu key:
+Go to menu
+
+Right menu key:
+Accept option
+
+Keys 2,3 and left pad:
+Run to the left
+
+Keys 8,9 and right pad:
+Run to the right
+
+Pad up:
+Run up
+
+Keys 5,6 and pad down:
+Run down
+
+Keys 1,4,7,0 :
+Run diagonally
+
+Pound key and central pad:
+pass or shoot
+(close to the goal)
+}
+Continue League
+{RETURN|OK}
+Next match
+Formation
+Classification
+Return to Menu
+{Change name|Skin:|Hair:|Speed:|Shoot:|Pass:|Tackle:}
+{Player's name|Enter a name|Accept}
+{Half season|Full season}
+Make a change
+{League|Super League}
+{ P:| W:| L:| D:| GS:| GC:}
+{Player }
+Cancel
+{(c)2004 The Codemasters Software Company Limited. All rights reserved. 
+"Codemasters"(R), "GENIUS AT PLAY"TM  and "Club Football"(R) 
+are trademarks owned by Codemasters.}
+{Quit current match?|YES|NO}

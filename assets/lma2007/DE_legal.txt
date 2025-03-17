@@ -1,0 +1,10 @@
+{
+LMA 2007
+$version$
+
+(c)2006 The Codemasters Software Company Limited ("Codemasters").
+Alle Rechte vorbehalten. "Codemasters"(R) ist ein eingetragenes Warenzeichen von Codemasters.
+"BDFL Manager"TM 2007 und "GENIUS AT PLAY"TM sind Warenzeichen von Codemasters.
+Sonstige Copyrights oder Warenzeichen in diesem Spiel sind das Eigentum ihrer Inhaber.
+Entwickelt von Microjocs. Veröffentlicht von Codemasters.
+}

@@ -1,0 +1,142 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+ 
+Final del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Miss Frame, la cotilla catódica del 3XL.net, no puede estar quieta.
+
+Ayúdala a pasar por las habitaciones del No passeu! y a esquivar todos los obstáculos que le aparecen por el camino. Qué peligro.
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 4 y pad izquierdo:
+Mover a la izquierda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Saltar
+
+Teclas 1 y 3:
+Salto en diagonal izquierda y derecha
+
+Teclas 8 y pad abajo:
+Bajar plataforma
+
+Tecla 5:
+Aceptar o lanzar caja
+
+Debes recoger todas las llaves para poder pasar a la siguiente habitación.
+
+En el marcador superior de la izquierda puedes ver cuántas llaves te faltan por encontrar. Por el camino te irás encontrando objetos. Cuantos más cojas, más puntos te llevarás.
+
+Tienes tres corazones de vida y tiempo limitado, así que ¡¡¡a correr!!!
+
+Coge las cajas de colores, pulsando la tecla 5, y lánzalas contra los enemigos pulsando otra vez 5.
+
+Recuerda que puedes moverte con la caja a cuestas, pero entonces no puedes saltar tanto.
+
+Si coges el reloj, tendrás tiempo extra.
+
+Si coges el punto del logo del 3XL.net, tendrás inmunidad durante unos segundos.
+
+El vaso de leche con cacao te da un corazón de vida extra.
+}
+{
+No passeu!
+version
+
+Idea original:
+3XL.net y CCRTV Interactiva
+
+Jefe de proyecto:
+Manel Sort
+
+Programador:
+Juan Antonio Gómez
+
+Grafista:
+Jordi Palome
+
+Diseño del juego:
+Jordi Palome
+Juan Antonio Gómez
+
+Diseñadores de niveles:
+Jordi Palome
+Oscar Zurriaga
+
+Música / efectos sonoros:
+Jordi Gutierrez
+
+Control de calidad:
+Alfredo Ferrer
+Xavi Espejo
+Joaquín Hurtado
+Jordi Balfegó
+Josep Ruiz
+Arnau Castellví
+Juan Mollá
+Eduardo Berti
+Albert Sans
+Mario Ruz
+
+Desarrolla:
+Microjocs Mobile
+2005
+}
+Nivel
+Enhorabuena
+{ |Menú|Aceptar|Atrás|Continuar|Cancelar|Sí|No}
+¿Estás seguro?
+Habitación
+Habitación completada
+Nueva partida
+Cambiar Idioma
+{Idioma: Català|Idioma: Español}
+{
+Utiliza las teclas 4 y 6 para moverte a izquierda y derecha.
+Las teclas 1, 2 y 3 para saltar arriba y en direcciones..
+}
+{
+Debes recoger todas las llaves para poder pasar a la siguiente habitación.
+En el marcador superior de la izquierda puedes ver cuántas llaves te faltan por encontrar. Por el camino te irás encontrando objetos. Cuantos más cojas, más puntos te llevarás.
+Cuidado, no todo es lo que parece. Quién sabe qué pasa en tu habitación cuando no estás.
+Tienes tres corazones de vida y tiempo limitado, así que ¡¡¡a correr!!!
+}
+{
+Coge las cajas de colores, pulsando la tecla 5, y lánzalas contra los enemigos pulsando otra vez 5.
+Recuerda que puedes moverte con la caja a cuestas, pero entonces no puedes saltar tanto.
+}
+{
+Este reloj verde te dará una bonificación de tiempo extra, Aprovéchala bien.
+}
+{
+Siempre que veas el punto del logo de 3XL.net, cógelo, porque serás invencible por un tiempo.
+}
+{
+Mmmmm, ¡qué bueno! El vaso de leche con cacao te da un corazón de vida extra. 
+}
+{
+¡¡¡Perfecto!!! Has conseguido todas las llaves. Ahora ve a la puerta, ábrela y pasa a la siguiente habitación.
+}
+{
+Final del juego:
+Enhorabuena, has conseguido completar todas las habitaciones.
+}
+{Tiempo:|x10|Objetos:|x100| |Puntos acumulados:|0|Mejor puntuacion:|0|}
+
+
+

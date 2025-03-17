@@ -1,0 +1,82 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Teclas 5, menú derecha y pad central:
+Aceptar opción, clavar banderilla y llamar al toro.
+
+Teclas 1, 4, 7 y pad izquierdo:
+Moverse hacia la izquierda
+
+Teclas 3, 6, 9 y pad derecho:
+Moverse hacia la derecha
+
+Tecla 2 y pad arriba:
+Moverse hacia arriba
+
+Tecla 8 y pad abajo:
+Moverse hacia abajo
+
+Elimina a todos los enemigos con la ayuda del toro. Clava una banderilla y crea un 
+camino de rosquillas por el que te seguirá el toro cuando lo llames eliminando a todos 
+los enemigos que encuentre a su paso. Pero ten cuidado, mientras se mueva el toro no 
+podrás moverte. Si permaneces al lado de la banderilla, serás invulnerable y si un 
+enemigo la toca, deberás comenzar de nuevo.
+Intenta sincronizar el movimiento de los enemigos con las embestidas del toro... te 
+facilitará el trabajo.
+}
+{Acerca de...
+
+©2004 BlueTech bajo licencia de MEDIAPRODUCCION, S.L.
+Basado en la obra cinematográfica "TORAPIA" producida por MEDIAPRODUCCION, S.L.
+
+Créditos:
+
+Programación:
+Oscar Zurriaga
+
+Gráficos:
+Elías Lozano
+Jordi Palomé
+
+Sonido:
+Jordi Gutiérrez
+
+Desarrollo(2004):
+Microjocs Mobile
+}
+Nivel 
+{
+- ERROR -
+- Si es la primera vez que ejecuta esta aplicación, asegúrese de tener activado el acceso 
+a la red.
+- Posible problema de cobertura GPRS. Inténtelo de nuevo más tarde.
+}
+{Continuar}
+Nuevo Record
+Cargando...
+{Eres un ladrón de poca monta, pero parece que la suerte te sonríe, todos tus problemas se solucionarán gracias al magnífico collar que te acabas de agenciar!!!}
+{Pero una vez más el destino te pone a prueba, el collar ha acabado en un centro psiquiátrico donde te han quitado las joyas para convencerte de que participes en el nuevo tratamiento: La TORAPIA.}
+{Torea las adversidades con valor y recupera las 7 gemas del collar haciendo frente a todos los enemigos que te encontrarás en el ruedo de la vida.}
+{Felicidades!! Has conseguido recuperar todas las piezas del collar. Ahora, prepárate para la buena vida, pues más cornadas da el hambre!.}
+{Volver|Aeropuerto|Iglesia|Calle|Manicomio|Jardín|Plaza|Catacumbas}
+GAME OVER
+{Aeropuerto: El mejor sitio para empezar a buscar. Aquí fue donde afanaste el collar y ahora cualquiera puede identificarte!
+Iglesia: Como decía mi abuelo, la iglesia que más ilumina es la que arde. Llega hasta el diamante y sal por patas de aquí!
+Calle: Ahora la cosa se pone difícil! ¿Podrás llegar al diamante sin que nadie te lo impida?
+Manicomio: Aquí están todos locos! LLega al diamante y vete antes de que te obliguen a participar en la TORAPIA!
+Jardín: Ésta es la recta final! Échale valor al toro y llega hasta el quinto diamante!
+Plaza: Sólo faltan dos diamantes y tu vida de ladrón será cosa del pasado!
+Catacumbas: Éste es el último diamante! Echa el resto, torero!}

@@ -1,0 +1,68 @@
+Instrucciones:
+
+La mafia ha
+secuestrado a
+los niños de tu
+pueblo y los
+mantiene
+esclavizados.
+
+¡Lucha contra la
+mafia y libéralos!
+
+Controles:
+
+Tecla menú izquierda:
+Ir al menú / pausar 
+el juego.
+
+Tecla 1:
+Salto a la izquierda.
+
+Teclas 2/pad arriba:
+Saltar hacia arriba.
+
+Tecla 3:
+Salto a la derecha.
+
+Tecla 4/pad izquierdo:
+Correr a la izquierda.
+
+Tecla 5:
+Atacar. Si se mantiene
+pulsada hasta rellenar
+la barra de ataque, se
+ejecutará un combo.
+
+Teclas 6/pad derecha:
+Correr a la derecha.
+
+Tecla 7:
+Barrido a la izquierda.
+
+Teclas 8/pad abajo:
+Bajar de la plataforma.
+
+Tecla 9:
+Barrido a la derecha.
+
+Tecla *:
+Patada de fuego.
+Eliminará a los 
+enemigos que
+encuentre a su
+paso. Hay un número
+limitado de ellas,
+así que úsalas con
+cuidado.
+
+Cada vez que pierdes
+una vida o avanzas un
+nivel, se repondrán.
+
+Obtendrás una vida
+extra cada vez que
+consigas superar un
+nivel.
+
+¡Suerte!

@@ -1,0 +1,48 @@
+spielen
+weiterspielen 
+{ton aus|ton an}
+*
+*
+Game Over
+hilfe
+über
+Verlassen
+aus 
+Laden
+Bitte warten..
+{ok|delete}
+*
+*
+Bist du sicher?
+{ |Menü|Akzeptieren|Zurück|Weiter|Stornieren|Ja|Nein|Kaufen|Verkaufen|Bestätigen|Verhandeln|Angeben|Wählen|Wechseln|Eingeben|Lesen|Start|Auto|Mieten|Feuer|Editieren|Ermöglichen|Blockieren|Suchen|Gemacht}
+{
+About
+}
+*
+optionen
+neues spiel
+vorführungsspiel
+Spielpause
+{Match|Tactics|League|Training|Buy|General|Help}
+{England|Schottland|Deutschland|Italien|Frankreich|Spanien}
+{Januar|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember}
+{Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag}
+{MANNSCHAFT|TRAINING|LAPTOP|INFO|AUSWECHSELN|FINANZEN|STADION|OPTIONEN|KALENDER}
+{WÄHLE MANNSCHAFT|TAKTIKEN|AUFSTELLUNG|STIL|VERLETZT|AUSGESCHIEDEN|NAMEN EDITIEREN}
+{KALENDER|STIL}
+{NACHRICHTEN}
+{LIGA TABLE 1|LIGA TABLE 2|LIGA GRAPHIK|EUROPÄISCHER|CLUB DETAILS|SPITZENSPIELER|SPITZEN 11|MANAGER}
+{MANUELLE SUCHE|FILTRIERTE SUCHE|KUNDSCHAFTER|VERKAUFEN}
+{BANKANGABEN|PREISE FESTLEGEN|LISTE DER ANGESTELLTEN|SPONSOREN|BESUCHER}
+{AUFBAU}
+{HILFE|TON|SPEICHERN|AUSSTEIGEN}
+{MATCHE}
+{3-4-3|5-3-2|4-4-2|4-3-3|3-5-2|5-4-1}
+{Angreifer|Mittelfeldspieler|Verteidiger|Torwarte}
+{Rest|Durchhaltermögen|Torarbeit|5- zur Seite|Kreuzen|Eins zu eins|Fortgeschritten}
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+{Englisch|Schottisch|Deutsch|Italienisch|Französisch|Spanisch}
+Spieler 1
+Mannschaft 1
+
+

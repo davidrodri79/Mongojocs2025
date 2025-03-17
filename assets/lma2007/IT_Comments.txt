@@ -1,0 +1,229 @@
+{
+Entrambe le squadre sono pronte per il calcio d'inizio di questa importante partita.
+I giocatori sono in campo pronti per il calcio d'inizio.
+I tifosi locali stanno inneggiando, l'atmosfera è elettrizzante!
+Sono tutti un po nervosi per la partita di oggi.
+}
+{
+Calcio d'inizio [teamAtt]
+E' il [teamAtt] che da il calcio d'inizio
+[teamAtt] ha la partita sotto controllo
+}
+{
+Ed è la fine del primo tempo
+Il gioco è arrivato alla fine del primo tempo
+L'arbitro soffia nel suo fischietto segnalando la fine del primo tempo
+}
+{
+Questo è tutto. La partita è finita
+L'arbitro segnala la fine della partita
+Ed è finita! L' arbitro segnala il tempo pieno
+}
+{
+Rimessa da fondo campo di [playerAtt], [teamAtt] hanno il pallone sotto controllo
+Il pallone va fuori gioco e [playerAtt] è pronto per la rimessa da fondo campo
+[playerAtt] tira la palla a centrocampo
+}
+{
+Calcio di punizione per [teamAtt]
+[teamAtt] cercheremo di trarre beneficio da questo calcio di punizione
+[playerAtt] si prepara al calcio di punizione
+}
+{
+[playerAtt] prende il pallone per la rimessa laterale
+Rimessa laterale! [teamAtt] è in attacco.
+Questo ragazzo è un esperto di lanci lunghi nelle rimesse, la difesa dovra essere forte ora.
+Rimessa laterale per [teamAtt]
+}
+{
+[playerAtt] si prepara al calcio d'angolo
+[playerAtt] posiziona il pallone. Centra l'area.
+[teamAtt] sono pericolosi dall'angolo. [teamDef] devono essere nervosi
+[teamDef] raramente sono generosi dagli angoli, I tifosi devono confidare nella difesa ora.
+Calcio d'angolo per [teamAtt], il pallone è messo velocemente in gioco
+}
+{
+... e segna!!! Terrificante tiro di [playerAtt]!!! GOOOLLL!!!!
+Incredibile!!! [playerAtt] si marca un cammino al gol e segna!!! GOOOLLL!!!!
+... e va dentro! Che stupendo tiro di [playerAtt]. GOOOLLL!!!!
+Guardate questo! Un stupefacente gol di [playerAtt]!!
+...ed è gol! [teamAtt] segna!
+GOOOLLL!!!! Stupefacente! [playerAtt] quasi quasi sfonda il retro della rete con questo tiro!!
+E' stato un goal "tivedo, non ti vedo" !! [playerAtt] e' alle stelle!!
+Un colpo di testa di [playerAtt]. Il portiere non ha possibilitá!
+Che gol!!! Brillante gioco di piedi di [playerAtt]
+GOOOLLL!!!! Stupefacente tiro! [playerAtt] sembra tanto sorpreso come la maggiorparte di noi, ma ha appena segnato!
+}
+{
+La folla sta impazzendo dopo questo incredibile gol dell'attaccante del [teamAtt]
+I [teamAtt] tifosi stanno impazzendo. Stanno inneggiando il nome dell'attaccante.
+La folla sta supportando [teamAtt]. Hanno apprezzato l'utlimo gol.
+}
+{
+...ma il portiere para.
+Il portiere mette a segno una sensazionale parata. Come ha raggiunto il pallone?
+Il pallone va giosto nell'angolo ma il portiere si tuffa immediatamente per mandarlo fuori
+...il potiere 
+...il potiere 
+[playerDef] invia il pallone fuori
+}
+{
+il pallone è respinto dal palo!
+Fuori! [playerAtt] non ci puo' dredere!
+...e colpisce il palo! Incredibile!
+E colpisce la traversa!!
+}
+{
+...il tiro va dritto nelle mani del portiere.
+il pallone finisce direttamente nelle mani del portiere!
+...il portiere facilemente receupera il pallone.
+Impressionante! Il portiere ferma il pallone giusto sulla linea!
+...garndiosa performance del portiere! Ottima parata!!
+}
+{
+...il pallone va fuori campo!!
+il pallone finisce fuori la linea
+Nessuno controlla il pallone che rotola fuori dal campo.
+}
+{
+[playerAtt] si prepara al lancio del calcio di punizione!!
+[playerAtt] sistema il pallone nel punto della punizione e prende la rincorsa...
+}
+{
+L' arbitro  segnala di continuare...
+L' arbitro la lascia passare.
+Questa è stata un'entrata mal calcolata, gli avrebbe potuto rompere una gamba. L'arbitro deve riprendere il controllo della partita!
+Era chiaramente sporco, ma l' arbitro non reagisce...
+}
+{
+[playerDef] non puo' trattenere il pallone, è calcio d'angolo
+Il pallone va fuori campo. E' calcio d'angolo per  [teamAtt]
+[playerDef] lancia via il pallone ma non puo' evitare il calcio d'angolo
+}
+{
+[playerDef] commette fallo dentro l'area
+DEVE essere fallo, sicuramente! [playerDef] non ha neanche cercato il pallone!
+}
+{
+E l'arbitro segnala il rigore per [teamAtt]!!!
+Rigore!! [teamAtt] ha una buona occasione per segnare
+L' arbitro segnala un rigore nonostante le proteste di [playerDef]
+Vari giocatori si lamentano con l' arbitro ma senza successo. Rigore!!!
+}
+{
+L' arbitro mostra il cartellino giallo a [playerDef]!
+[playerDef] è ammonito. Cartellino giallo!
+Cartellino giallo! [playerDef] sembra non ci possa credere
+E' stata un'entrata troppo dura! Cartellino giallo per [playerDef]
+}
+{
+Ed il pallone va fuori campo
+Fuori dal campo!
+Il pallone andava fuori!
+}
+{
+[playerDef] sbatte a terra [playerAtt]!!
+E' stata un'azione molte imprudente di [playerDef]!!!
+[playerDef] avrebbe potuto seriamente fargli del male. L'arbitro dovrebbe intervenire!
+[playerDef] sembra frustrato, l'arbitro dovrebbe dire qualcosa!
+Cose da pazzi! [playerDef] non puo' fare entrate come questa!
+Violenta entrata di [playerDef]!
+}
+{
+[playerAtt] intercetta! [teamAtt] riguadagna il controllo del pallone!
+[playerAtt] prende il pallone! [teamAtt] ritornano in attacco!
+{[playerAtt] intercetta...
+[playerAtt] riesce a rubare il pallone
+}
+{
+[playerAtt] va dritto al gol...
+[playerAtt] cerca la porta
+[playerAtt] inganna il difensore e va dritto al tiro...
+[playerAtt] guarda il portiere...
+}
+{
+[playerCoop] passa avanti a [playerAtt]
+Passaggio lungo da [playerCoop] per [playerAtt]
+Buona palla da[playerCoop] per [playerAtt],  lascia la difesa spiazzata!
+I giocatori del [teamAtt] stanno palleggiando tra loro
+Passaggio corto a [playerAtt]
+Cross a [playerAtt]
+[playerAtt] riceve il pallone
+}
+{
+[playerCoop] ributta il pallone indietro a [playerAtt]
+[playerCoop] passa indietro a [playerAtt]
+[playerCoop] cade indietro con il pallone
+}
+{
+[playerAtt]  decide di dare il pallone direttamente al portiere.
+[playerAtt] tira la palla indietro al portiere. I tifosi 
+[playerAtt] passa il pallone al portiere
+}
+{
+[playerAtt] segue avanti da solo!
+[playerAtt] va da solo
+[playerAtt] si addentra nell'area
+[playerAtt] scatta solo col pallone!
+[playerAtt] va solo verso il gol!!!
+}
+{
+[playerAtt] centra la palla...!
+Il pallone è crossato con estrema preceisione!
+E' un gran cross in area, DEVONO segnare, sicuramente!
+La palla è lanciata nell'area
+[playerAtt] gioca la palla verso l'area...
+}
+{
+[playerAtt] salta e colpisce di testa il pallone…
+il pallone raggiunge [playerAtt]...
+il pallone cade tra i piedi di [playerAtt]. Lo stoppa e spara…
+[playerAtt] in volata verso il gol...
+[playerAtt] riceve e rigira verso la porta…
+}
+{
+[playerDef] ruba la palla!
+[playerDef] fa un entrata perfetta e spazza la palla al sicuro.
+[playerDef] intercetta e ruba il pallone
+}
+{
+[playerDef] ha due cartellini gialli. L' arbitro gli mostra il rosso.
+[playerDef]  ha gia un cartellino giallo, è stata un entrata stupida. SI, è il secondo cartellino ed è fuori!
+Secondo cartellino giallo per [playerDef]. L' arbitro gli mostra il cartellino rosso.
+}
+{
+[playerAtt] è stato ferito. Viene portato fuori dai fisioterapisti…
+[playerAtt] è a terra…non si muove…I fisioterapisti corrono sul campo. Finalmente si alza ed la folla applaude!
+sembra che [playerAtt] sia ferito…si, zoppica verso la panchina
+}
+{
+Il Presidente sta sorridendo dalle tribune.
+Tutti si congratulano con il Presidente. Sembra molto soddisfatto.
+[teamAtt]![teamAtt]![teamAtt]! Il pubblico infuria!!
+Il pubblico grida!!! Tutti accalamano!!! E' spettacolare!!!
+}
+{
+Il Presidente del [teamAtt] guarda con ostilitá l'allenatore.
+Il Presidente sembra essere stato sinceramente deluso dalla squadra.
+I tifosi del [teamAtt] fischiano I dirigenti!!!
+Il pubblico sembra scontento. Ai tifosi del [teamAtt] non è piaciuto cio' che hanno visto.
+Il pubblico sembra contrariato! [teamAtt] non si è comportato come ci si aspettava.
+}
+{
+Ci sono due palloni in campo. L' arbitro ferma il gioco mentre il raccatta palle recupera il pallone di troppo.
+Sembra ci siano degli scontri tra i tifosi  locali e gli opiti!!!
+Teppisti stanno tirando oggetti all' arbitro.
+}
+{
+La partita è stata immediatamente interrotta! C'è un tifoso pazzo che corre nudo in campo!...Gli agenti di sicurezza sono riusciti a detenerlo…Dopo alcuni minuti di ritardo la partita riprende.
+}
+{
+[teamAtt] rimette il gioco in marcia.
+La palla è di nuovo al centro campo. [teamAtt] batte.
+Il gioco ricomincia con  [teamAtt]
+}
+
+
+
+
+

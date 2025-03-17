@@ -1,0 +1,181 @@
+
+
+// -----------------------------------------------
+// Microjocs BIOS v5.0 Rev.6 (25.2.2005)
+// ===============================================
+// Logica
+// ------------------------------------
+
+
+//#ifdef PACKAGE
+package com.mygdx.mongojocs.clubfootball2006;
+//#endif
+
+
+//#ifdef J2ME
+//#elifdef DOJA
+//#endif
+
+import com.mygdx.mongojocs.midletemu.Command;
+import com.mygdx.mongojocs.midletemu.CommandListener;
+//import com.mygdx.mongojocs.midletemu.Thread;
+import com.mygdx.mongojocs.midletemu.Display;
+import com.mygdx.mongojocs.midletemu.Displayable;
+import com.mygdx.mongojocs.midletemu.Form;
+import com.mygdx.mongojocs.midletemu.MIDlet;
+import com.mygdx.mongojocs.midletemu.TextField;
+
+import java.io.InputStream;
+
+
+
+// ---------------------------------------------------------
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+// MIDlet - com.mygdx.mongojocs.sanfermines2006.Game
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+// ---------------------------------------------------------
+
+//#ifdef J2ME
+public class Game extends MIDlet
+	 //#ifndef NOEDITABLENAMES	
+	 implements CommandListener    // Clase Bios integrada en la com.mygdx.mongojocs.sanfermines2006.Game
+	 //#endif
+//#elifdef DOJA
+//#endif
+{
+GameCanvas gc;
+
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+// Contructor - Metodo que ARRANCA al ejecutar el MIDlet
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+public Game()                                                               // Clase Bios integrada en la com.mygdx.mongojocs.sanfermines2006.Game
+{
+	System.gc();	
+	gc = new GameCanvas(this);
+		
+//#ifdef J2ME
+	Display.getDisplay(this).setCurrent(gc);
+	new Thread(gc).start();
+//#endif
+}
+
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+// startApp - Al inicio y cada vez que se hizo pauseApp()
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//#ifdef J2ME
+
+public void startApp()
+{
+//#ifdef DebugConsole
+	Debug.println (" -+- startApp()");
+//#endif
+
+	Display.getDisplay(this).setCurrent(gc);
+	gc.gamePaused=false;
+}
+
+public void pauseApp()
+{
+//#ifdef DebugConsole
+	Debug.println (" -+- pauseApp()");
+//#endif
+
+	gc.gamePaused=true;
+}
+
+//#elifdef DOJA
+//#endif
+
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+// destroyApp - Para DESTRUIR el MIDlet
+// >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+public void destroyApp (boolean b)
+{
+	gc.savePrefs();
+	gc.gameExit = true;
+
+//#ifdef J2ME
+	notifyDestroyed();
+//#elifdef DOJA
+//#endif
+}
+// <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
+
+
+// *******************
+// -------------------
+// inputDialog - Engine
+// ===================
+// *******************
+
+//#ifndef NOEDITABLENAMES
+//#ifdef J2ME
+
+public static Form inputForm;
+public static TextField inputField;
+public static String inputDialogLabel;
+
+public void inputDialogCreate(String title, String subtitle, String lab, int numChars)
+{
+
+	inputDialogLabel = lab;
+	
+	Command doneCommand = new Command(lab, Command.OK, 1);
+		
+	inputForm = new Form(title);
+	inputField = new TextField(subtitle, "",numChars,TextField.ANY);
+	inputField.setMaxSize(numChars);
+	inputForm.append(inputField);   
+	inputForm.addCommand(doneCommand);
+	inputForm.setCommandListener(this);
+		
+}
+
+public void inputDialogInit()
+{
+	Display.getDisplay(this).setCurrent(inputForm);		
+}
+
+public void commandAction (Command c, Displayable d)
+{
+	if(c.getLabel()==inputDialogLabel)
+	{								
+		Display.getDisplay(this).setCurrent(gc);	
+		inputDialogNotify(inputField.getString());
+	}  	 	
+}
+
+public void inputDialogNotify(String s)
+{
+	gc.customPlayerNames[gc.editingPlayer] = s;
+	gc.setGameStatus(gc.GAME_MENU_EDIT_CUSTOM);
+}
+
+//#elifdef DOJA
+//#endif
+//#endif
+
+
+
+
+
+// ------------------------------------------------------------------------------------------------------------------------
+// **************************************************************************//
+// Final Clase com.mygdx.mongojocs.sanfermines2006.Game
+// **************************************************************************//
+};

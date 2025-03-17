@@ -1,0 +1,133 @@
+Empezar carrera
+Continuar carrera
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Abandonar carrera
+Salir del juego
+Cargando
+{
+Instrucciones
+
+¡Súbete a tu moto y compite contra todo el mundo! Imita a tus ídolos del motociclismo en los circuitos reales del campeonato y demuestra quien es el número uno.
+
+Empieza por darle gas usando la tecla 2 o el pad arriba. ¡Pero vigila con las curvas! Cuando llegues a una, usa la tecla 4 o el pad izquierdo para girar a la izquierda y la tecla 6 o el pad derecha para girar a la derecha. Acuérdate de usar las técnicas de los campeones y frena un poco antes de tomar la curva con la tecla 8 o el pad abajo. También puedes girar a la derecha con el 3 y el 9 y a la izquierda con el 1 y el 7, pero usar estas teclas tiene su precio. El 1 y el 3 te hacen perder menos velocidad y el 7 y el 9 te daran mayor control.
+
+Si tomas una curva demasiado rápido o intentas girar demasiado terminarás cayéndote de la moto, lo que te costará unos segundos muy valiosos. En cambio, si usas con habilidad el poder azul podrás conseguir velocidad extra. Para ello, pasa por encima de las flechas que encontrarás por el circuito.
+
+Cuando tengas tu récord, súbelo al servidor y compara tu marca con la de tus rivales. Para moverte por los menús usa el pad o las teclas 2, 4, 6 y 8. La tecla 5 y la tecla de menú derecha aceptan la opción destacada y la tecla de menú izquierda vuelve atrás. Si quieres darte un respiro durante una carrera puedes usar la tecla de menú izquierda para hacer una pausa.
+
+Recuerda: llegar a la meta puede parecer fácil, pero sólo uno puede ser el más rápido del campeonato. ¡Buena suerte! Nos vemos en el podio.
+
+Encontrarás más ayuda en el site de dónde te bajaste el juego.
+}
+{
+movistar Racing 2
+Versión 1.4
+
+Jefes de Proyecto:
+Elías Lozano
+Manel Sort
+
+Programación:
+Raimon Ràfols
+Pau Vivancos
+Juan Antonio Gómez
+
+Adaptación DOJA:
+Victor Zurriaga
+Oscar Zurriaga
+Albert Lladó
+
+Gráficos:
+Elías Lozano
+Raúl Durán
+
+Sonido:
+Jordi Gutiérrez
+
+Jefe Control de Calidad:
+Itthi Yossundara
+
+Control de calidad:
+Alfredo Ferrer
+Xavi Espejo
+Joaquín Hurtado
+Josep Ruiz
+Arnau Castellví
+Juan Mollá
+Eduardo Berti
+Jordi Balfegó
+Albert Sans
+Mario Ruz
+
+Productor Ejecutivo:
+Gerard Fernádez
+
+Agradecimientos:
+Carlos Peris
+Javier Vegas
+
+En movistar:
+
+Equipo Juegos: 
+Alicia Gimeno
+Almudena Movilla
+Paula Ballester
+Juan Olivares
+
+Área técnica:
+Domicio Martin
+Eva Martínez
+
+Publicidad y Eventos:
+Carlos Lianes
+Javier Dávila
+David Gonzalez-Aller 
+
+Desarrolla:
+Microjocs Mobile
+2005
+}
+Nivel
+Enhorabuena
+{ |Menú|Aceptar|Atrás|Continuar|Cancelar}
+Clasificación
+Puntuaciones
+Boxes
+Circuitos
+Más circuitos
+Oponente
+Oponentes
+Contra tu marca
+Descargar oponente
+No hay oponentes
+Siguiente página
+Descargando perfil
+Descargando
+Actualizando
+¿Estás seguro de salir?
+Error de red
+¿Quieres conectar a la red?
+Imposible almacenar este archivo.
+No queda espacio para almacenar este archivo. ¿Quieres borrar esta pista: 
+¡Error guardando archivo!
+Has superado tu anterior marca ¿Quieres actualizarla en el servidor?
+¿Abandonar carrera?
+Tu marca:
+La victoria es azul: has vencido a tu oponente
+No has superado a tu oponente
+Te has superado a ti mismo, somos azules
+No has superado tu marca
+Mejor vuelta
+Nueva
+Anterior
+Jugador
+Guardando
+Pulsa * para cambiar
+de vista. ¡Pruébalo!
+Pulsa 7 y 9 para
+girar frenando.

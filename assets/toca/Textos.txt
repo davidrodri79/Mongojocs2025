@@ -1,0 +1,205 @@
+Play
+Continue
+{Sound OFF|Sound ON}
+{Vibration OFF|Vibration ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Game Over
+Help
+About...
+End Game
+Quit
+Loading
+{
+Help
+
+Left softkey:
+Go to menu
+
+Right softkey:
+Accept option
+
+Key 4 and left pad:
+Turn left
+
+Key 6 and right pad:
+Turn right
+
+Key 2 and up pad:
+Accelerate
+
+Key 8 and down pad:
+Brake
+
+Key 5:
+Accept
+
+}
+{
+TOCA Race Driver 2
+
+© 2004 The Codemasters Software Company Limited ("Codemasters"). All rights reserved. "Codemasters"® and the Codemasters logo are registered trademarks owned by Codemasters.  "Race Driver"(tm) 2, "Ultimate Racing Simulator"(tm) and "GENIUS AT PLAY"(tm) are trademarks of Codemasters. All other copyrights or trademarks are the property of their respective owners and are being used by Codemasters under license.
+
+TOCA Race Driver
+
+Published by: JAMDAT Mobile Inc
+© JAMDAT Mobile Inc. 2004. All Rights Reserved.
+
+JAMDAT, JAMDAT Mobile and the bubbles logo are registered trademarks of JAMDAT Mobile Inc.
+
+Managing Director
+Juan Montes
+
+Director of Product Management
+Kenny Mathers
+
+QA Tester
+David Brown
+
+Developed by:
+Microjocs Mobile
+2004
+
+Producer
+Itthi Yossundara
+
+Engine Programmer
+Pau Vivancos
+
+Programmer
+Raimon Ràfols
+
+Art Director
+Elías Lozano
+
+Graphics Designers
+Raúl Durán
+Elías Lozano
+
+Testers
+Alfredo Ferrer
+Xavi Espejo
+Joaquim Hurtado
+Josep Ruiz
+Abel Andreu
+Antoni González
+Arnau Castellví
+Juan Mollà
+Eduardo Berti
+Jordi Balfegó
+
+Codemasters Software Company
+
+Producer
+Simon Humphreys
+
+Business Development Manager
+Matt Davies
+
+Legal
+Nav Sunner
+
+Licensing
+Toby Heap
+
+Credits
+
+Frauke Meyer
+Jörg Pfahl
+WM GmbH
+The Board Members of the ITR e.V
+The DTM Championship and all of the teams, drivers, car manufacturers, circuits and sponsors associated with the series.
+
+
+
+Thanks to (all versions):
+Koenig Specials
+Nissan Motor Company Limited
+
+AA Racing (Pty) Ltd
+Donington Park
+Ring Management, Rennstrecken Betriebs-GmbH
+International Management Group of America Pty Limited
+Oulton Park
+Road America
+Motor Events Sweden AB
+Nurburgring GmbH
+
+Brembo S.p.A
+Superchips Inc
+OMP Racing
+EPTG Limited
+Koni BV
+Federal Mogul
+Collins Performance Engineering
+Hella
+Sparco S.p.A
+K & N Engineering, Inc
+DPRS
+MOOG
+Champion
+Nudge Mobile
+Bridgestone
+Compomotive
+Ferodo
+Micro Dynamics/Lumenition
+Mongoose
+Powerflex
+Pipercross
+Powerchip
+SPA
+Pace
+}
+Time Attack
+Remote Best
+1 Player
+2 Players
+3 Players
+4 Players
+A1-Ring
+Hello 0. You've gotten an opportunity to race. If you want to join the elite of this business, you'd better win the race. If you don't, there is only oblivion for you...
+Catalunya
+You did well 0. Thanks to your last victory, the spotlight is now on you. You need to win more races to be among the best. Let's go! Failure is not an option.
+Nurburgring
+0, if you win this race, you'll earn the respect from the best racers of this category including mine. From now on, you'll race against the best, and I'll upgrade the parts of your car, only if you win, of course.
+Kyalami
+This is getting serious, 0. You'll be racing against real racers this time, none of those wimps with helmets from the last three races. These new tires are top-notch, kid. You can't lose with them.
+Road America
+0, you've made a name for yourself in the hall of fame of this competition. Now you gotta keep it up. Today you'll have a new shock absorber system, so get out there and kick those pretentious drivers' butts or I'll be the one kicking your butt.
+Manthorp Park
+Thanks to your results, I've got you a place in the race of the year. It's the most prestigious race in the circuit, and the winner is considered the best driver of the year. With the money we made so far, I got you a new engine that will send you flying on the track. Go and get them, kid. Don't try, just do it.
+Very good. See you in next race.
+You almost did it, kid. You need more guts.
+You're the worst kiddo. You don't deserve to race in this category.
+Go home and play with your toy cars, kid.
+not used
+not used
+Julil Amandi
+Viktor Endersen
+Mikhail Vorrk
+Sigmund Olag
+Ermano Tocce
+Klaus Lubritz
+Oshi Jaang
+Harold Nedeska
+Luis Odrades
+Juan Ermendiburu
+Lawrenz Kutchs
+Continue
+Upload Score
+Main Menu
+Exit
+Play Again
+Delete Data
+Raymond Neebs
+Enter your name
+Nissan Skyline
+Koening C62
+not used
+TOCA Race Driver 2_ _© 2004 The Codemasters Software Company Limited. All rights reserved. "Codemasters"®, "GENIUS AT PLAY"(tm), "Race Driver"(tm) 2 and "Ultimate Racing Simulator"(tm) are trademarks of Codemasters.
+Select your car
+Are you sure you want to Exit?
+Yes
+No
+Speed Series
+World GT Series
+You are the Champion!

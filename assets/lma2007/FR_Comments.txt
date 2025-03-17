@@ -1,0 +1,229 @@
+{
+Les deux équipes sont prêtes pour le coup d'envoi de ce match important.
+Les joueurs sont sur le terrain et prêts pour le coup d'envoi.
+Les supporters chantent, l'atmosphère est électrique!
+Tout le monde est un peu nerveux concernant le match d'aujourd'hui.
+}
+{
+Coup d'envoi donné par [teamAtt]
+Et c'est [teamAtt] qui donne le coup d'envoi
+[teamAtt] lance le match
+}
+{
+C'est la fin de la première mi-temps
+Le jeu arrive à la mi-temps
+L'arbitre donne un coup de sifflet et et met fin à la première mi-temps
+}
+{
+Ça y est. Le match est terminé.
+L'arbitre siffle la fin du match.
+Et c'est terminé. L'arbitre siffle la fin du match.
+}
+{
+Le gardien de but de [playerAtt] Les joueurs de [teamAtt] ont le contrôle de la balle
+Le ballon sort du terrain et [playerAtt] se prépare pour le gardien de but
+[playerAtt] joue le ballon au milieu du terrain
+}
+{
+Coup franc pour [teamAtt]
+[teamAtt] va tenter de tirer avantage de ce coup franc
+[playerAtt] se prépare pour tirer le coup franc
+}
+{
+[playerAtt] prend le ballon pour faire la touche
+Touche! [teamAtt] sont à l'attaque
+Ce joueur est un spécialiste des longues remises en jeu - la défense devra être forte sur ce coup.
+Touche pour [teamAtt]
+}
+{
+[playerAtt] se prépare à tirer le corner
+[playerAtt] place le ballon. Il adresse un centre bien travaillé
+[teamAtt] sont dangereux sur les corners. [teamDef] doit être nerveux.
+[teamDef] Concède rarement des buts sur corner, les supporters auront confiance en la défense sur ce point. 
+Corner pour [teamAtt], la balle est vite mise en jeu.
+}
+{
+et il marque!!! Un tir terrible de [playerAtt]!!! BUT!!!
+Incroyable!!! [playerAtt] s''ouvre le chemin du but et marque!!!! BUT!!!
+... Et il est dedans!!! Quel beau tir de [playerAtt]. BUT!!!
+Regardez-moi ça! Un but extraordinaire de [playerAtt]!!!
+... Et c'est un but!!! [teamAtt] marque!
+BUT!!! Magnifique!!! [playerAtt] a presque déchiré le fond du filet avec ce tir!!! 
+C'était un but à une vitesse vertigineuse!!! [playerAtt] a de la foudre dans les pieds!!!
+Une tête foudroyante de [playerAtt]. Le gardien n'a eu aucune chance!!
+Quel but!!! Un brillant jeu de jambes de [playerAtt]!!!
+BUT!!! Un tir fulgurant!!! [playerAtt] semble plus surpris que n'importe qui, mais il vient de marquer!!!! 
+}
+{
+La foule devient folle après cet incroyable but du buteur de [teamAtt]
+Les supporters de [teamAtt] deviennent fous, ils scandent le nom de leur buteur. 
+La foule applaudit [teamAtt]. Les supporters aiment ce dernier but.
+}
+{
+... Mais le gardien sauve.
+Le gardien réussit un stupéfiant sauvetage. Comment a-t-il sorti ce ballon ?
+Le ballon est bien placé sur le corner, mais le gardien plonge rapidement pour le mettre dehors!!
+... Le gardien repousse le ballon vers le poteau.
+... Le gardien boxe le ballon!
+[playerDef] envoie le ballon dehors!
+}
+{
+... Le ballon heurte le poteau!
+Sur le poteau! [playerAtt] n'en croit pas ses yeux!
+...et il frappe le poteau! Incroyable!
+Et il frappe la barre transversale!!
+}
+{
+... Le tir va droit dans les mains du gardien.
+... Et le ballon finit sa course dans les mains du gardien!
+... Le gardien prend facilement le ballon.
+Remarquable! Le gardien a stoppé le ballon juste sur la ligne!
+... Impressionnante performance du gardien! Un grand sauvetage!!
+}
+{
+... Le ballon est sorti!!!
+... Et le ballon finit sa course hors du terrain
+Personne ne peut contrôler le ballon et il sort du terrain.
+}
+{
+[playerAtt] Est prêt pour le penalty!!
+[playerAtt] place le ballon sur le point de penalty et il prend son élan....
+}
+{
+L'arbitre indique de jouer sur... 
+L'arbitre laisse faire.
+C'était un tacle avec un mauvais timing, ils auraient pu lui casser la jambe. L'arbitre doit prendre le contrôle de ce match!
+C'était une faute incontestable, mais l'arbitre ne prend aucune mesure...
+}
+{
+[playerDef] ne peut pas avoir le ballon, c'est un corner
+Le ballon sort. C'est un corner pour [playerAtt].
+[playerDef] repousse le ballon mais il ne peut éviter le corner.
+}
+{
+[playerDef] commet une faute dans la surface!
+Ça DOIT être un penalty, c'est sûr! [playerDef] était  
+C'était un tacle vicieux de [playerDef] dans la surface...
+}
+{
+Et l'arbitre siffle un penalty pour [playerAtt]!!!!
+Penalty!! [teamAtt] a une bonne opportunité de marquer.
+L'arbitre siffle un penalty en dépit des arguments de [playerDef]
+Plusieurs joueurs protestent auprès de l'arbitre, mais sans résultat. Penalty!!! 
+}
+{
+L'arbitre donne un carton jaune à [playerDef] 
+[playerDef] profère une insulte. Carton jaune!
+Un carton jaune! [playerDef] semble ne pas y croire.
+C'était trop brutal! [playerDef] prend un carton jaune.
+}
+{
+Et le ballon sort du terrain!
+Hors des limites du terrain
+Le ballon sort dehors!
+}
+{
+[playerDef] fauche [playerAtt]!!
+C'était un geste irréfléchi de la part de [playerDef]
+[playerDef] aurait pu le blesser gravement sur cette action. L'arbitre devrait agir! 
+[playerDef] est frustré, l'arbitre devrait se manifester!
+C'était fou! [playerDef] ne peut pas faire des tacles comme ça!
+Violent tacle de [playerDef]!!!
+}
+{
+[playerAtt] intercepte! [teamAtt] reprend le contrôle du ballon.
+[playerAtt] Prend le ballon!! [teamAtt] repart à l'attaque!
+[playerAtt] intercepte...
+[playerAtt] se débrouille pour voler le ballon 
+}
+{
+[playerAtt] va droit au but....
+[playerAtt] essaye d'aller au but
+[playerAtt] se joue du défenseur et arme un tir...
+[playerAtt] regarde le gardien de but
+}
+{
+[playerCoop] passe en avant à [playerAtt]
+Passe en profondeur de [playerCoop] à [playerAtt]
+Un grand ballon de [playerCoop] à [playerAtt], il met la défense hors de position
+Les joueurs de [teamAtt] font circuler le ballon entre eux - Du grand jeu!
+Passe courte à [playerAtt]
+Passe transversale vers [playerAtt]
+[playerAtt] reçoit le ballon
+}
+{
+[playerCoop] frappe le ballon vers l'arrièret à [playerAtt]
+[playerCoop] passe en retrait à [playerAtt]
+[playerCoop] recule avec le ballon
+}
+{
+[playerCoop] décide d'envoyer le ballon directement au gardien
+[playerCoop] Joue le ballon en retrait vers le gardien. Les supporters le huent - ils veulent voir du football positif
+[playerCoop] passe le ballon au gardien
+}
+{
+[playerAtt] part tout seul à l'attaque!!!
+[playerAtt] y va seul 
+[playerAtt] commence une course flamboyante vers la surface.
+[playerAtt] se rue à l'attaque avec le ballon!!!
+[playerAtt] part seul au but!!!
+}
+{
+[playerAtt] centre le ballon...!
+Le ballon est centré avec une grande précision!
+C'est un grand centre dans la surface, ils DOIVENT marquer, sûrement! 
+Le ballon est frappé dans la surface...
+[playerAtt] joue le ballon vers la surface...
+}
+{
+[playerAtt] bondit et fait une tête...
+le ballon arrive à [playerAtt]
+le ballon est amorti par le pied de [playerAtt] Il le descend et tire ... 
+[playerAtt] le reprend de volée en direction du but... 
+[playerAtt] reçoit et pivote vers le but....
+}
+{
+[playerDef] subtilise le ballon!!!
+[playerDef] Exécute son tacle parfaitement et lance le ballon loin en toute sécurité
+[playerDef] Intercepte et subtilise le ballon
+}
+{
+[playerDef] A deux cartons jaunes. L'arbitre lui montre le carton rouge.
+[playerDef] Avait déjà un carton jaune, c'était une faute stupide. Oui, c'est un second carton jaune, et il est expulsé!!
+Second carton jaune pour [playerDef]! L'arbitre lui montre le carton rouge.
+}
+{
+[playerAtt] a été blessé! Il est transporté hors du terrain par les soigneurs.... 
+[playerAtt] est  sorti.. Il ne bouge pas... Le soigneur entre sur le terrain en courant. Finalement, il se relève et la foule applaudit!
+Il semble que [playerAtt] est blessé... Et oui, il se dirige vers le banc en boîtant
+}
+{
+Le président sourit sur son siège.
+Tout le monde félicite le président. Il a l'air content.
+[teamAtt]! [teamAtt]! [teamAtt]! La foule est devenue folle!!!!
+La foule est folle!!! Tout le monde applaudit!!! C'est spectaculaire!!!
+}
+{
+Le président de [teamAtt], regarde l'entraîneur sans cacher son mécontement. 
+Le président semble profondément déçu par l'équipe.
+Les supporters de [teamLose] huent le directeur!!!
+La foule a l'air malheureuse. Les supporters de [teamAtt] n'aiment pas ce qu'ils voient.
+La foule a l'air déçue. L'équipe de [teamAtt] ne joue pas comme elle l'espérait.
+}
+{
+Il y a deux ballons sur le terrain. L'arbitre arrête le jeu tandis que le ramasseur de balles retire le ballon en trop.
+Apparemment, il y a une bagarre entre les supporters des deux équipes
+Les hooligans ont lancé des objets sur l'arbitre.
+}
+{
+Le match a été soudainement interrompu ! Il y a un supporter fou qui court complètement nu sur le terrain! Le service de sécurité a fait en sorte de le maîtriser... Après plusieurs minutes d'arrêt, le match reprend.  
+}
+{
+[teamAtt] domine à nouveau le match.
+Le ballon est remis au centre. [teamAtt] donne le coup d'envoi.
+Le jeu reprend avec [teamAtt].
+}
+
+
+
+

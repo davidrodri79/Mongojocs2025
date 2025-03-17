@@ -1,0 +1,91 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Ayuda
+Acerca de...
+Reiniciar partida
+Salir
+Cargando...
+{
+Ayuda
+
+Debes llegar el primero a la meta y superar las marcas anteriores en cada circuito.
+
+Tecla de Control Izquierdo:
+- Ir al Menú
+
+Tecla de Control Derecha:
+- Seleccionar Opción
+
+Tecla 1:
+- Mover Izquierda y acelerar
+
+Teclas 2 y Desp. Arriba:
+- Acelerar
+
+Tecla 3:
+- Mover Derecha y acelerar
+
+Teclas 4 y Desp. Izquierda:
+- Mover Izquierda
+
+Tecla 5:
+- Seleccionar Opción
+
+Teclas 6 y Desp. Derecha:
+- Mover Derecha
+
+Tecla 7:
+- Mover Izquierda y frenar
+
+Teclas 8 y Desp. Abajo:
+- Frenar
+
+Tecla 9:
+- Mover Derecha y frenar
+}
+{
+Acerca de...
+
+Water Race 1.0.6
+
+Programación:
+Pedro Díaz
+
+Gráficos:
+Elías Lozano
+
+Sonido:
+Elías Lozano
+
+Agradecimientos a:
+Juan Antonio Gómez
+
+Desarrollado por:
+Microjocs
+2004
+}
+Seleccionar circuito
+Ver tiempos
+Volver a menú
+Pulsa una tecla para menú...
+¡Te has caido!
+¡Meta!
+¡Fin del tiempo!
+¡Enhorabuena! ¡Has ganado!
+Lo siento, no has llegado el primero
+Pulsa una tecla para reiniciar el circuito actual
+Pulsa una tecla para continuar con el siguiente circuito
+Nuevo record. Pulsa una tecla para introducir tu nombre
+Nombre
+Introducir nuevo nombre
+Aceptar nombre actual
+Jugador
+CPU
+Aceptar
+{Playa (Dificultad Baja)|Rio (Dificultad Media)|Canal (Dificultad Alta)}
+{Circuito 1|Circuito 2|Circuito 3|Circuito 4|Circuito 5};
+

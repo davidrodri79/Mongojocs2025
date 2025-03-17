@@ -1,0 +1,30 @@
+Matchbericht:
+{
+Null - alles draw zwischen [team0] und [team1].
+Match mit vielen Vorfällen zwischen [team0] und [team1].
+Tore in Hülle und Fülle im Match zwischen [team0] und [team1].
+}
+{
+Die zwei Mannschaften hatten sehr unterschiedliche Ansichten über dieses Match.
+Das Match begann mit keinem klaren Favoriten.
+}
+{
+[team] kam von hinten und siegte.
+[team] hat bei weitem gewonnen.
+[team] hat die Führung übernommen und gehalten.
+[team] hat die Führung übernommen, aber das Match endete unentschieden.
+}
+{
+Das Tor von [playerName] mit  [result] an der Tafel war sehr schön.
+Ein eindrucksvoller Kopfstoss von aus dem Eck.
+Superbes Tor von außen, in der Vorderecke.
+Ein-zu-ein mit dem Spieler, und er lässt den Ball zwischen seinen Beinen durchschlüpfen.
+Ein unbremsbarer Überkopfstoss.
+}
+{
+[team] Die Spieler scheinen nicht fit zu sein.
+[team] müssen besser werden, um schlimme Zeiten in dieser Saison zu vermeiden.
+Die Taktiken von [team] haben in diesem Match nichts gebracht.
+}
+
+

@@ -1,0 +1,229 @@
+{
+Beide Mannschaften sind bereit, dieses wichtige Match zu beginnen.
+Die Spieler sind am Feld und bereit, zu kicken.
+Die lokale Zuschauer schreien, die Stimmung ist geladen!
+Alle sind etwas nervös wegen des heutigen Spiels.
+}
+{
+Stoss von [teamAtt]
+Und das [teamAtt] kickt zuerst
+[teamAtt] bringt das Spielen auf Hochtouren
+}
+{
+Ende der ersten Halbzeit
+Das Spiel hat die Halbzeit erreicht
+Der Schiedsrichter pfeift und zeigt damit die Halbzeit an
+}
+{
+das war es. Das Spiel ist zu Ende
+Der Schiedsrichter zeigt das Ende des Spiels an
+Und es ist vorbei! Der Schiedsrichter zeigt das Ende an.
+}
+{
+Anstoß von [playerAtt], [teamAtt] haben den Ball unter Kontrolle
+Der Ball geht aus dem Platz und [playerAtt] macht sich zum Anstoß bereit 
+[playerAtt] spielt den Ball ins Mittelfeld
+}
+{
+Freistoss für [teamAtt]
+[teamAtt] wird versuchen, einen Vorteil aus diesem Freistoss zu gewinnen
+[playerAtt] macht sich für den Freistoss bereit
+}
+{
+[playerAtt] bekommt den Ball für den Torschuss
+Schieß! [teamAtt] ist in der Verteidigung
+Dieser Kerl ist ein Langschussspezialist - die Verteidigung wird hier stark sein müssen.
+Schieß hinein [teamAtt]
+}
+{
+[playerAtt] macht sich bereit für den Eckball
+[playerAtt] schießt den Ball. Er macht einen Einschwinger.
+[teamAtt] ist gefährlich bei Eckbällen [teamDef] muss nervös sein.
+[teamDef] trifft selten aus der Ecke, die Fans werden sich hier auf die Verteidigung verlassen.
+Eckball für [teamAtt], der Ball kommt schnell ins Spiel
+}
+{
+... und er trifft!!! Toller Schuss von [playerAtt]!!! TOOOOOR!!!
+Unglaublich !! [playerAtt] bringt den Ball in die richtige Richtung und trifft!!! TOOOOOR!!!
+...und  drinnen ist er! Was für ein toller Schuss von [playerAtt]. TOOOOOR!!!
+Schau her. Ein überraschendes Tor von [playerAtt]!!
+...und es ist ein Torschuss! [teamAtt] trifft!
+TOOOOOR!!! Erstaunlich! [playerAtt] hat mit diesem Stoss fast durch das Netz geschossen!!
+Das war ein "knappes Tor" Tor!! [playerAtt] schießt!!
+Ein Kopfball von [playerAtt]. Der Torwart hat keine Chance gehabt!
+Welch ein Tor!! Brilliante Fußkunst von [playerAtt]!!!
+TOOOOOR!!! Erstaunlicher Stoss! [playerAtt] sieht erstaunt drein, wie alle, aber er hat gerade getroffen!
+}
+{
+Die Zuschauer werden wild nach dem unglaublichen Tor von dem [teamAtt] Stürmer.
+Die [teamAtt] Fans werden verrückt, Sie singen den Namen des Stürmers.
+Die Jubeln für [teamAtt]. Dieses letzte Tor hat sie begeistert.
+}
+{
+...der Spieler wehrt ab.
+Der Spieler wehrt erstaunlich gut ab. Wie ist er zum Ball gekommen?
+Der Ball ist genau  right in der Ecke, aber der Spieler duckt sich schnell, um ihn herauszuholen!
+...der Spieler stößt den Ball um den Torposten.
+...er spielt den Ball weg!
+[playerDef] schießt den Ball weg
+}
+{
+...der Ball kommt vom Posten zurück!
+Weg vom Posten! [playerAtt] glaubt es kaum!
+...und er stößt gegen den Posten. Unglaublich!
+Und er schlägt gegen die Querlatte!!
+}
+{
+...der Stoss geht genau gegen die Hände des Torwarts.
+...und der Ball endet in den Händen des Torwarts!
+...der Torwart fängt den Ball ganz leicht.
+Außerordentlich Der Torwart hat den Ball direkt auf die Linie gebracht!
+...Tolle Leistung vom Torwart! Gut abgefangen!!
+}
+{
+...der Ball geht ins Out!!
+...und der Ball landet außerhalb der Linie
+Niemand kann den Ball kontrollieren, wenn er das Feld verlässt
+}
+{
+[playerAtt] macht sich bereit für den Strafschuss!!
+[playerAtt] bringt den Ball an die Stelle, nimmt Anlauf...
+}
+{
+Der Schiedsrichter GIBT Zeichen zum Weiterspielen...
+Der Schiedsrichter lässt es gehen.
+das war ein schlecht getimter Schuss. Er hätte sein Bein brechen können. Der Schiedsrichter sollte dieses Match unter Kontrolle bringen!
+das war ein klares Foul, aber der Schiedsrichter unternimmt nichts...
+}
+{
+[playerDef] kann den Ball nicht kriegen, es ist ein Eckball
+Der Ball geht hinaus. Es ist ein Eckball für [teamAtt]
+[playerDef] schießt den Ball weg, kann aber den Eckball nicht vermeiden
+}
+{
+[playerDef] begeht einen Fehler im Feld!
+Das MUSS ein Strafstoss sein, sicher! [playerDef] war nicht in der Nähe des Balls!
+Das war ein unfairer Angriff von [playerDef] im Feld...
+}
+{
+Und der Schiedsrichter gibt Zeichen für einen Strafstoss für [teamAtt]!!!
+Strafstoss!! [teamAtt] bekommt Gelegenheit, ein Tor zu schießen
+Der Schiedsrichter zeigt einen Strafstoss an, trotz der Argumente von [playerDef]
+Einige Spieler beklagen sich beim Schiedsrichter, aber es ist zwecklos. Strafstoss!!!
+}
+{
+Der Schiedsrichter zeigt die gelbe Karte für [playerDef]!
+[playerDef] wird bestraft. Gelbe Karte!
+Eine gelbe Karte! [playerDef] sieht aus, als würde er es nicht glauben
+das war zu wild! [playerDef] bekommt eine gelbe Karte
+}
+{
+Und der Ball geht aus dem Spielfeld!
+Out!
+Der Ball ist draußen!
+}
+{
+[playerDef] überfährt [playerAtt]!!
+Das war eine Herausforderung von [playerDef]!!!
+[playerDef] häte ihn ernsthaft verletzen können. Der Schiedsrichter sollte etwas unternehmen!
+[playerDef] ist frustriert. Der Schiedsrichter sollte etwas sagen!
+Das war verrückt! [playerDef] kann solche Angriffe nicht machen!
+Heftiger Angriff von [playerDef]!!!
+}
+{
+[playerAtt] fängt ab! [teamAtt] gewinnt die Kontrolle über den Ball!
+[playerAtt] kriegt den Ball! [teamAtt] sind wieder am Angreifen!
+[playerAtt] fängt ab...
+[playerAtt] schafft es, den Ball zu kriegen
+}
+{
+[playerAtt] schießt direkt zum Tor ...
+[playerAtt] macht einen Angriff auf das Tor
+[playerAtt] umgeht den Verteidiger und macht sich zum Stoss bereit…
+[playerAtt] schaut auf den Torspieler...
+}
+{
+[playerCoop] gibt den Ball an [playerAtt]
+Tiefe Weitergabe von [playerCoop] an [playerAtt]
+Ein toller Ball von [playerCoop] an [playerAtt], er hat die Verteidigung gebrochen!
+Die [teamAtt] Spieler stoßen einander gegenseitig den Ball zu – schönes Spiel!
+Kurzer Stoß an [playerAtt]
+Gekreuzter Stoß zu [playerAtt]
+[playerAtt] kriegt den Ball
+}
+{
+[playerCoop] stößt den Ball zurück zu [playerAtt]
+[playerCoop] gibt den all zurück an [playerAtt]
+[playerCoop] geht mit dem Ball zurück
+}
+{
+[playerAtt] entscheidet, den Ball direkt an den Torwart weiterzugeben.
+[playerAtt] spielt den Ball zurück zu seinem Spieler. Die Fans kreischen – sie wollen guten Fußball sehen!
+[playerAtt] spielt den Ball zum Torwart
+}
+{
+[playerAtt] geht allein nach vorne!!!
+[playerAtt] macht es allein
+[playerAtt] rennt auf das Tor zu.
+[playerAtt] startet mit dem Ball nach vorne! 
+[playerAtt] will allein ein Tor schießen!!!
+}
+{
+[playerAtt] zentriert den Ball...!
+Der Ball wird ganz genau gekreuzt!
+Das ist ein hervorragender Kreuzstoß, sie MÜSSEN treffen, sicher!
+Der Ball wird ins Tor geschossen...
+[playerAtt] spielt den Ball auf das Tor zu...
+}
+{
+[playerAtt] springt und gibt mit dem Kopf weiter...
+der Ball erreicht [playerAtt]...
+der Ball fällt [playerAtt] auf den Fuß. Er lässt ihn fallen und schießt …
+[playerAtt] spielt ihn zum Tor…
+[playerAtt] nimmt und wendet sich zum Tor...
+}
+{
+¡[playerDef] stiehlt den Ball!
+[playerDef] timet seinen Angriff perfekt und stößt den Ball weg, zur Sicherheit.
+[playerDef] fängt den Ball ab und stiehlt ihn
+}
+{
+[playerDef] hat zwei gelbe Karten. Der Schiedsrichter zeigt ihm die rote.
+[playerDef] hatte bereits eine gelbe Karte, das war ein dummer Angriff. Ja, es ist wieder eine gelbe, und er ist draußen! 
+Second yellow for [playerDef]! Der Schiedsrichter zeigt ihm die rote Karte.
+}
+{
+[playerAtt] ist verletzt worden! Er wird von den Physiotherapeuten ...
+[playerAtt] ist ganz fertig…er bewegt sich nicht ... der Physiotherapeut rennt auf das Feld. Schliesslich setzt er sich auf und die Jubeln!
+Sieht so aus, als wäre [playerAtt] verletzt wäre... und tatsächlich, er hinkt zur Bank
+}
+{
+Der Präsident lächelt an seinem Platz.
+Alle gratulieren dem Präsidenten. Er sieht wirklich zufrieden aus.
+[teamAtt]![teamAtt]![teamAtt]! Die Zuschauer werden wild!!!
+Die Zuschauer heulen!!! Alle jubeln!!! Das ist spektakulär!!!
+}
+{
+Der Präsident von [teamAtt] schaut den Trainer böse an.
+Der Präsident sieht so aus, als wäre er von seiner Mannschaft richtig im Stich gelassen worden.
+Die [teamAtt] Fans pfeifen den Manager aus!!!
+Die Zuschauer klingen unglücklich. Die [teamAtt] Fans mögen gar nicht, was sie sehen.
+Die Zuschauer klingen enttäuscht! [teamAtt] haben nicht den erwarteten Erfolg.
+}
+{
+Es gibt zwei Fälle am Feld. Der Schiedsrichter hält das Spiel an, während der Balljunge den überschüssigen Ball aufhebt.
+Scheinbar gibt es Streit zwischen den lokalen und den auswärtigen Fans!!!
+Hooligans werfen verschiedene Gegenstände auf den Schiedsrichter.
+}
+{
+Das Spiel wurde plötzlich unterbrochen! Ein verrückter Fan rennt nackt über das Feld! .... Die Sicherheitsleute schaffen es, ihn anzuhalten..... Nach einigen Minuten Verspätung wird das Spiel wieder aufgenommen.
+}
+{
+[teamAtt] bringt das Spiel wieder in Schwung.
+Der Ball ist wieder im Mittelpunkt. [teamAtt] stößt ihn weg.
+Das Spiel beginnt wieder mit [teamAtt]
+}
+
+
+
+

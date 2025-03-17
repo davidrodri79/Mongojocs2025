@@ -1,0 +1,7 @@
+{PREPARANDOSI|Quale club?|Per una sfida moderata scegli un club con basse apettative| }
+{TATTICHE|Puoi salvare 5 tattiche differenti, accessibili dallo schermo Tattiche di Squadra|Adatta le tue tattiche alle capacitá del giocatore| }
+{AREA TECHNICA|Non puoi segnare?|Gioca con piu' giocatori avanti, 4-2-4, 3-4-3 e stabilisci uno stile di attacco|Compra cantrocampisti offensivi e un tiratore decente| }
+{ORGANICO/TRSFERIMENTI|Negoziazioni|Non iniziare troppo alto, puoi sempre aumentare l'offerta| }
+{LIMITAZIONI FINANZIARIE|Compraq il miglior Allenatore che puoi permetterti|Un buon fisioterapista puo' essere utile|Non andare in rosso! Vendi uno dei migliori giocatori per riprenderti.| }
+Per sbloccare: finisci, come minimo, una stagione
+

@@ -1,0 +1,172 @@
+{Nueva liga|Continuar Liga}
+Continuar
+{Sonido NO|Sonido SÍ}
+{Vibración NO|Vibración SÍ}
+Opciones
+{Fin del partido|Empate|¡Tú ganas!|Has perdido}
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+INSTRUCCIONES
+
+Compite contra los mejores equipos de Europa y demuestra que eres el mejor dirigiendo a las estrellas de tu equipo o pon a prueba tus habilidades en una de las ligas nacionales más importantes del mundo, la española.
+
+---------
+Controles en menú:
+
+Tecla de selección izquierda:
+Ir al menú/Volver hacia atrás
+
+Teclas de selección derecha, 5 o botón central/tecla 'OK':
+Aceptar opción
+
+Teclas 4, 6, navegación izquierda o navegación derecha:
+Cambiar opción
+
+Teclas 2 o navegación arriba:
+Mover hacia arriba
+
+Teclas 8 o navegación abajo:
+Mover hacia abajo
+
+
+---------
+Controles en juego:
+
+Tecla de selección izquierda:
+Abrir menú de pausa
+
+Teclas 4 o navegación izquierda:
+Correr hacia la izquierda
+
+Teclas 6 o navegación derecha:
+Correr hacia la derecha
+
+Teclas 2 o navegación arriba:
+Correr hacia arriba
+
+Teclas 8 o navegación abajo:
+Correr hacia abajo
+
+Teclas 1, 3, 7 y 9:
+Correr en diagonal
+
+Tecla 5 o botón central/tecla 'OK':
+Atacando: chutar o pasar el balón
+Defendiendo: quitar el balón
+
+
+---------
+Cuando te acerques a la portería rival aparecerá en pantalla una flecha en movimiento indicando la dirección que tomará tu disparo cuando lo efectúes. Recuerda que si mantienes pulsada la tecla de chutar/pasar el balón aumentarás la potencia y la altura del disparo/pase. Crea a los futuros Ronaldinhos con el menú de edición de jugadores. En él podrás modificar las características, tanto de juego como de aspecto, de cinco jugadores que tendrás disponibles en la plantilla de tu equipo.
+
+}
+{
+Club Football 2006
+NO QUITAR: version
+
+
+Publicado por: 
+JAMDAT Mobile Inc. 
+
+(c) JAMDAT Mobile Inc. 2005. 
+All Rights Reserved
+JAMDAT, JAMDAT Mobile and the bubbles logo are registered trademarks of JAMDAT Mobile Inc.
+
+Soporte al cliente:
+help@jamdat.com
+
+
+Desarrollado por:
+Microjocs Mobile
+
+Productor Ejecutivo:
+Gerard Fernández
+
+Dirección de Proyecto:
+Manel Sort
+Itthi Yossundara
+
+Programación:
+David Rodríguez
+Carlos Peris
+
+Gráficos:
+Raúl Durán
+
+Sonido:
+Tony Vera
+
+Dirección Control de Calidad:
+Alfredo Ferrer
+Xavi Espejo
+Joaquín Hurtado
+
+Responsable Calidad de Proyecto:
+Xavi Espejo
+
+Testing & com.mygdx.mongojocs.sanfermines2006.Debug:
+Albert Sans
+Arnau Castellví
+Artur Rubio
+Cándido Pérez
+Eduardo Berti
+Francesc López
+Gustavo Ortega
+Isaac Viana
+Jana Lara
+Javier Pocovi
+Josep Ruiz
+Ricard Reixach
+Rafael González
+Toni Yáñez
+Xavi González
+
+
+Codemasters Software Company
+
+Productor:
+Iain Hancock
+
+Licencias:
+Susie Bailey
+
+Dirección de Codemasters Mobile y Negocios en Desarrollo:
+Matt Davies
+
+}
+{Sí|No}
+{4-4-2|4-3-3|3-5-2|5-4-1|3-4-3|2-3-5}
+{ |Menú|Acept.|Atrás|Continu.|Cancel.|Cambio|Subst.|Cambio}
+{P|V|D|E|GF|GC}
+Equipo
+{Sólo ida|Ida y vuelta}
+{Duración corta|Duración media|Duración larga}
+Comenzar
+Jugar partido
+{Formación|FORMACIÓN}
+{Clasificación|CLASIFICACIÓN}
+{Editar jugadores|Jugador }
+{Jornada |VS}
+{NUEVA LIGA|LIGA  Jornada }
+{Nombre del jugador|Introduce un nombre|Aceptar}
+Editar nombre
+{Blanco|Negro}
+{Pelirrojo|Moreno|Rubio|Calvo|Castaño}
+{Velocidad|Chute|Pase|Defensa|Tiro libre}
+Equipación
+{Jug: Local|Jug: Visitante}
+{CPU: Local|CPU: Visitante}
+{VE|CH|PA|DE|TL}
+{¡¡GOL!!|MEDIA PARTE|FIN DE PARTIDO|PENALTY}
+{FINAL DE LIGA|es el campeón|¡Enhorabuena!|Vuelve a intentarlo}
+{Pulsa cualquier tecla
+}
+{Superliga|Liga doméstica}
+{(c)2005 The Codemasters Software Company Limited. All rights reserved. |"Codemasters"(R), "GENIUS AT PLAY"TM  and "Club Football"(R) |are trademarks owned by Codemasters.}
+¿Borrar anterior?
+
+
+

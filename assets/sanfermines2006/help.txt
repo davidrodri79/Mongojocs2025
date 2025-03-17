@@ -1,0 +1,41 @@
+{
+Completa los encierros con tu personaje favorito sin que te cojan los toros. Recoge todas las rosas que puedas para subir posiciones en el ránking de los campeones.
+Durante los encierros encontrarás:
+
+- Bebida - Recógela para recuperar fuerzas y velocidad
+
+- Rosa - Aumenta en 1 tu puntuación
+
+- Ramo de rosas - Aumenta en 5 tu puntuación
+
+- Barril - Atraviésalo para derramar vino y entorpecer a los toros
+
+- Moto - Súbete para ir más rápido durante unos segundos
+
+- Neumático - Pasa por encima para realizar un gran salto
+
+- Letra - Recógelas todas para desbloquear el personaje oculto
+
+- Cohete - Cuando lo recojas podrás usarlo cuando quieras para acelerar
+
+Esquiva, atraviesa o salta los obstáculos que encontrarás para no quedarte atrás. ¡Buena suerte!.
+}
+{
+Tecla 6 o tecla de navegación derecha:
+- Correr hacia la derecha de la calle
+
+Tecla 4 o tecla de navegación izquierda:
+- Correr hacia la izquierda de la calle
+
+Tecla 1 o tecla de navegación arriba:
+- Saltar
+
+Tecla 5 o tecla OK central:
+- Usar cohete (cuando tengas uno)
+}
+{
+Actualiza la tabla de ránkings para comparar tu puntuación con otros jugadores.
+
+Si tienes algún problema de conexión, contacta con tu operadora o Microjocs en help@microjocs.com.
+}
+

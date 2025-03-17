@@ -1,0 +1,152 @@
+Jugar
+Continuar
+{Activar sonido|Desactivar sonido}
+{Activar vibración|Desactivar vibración}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Toro 2 
+Sanfermines 2005
+
+Desde hace más de 400 años se celebra en Pamplona una fiesta repleta de pasión y locura donde, de entre una multitud de eventos célebres, destaca uno por ser único en el mundo: los Sanfermines.
+
+El evento cumbre de los Sanfermines es el encierro, que se conoce ya en todo el mundo. En el encierro, hombres y mujeres demuestran su valentía corriendo por las calles delante de los toros.
+
+¡Anímate y dirige los pasos de algunos de esos atrevidos corredores por los diferentes encierros de Sanfermin!
+
+-Cómo jugar:
+
+El objetivo es alcanzar el final de la ruta sin que ningún toro te alcance. Avanza esquivando tantos obstáculos como puedas y recoge manzanas para recuperar tu vitalidad. A más vitalidad más velocidad. 
+
+Las esferas verdes proporcionan un poder especial a los participantes, así que procura conseguir alguna y usarla bien. 
+
+Escoge bien el camino y sé inteligente: ¡intenta guiar a los toros provocando que tropiecen por las calles! Y por supuesto, no olvides recoger cuantas más rosas mejor. ¡Son puntos para convertirte en el triunfador del encierro!
+
+-Controles en los menús:	
+
+Emplea las teclas 2, 4, 6 o 8 para moverte a través de las opciones o haz uso de las teclas de desplazamiento. Utiliza la tecla de selección derecha o la tecla 5 para confirmar/seleccionar una opción. La tecla de selección izquierda sirve para salir/cancelar alguna elección. <SI-x55,x55,NK-s30,s30,NK-3510i,3510i,NK-3650,VI-TSM100,VI-TSM100v,TSM100,TSM100v>!
+Emplea las teclas 2, 4, 6 o 8 para moverte a través de las opciones. Utiliza la tecla de selección derecha o la tecla 5 para confirmar/seleccionar una opción. La tecla de selección izquierda sirve para salir/cancelar alguna elección. <SI-x55,x55,NK-s30,s30,NK-3510i,3510i>?
+Emplea las teclas 1, 2, * o 3 para moverte a través de las opciones o haz uso de las teclas de desplazamiento. Utiliza la tecla de selección derecha o la tecla # para confirmar/seleccionar una opción. La tecla de selección izquierda sirve para salir/cancelar alguna elección. <NK-3650>?
+Emplea las teclas direccionales para moverte a través de las opciones. Utiliza la tecla B o el pad central para confirmar/seleccionar una opción. La tecla A sirve para salir/cancelar alguna elección. <VI-TSM100,VI-TSM100v,TSM100,TSM100v>?
+
+-Controles durante el encierro: 
+
+Usa la tecla 4 o la tecla de desplazamiento izquierda para que el personaje se mueva en esa dirección; la tecla 6 o la tecla de desplazamiento derecha para hacerlo en esta otra dirección. La tecla 5 o tecla de confirmación/ok sirven para hacer uso de las habilidades especiales, ¡no lo olvides! <SI-x55,x55,NK-s30,s30,NK-3510i,3510i,NK-3650,VI-TSM100,VI-TSM100v,TSM100,TSM100v>!
+Usa la tecla 4 para que el personaje se mueva hacia la izquierda; la tecla 6 para hacerlo hacia la derecha. La tecla 5 o tecla de confirmación/ok sirven para hacer uso de las habilidades especiales, ¡no lo olvides! <SI-x55,x55,NK-s30,s30,NK-3510i,3510i>?
+Usa la tecla 2 o la tecla de desplazamiento izquierda para que el personaje se mueva en esa dirección; la tecla * o la tecla de desplazamiento derecha para hacerlo en esta otra dirección. La tecla # o tecla de confirmación/ok sirven para hacer uso de las habilidades especiales, ¡no lo olvides! <NK-3650>?
+Usa la tecla direccional izquierda para que el personaje se mueva en esa dirección; usa la tecla direccional derecha para hacerlo en esta otra dirección. El pad central o la tecla B sirven para hacer uso de las habilidades especiales, ¡no lo olvides! <VI-TSM100,VI-TSM100v,TSM100,TSM100v>?
+
+Para pausar la partida pulsa la tecla de selección izquierda. En el menú de pausa adopta el control que se usa en los menús.
+
+-Personajes: 
+
+El Profesional: Pamplonica nacido en plenas fiestas de San Fermín, dedica su vida al encierro. Es todo un maestro en el uso del chupinazo, logrando propulsarse a velocidades extremas.
+
+El Alemán: Resignado por la mala fama cervecera de sus compatriotas, viene a acabar con el tópico dándole otro uso a la cerveza: la derramará a los pies de los toros para entorpecer su carrera.
+
+El Sumoka: Gran luchador de Sumo que viene a demostrar su supremacía ante cualquier reto. Gracias a su técnica especial puede destrozar cualquier obstáculo que se interponga en su camino.
+
+Torombre: Encarnación del espíritu de San Fermín, que se aparece sólo a los mejores corredores de encierros. Puede conseguir la misma energía que un toro en ciertas ocasiones.
+
+Si estás a punto... déjate llevar por la música de las peñas y échate a las calles. No olvides cantar aquello de "A San Fermín pedimos, por ser nuestro patrón, nos guíe en el encierro dándonos su bendición"
+}
+{
+TORO 2
+Sanfermines 2005
+NO QUITAR: version
+
+Diseño:
+Elías Lozano
+Raúl Durán
+Xavi Sampedro
+
+Programación:
+Juan Antonio Gómez
+
+Gráficos:
+Raúl Durán
+
+Música:
+Antonio Vera
+
+Director de Proyecto:
+Manel Sort
+
+Director de Producción:
+Itthi Yossundara
+
+Director Ejecutivo:
+Gerard Fernández
+
+Control de Calidad:
+Alfredo Ferrer
+Xavi Espejo
+Joaquín Hurtado
+Jordi Balfegó
+Josep Ruiz
+Arnau Castellví
+Juan Mollá
+Eduardo Berti
+Albert Sans
+Mario Ruz
+
+Desarrolla:
+Microjocs Mobile 
+2005
+
+Gracias por jugar a TORO 2: SANFERMINES 2005, envia tus comentarios sobre el juego a:
+toro@microjocs.com
+}
+Encierro
+Enhorabuena
+{ |Menú|Aceptar|Atrás|Continuar|Cancelar|Si|No}
+Selecciona jugador
+{El Profesional|El Alemán|El Sumoka|Torombre|Completa todos los encierros con otro personaje primero}
+Encierro completado
+¡Te ha cogido el toro!
+¿Estás seguro?
+Espera...
+{
+Enhorabuena.
+
+Has logrado correr todos los encierros.
+}
+{Rosas:|x100| |Puntos acumulados:|0|Mejor puntuación:|0|}
+Partida nueva
+{
+> Neumáticos <
+Los neumáticos hacen que tropieces y pierdas velocidad.
+}
+{
+> Barril <
+Los barriles hacen que tropieces y pierdas velocidad.
+}
+{
+> Caja <
+Las cajas hacen que tropieces y pierdas velocidad.
+}
+{
+> Barrera <
+Las barreras hacen que tropieces y pierdas velocidad.
+}
+{
+> Rosa <
+Recoge todas las rosas que puedas para lograr la mayor puntuación.
+}
+{
+> Manzana <
+La manzana te repone de todo el cansancio acumulado, aumentando tu velocidad al máximo.
+}
+{
+> Ramo de rosas <
+Un ramo de rosas sirve para aumentar aun más tu puntuación.
+}
+{
+> Esfera verde <
+Pulsando 5, podrás desarrollar una habilidad especial y ganar terreno a los toros.
+}

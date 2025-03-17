@@ -1,0 +1,137 @@
+Jugar
+Continuar
+{Sonido: No|Sonido: Sí}
+{Vibración: No|Vibración: Sí}
+{Dificultad: Fácil|Dificultad: Medio|Dificultad: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Finalizar partida
+Salir
+Cargando
+Espera...
+Nivel
+Nivel Completado
+Enhorabuena
+¿Estás seguro?
+{ |Menú|Aceptar|Atrás|Continuar|Cancelar|Sí|No|Editar|Salir|+Juegos|Más...|Récords|Actualizar|Introducir|Pausa|Cambiar|Ver|Conectar|Reintentar|Pasar}
+Selecciona Jugador
+{
+Sanfermines 2006
+$version$
+
+Productor:
+Manel Sort
+
+Líder del proyecto:
+Juan Antonio Gómez
+
+Diseñador:
+Joaquín Hurtado
+
+Programadores:
+David Rodríguez
+Juan Antonio Gómez
+
+Programador de servidor:
+Raimon Ràfols
+
+Grafistas:
+Raúl Durán
+Jordi Palomé
+
+Músico:
+Tony Vera
+
+Dirección QA y Porting:
+Itthi Yossundara
+
+Coordinador Control de Calidad:
+Alfredo Ferrer
+
+Control de Calidad:
+Alfredo Ferrer
+Xavi Espejo
+
+Agradecimientos:
+Gerard Fernández
+Esther Camañes
+Juan Montés
+
+(c)Microjocs 2006. Desarrollador y editor de MoviJuegos
+}
+Opciones
+Nueva Partida
+{Tutorial: No|Tutorial: Sí}
+Editar nombre
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+Borrar
+Aceptar
+{
+Mi equipo
+Jugador
+Mi pareja
+}
+{
+El Profesional
+La Alemana
+Torero
+Personaje Secreto
+}
+Confirmación
+¿Quieres sonido?
+Introducir nombre
+Más Juegos
+Récords
+Introducción
+Cómo jugar
+Cómo ganar
+Récords
+Controles
+Completa la palabra "Fermines" para jugar con el personaje secreto. ¡Busca las letras en los encierros!
+Juego en Pausa
+Clasificación
+Se va a realizar una conexión de datos para actualizar los récords. ¿Continuar?
+Conectando...
+Has superado tu récord. ¿Quieres conectarte para subirlo?
+Tu puntuación
+{Por favor, espere...|Procesando información...}
+{No se ha podido establecer conexión.|Comprueba que tienes cobertura, saldo y la recepción de datos bien configurada.|Puedes consultar la ayuda para más información.}
+{Se ha producido un error durante la recepción de los datos.|Vuelve a intentarlo más tarde.}
+{Si no introduces un nombre, no podrás subir tu récord.|¿Quieres introducir tu nombre ahora?}
+Conectividad
+Nombre
+Resultados
+Encierro
+Sobrevive
+Récord actual:
+{Raúl|Carlos|Oscar|Juan|David|Elías|Víctor|Marta|Jordi|Joaquín|Laura|Rai|Manel|Ana|Rubén|Javier|Mónica|Pedro|Fermín|Alex}
+{(c) Microjocs 2006|Desarrollador y Editor de MoviJuegos}
+{
+¡Te parecerá gracioso ser tan torpe!
+¿Estás dormido? ¡Las rosas no muerden!
+Vaya resultado, ¿estás corriendo hacia atrás?
+Me daría vergüenza no superar tu récord...
+¿Qué ha pasado? ¿No te gustan las rosas?
+Buena puntuación, pero aún es fácil superarte.
+No está mal, empiezas a ser competitivo.
+¡Muy bien!, estás aprendiendo a jugar.
+Fantástico encierro, ¡felicidades!
+¡Vaya forma de correr!, eres un genio.
+¡¡¡ Maestro, eres mi ídolo!!!
+}
+Letra encontrada:
+Tutorial
+{CaRrIeR|$carrier_id$}
+{SeRvErUrL|http://atlantis.mjlabs.net:8080/CSGSRV/CSGSanferminesIO}
+Selecciona Nivel
+Finalizando Instalación
+Encierro Completado
+¡Felicidades! Has desbloqueado el nivel "Sobrevive" ¡Intenta batir tu récord!
+¡Felicidades! Has desbloqueado el personaje secreto.
+¡Felicidades! Has desbloqueado el nivel "Sobrevive" y el personaje secreto.
+{
+Desde "emocion" accede a "Videojuegos" sección "JuegosXmarcas" para encontrar MoviJuegos.
+}
+
+

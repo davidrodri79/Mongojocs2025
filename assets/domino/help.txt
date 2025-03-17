@@ -1,0 +1,45 @@
+{
+Cómo jugar
+
+El dominó es un deporte de habilidad mental, que se practica con veintiocho fichas rectangulares, generalmente blancas y negras, divididas en dos cuadrados, cada uno de los cuales puede llevar marcados de uno a seis puntos o estar completamente en blanco.
+
+Comenzamos con siete fichas  por jugador y nuestro objetivo es ser el primero en deshacernos de ellas. Dejaremos una ficha en cada turno. Si esto no es posible, se cogerá una nueva hasta poder realizar la tirada o se pasará el turno en caso de no disponer de más. 
+}
+{
+Teclas usadas
+
+Accesos rápidos:
+. Tecla de menú izquierda: Acceso al menú de opciones.
+. Tecla *, acceso rápido a la pantalla de ayuda.
+
+Generales:
+. Tecla 0, nos situamos en el tablero de juego para movernos sobre él o en las fichas para seleccionar alguna .
+
+Sobre las fichas:
+. Tecla 4 o pad izquierdo para movernos hacia la izquierda sobre las fichas.
+. Tecla 6 o pad derecho para movernos hacia la derecha sobre las fichas.
+. Tecla 5 o pad central para aceptar o lanzar una ficha.
+
+Sobre el tablero de juego:
+. Tecla 2 o pad arriba para movernos sobre la mesa hacia arriba.
+. Tecla 4 o pad izquierdo para movernos sobre la mesa hacia la izquierda.
+. Tecla 6 o pad derecho para movernos sobre la mesa hacia la derecha.
+. Tecla 8 o pad abajo para movernos sobre la mesa hacia abajo.
+}
+{
+Opciones
+
+El Dominó nos permite modificar varias opciones para adaptar el juego a nuestro gusto:
+. Sonido: nos permite activar o desactivar el sonido.
+. Vibración: nos permite activar o desactivar la vibración.
+. Tutorial: si lo dejamos activado nos muestra ayuda sobre como jugar y que teclas usar durante el juego.
+}
+{
+Historia
+
+Originariamente, se ha determinado que los juegos de fichas provienen de China. Con ciertas diferencias, el juego del dominó, se calcula que apareció en Europa en el siglo XVIII, en Italia. Hay un debate sobre si el juego jugado por los europeos se trajo de China a Europa en el siglo XIV o si, en efecto, fue inventado independientemente. El dominó europeo es más pequeño que el chino y hay una ficha sola para cada permutación del tiro de dos dados o un espacio en blanco, haciendo un total de veintiocho fichas. Este es el conjunto estándar o "doble seis" y, como en China, se pueden jugar varios juegos con él. 
+Las fichas del dominó pueden ser utilizadas de muy diversas maneras, y por un número variable de jugadores, dando lugar a las distintas modalidades del juego, por parejas, chamelo, garrafina, venenoso, etc.
+La Federación Española de Dominó define como juego del dominó, propiamente dicho, al Dominó por Parejas.
+}
+
+

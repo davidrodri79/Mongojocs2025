@@ -1,0 +1,362 @@
+Jugar
+Continuar
+{Sonido: No|Sonido: Si}
+{Vibración: No|Vibración: Si}
+{Dificultad: Fácil|Dificultad: Medio|Dificultad: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Finalizar partida
+Salir
+Cargando
+Espera...
+Nivel
+Nivel Completado
+Enhorabuena
+¿Está seguro?
+{ |Menú|Aceptar|Atrás|Continuar|Cancelar|Sí|No|Editar|Salir|+Juegos|Más...|Cerrar|Lanzar|Robar|Pasar|Jugar|Empezar|Actualizar|Introducir}
+{
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 4 y pad izquierdo:
+Mover a la izquierda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Mover hacia arriba
+
+Teclas 8 y pad abajo:
+Mover hacia abajo
+
+Tecla 5:
+Aceptar o disparar
+}
+{
+MoviDominó
+$version$
+
+Programadores:
+Juan Antonio Gómez
+Raimon Ràfols
+Óscar Zurriaga
+Víctor Zurriaga
+
+Grafistas:
+Jordi Palomé
+Marta Reixach
+
+Diseñador:
+Joaquín Hurtado
+
+Músico:
+Jordi Gutiérrez
+
+Productor:
+Manel Sort
+
+Dirección de Control de Calidad:
+Alfredo Ferrer
+
+Control de Calidad:
+Arnau Castellví
+Xavi Espejo
+Rafael González
+Ricard Reixach
+Artur Rúbio
+Damià Vázquez
+Antonio Yáñez
+
+Desarrollado por:
+Microjocs Mobile S.L.
+(c) 2006 
+}
+Opciones
+Nueva Partida
+{Puntos partida: 11|Puntos partida: 13|Puntos partida: 15|Puntos partida: 18|Puntos partida: 21}
+{Control: Fácil|Control: Avanzado}
+{Tutorial: No|Tutorial: Si}
+{Normas: Adaptadas|Normas: Reales}
+Editar nombres
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+Borrar
+Aceptar
+{
+Mi equipo
+Mi nombre
+Mi pareja
+Rivales
+Laura
+Dani
+}
+{
+1 Rival
+2 Rivales
+3 Rivales
+Por equipos
+}
+Juego por equipos
+Todos contra todos
+Confirmación
+¿Desea juego con sonido?
+Nombres
+Introducir nombre
+Modo de juego
+Empieza la partida
+Es el turno de
+Pásale el movil para que pueda jugar
+{Jugador|Inteligéncia Artificial|Nadie}
+¡Robo ficha!
+¡Paso!
+No tienes fichas, coge una pulsando "robar"
+No tienes fichas, salta el turno pulsando "pasar"
+Partida rápida
+Torneo Nuevo
+{
+Torneo Regional
+Torneo Nacional
+Torneo Continental
+Torneo Mundial
+}
+{
+Norte
+Sur
+Centro
+}
+{
+Catalanes
+Madrileños
+Andaluces
+Valencianos
+Vascos
+Gallegos
+Asturianos
+}
+{
+Franceses
+Ingleses
+Alemanes
+Italianos
+Portugueses
+Polacos
+Irlandeses
+}
+{
+EEUU
+Canadá
+Alemania
+Francia
+Inglaterra
+Egipto
+Japón
+China
+Australia
+Marruecos
+Mexico
+Brasil
+Rúsia
+Afganistán
+Indonésia
+}
+{
+CLASIFICACIÓN
+ - RONDA 
+ - FINAL
+RESULTADOS
+(A 
+ PUNTOS)
+}
+{
+Juan
+Pedro
+Ana
+Esther
+Felipe
+Cristina
+}
+{
+Jordi
+Montserrat
+Isidro
+Almudena
+Rocio
+Pepe
+Vicente
+Lidia
+Aitana
+Patxi
+Santiago
+Xesusa
+Fernando
+Begoña
+}
+{
+Jean Pierre
+Anne Marie
+Charles
+Diana
+Adolf
+Gretchen
+Silvio
+Rafaella
+Simao
+Fátima
+Boryslaw
+Celinka
+Ian
+Kathleen
+}
+{
+James
+Linda
+Robert
+Susan
+Adolf
+Gretchen
+Jean Pierre
+Anne Marie
+Charles
+Diana
+Ramses
+Cleopatra
+Akira
+Keiko
+Chen
+Ming
+John
+Mary
+Abdul
+Falak
+Emiliano
+Evita
+Cicinho
+Renata
+Mikhail
+Yana
+Mohammed
+Dalal
+Aito
+Miho
+}
+¿Deseas jugar otra vez?
+Más Juegos
+Continuar Torneo
+Records
+1 Rival
+2 Rivales
+3 Rivales
+Por equipos
+Introducción
+Cómo jugar
+Cómo ganar
+Controles
+Bienvenido al tutorial del dominó.  Pulsa "Más..." para proseguir con la ayuda o "Jugar" para empezar el juego.
+El juego del dominó se compone de varias rondas. Al final de cada una, sólo un jugador o una de las parejas reciben puntos de acuerdo con el resultado de la misma. El juego termina cuando un jugador o pareja alcanza o supera una cantidad de puntos previamente establecida.
+Cada jugador recibe 7 fichas. Si en la partida hay menos de 4 jugadores, las fichas restantes se guardan en el montón.
+Inicia la ronda el jugador que gana el sorteo. A partir de ese momento, los jugadores realizarán su jugada, por turno, siguiendo el orden inverso a las manecillas del reloj.
+En su turno, cada jugador debe tomar una de sus fichas y ponerla en juego en uno de los dos extremos abiertos de tal forma que los puntos de uno de los lados de la ficha coincida con los puntos del extremo donde se esta colocando. Los dobles se colocan de forma transversal para facilitar su localización. Una vez que el jugador ha colocado la ficha en su lugar, su turno termina y pasa al siguiente jugador.
+Es posible que un jugador se vea imposibilitado a realizar su jugada cuando ninguna de sus fichas coincida con los puntos de los extremos del juego. En este caso hay que "robar" una pieza del montón o "pasar" si no quedan. Si se "pasa", el turno termina y pasa al siguiente jugador.
+La ronda continúa con los jugadores colocando sus fichas hasta que se presenta alguna de las situaciones de victória siguientes:
+Dominó: cuando un jugador coloca su última ficha en la mesa, se dice que ese jugador dominó la ronda.
+Cierre: existen casos donde no qudan fichas jugables ni en los jugadores ni en el montón. En este caso se cierra la partida.
+Al finalizar la ronda se procede a contar los puntos.  Para realizar el recuento, se suma el valor de las fichas de los jugadores (suma de puntos negros) y se otorgan al jugador o equipo que ha conseguido "Dominó" o "Cierre". 
+Una vez contados los puntos se otorgan al jugador o equipo ganador. Si el total de puntos iguala o excede la puntuación establecida, el jugador o equipo se proclaman vencedores de la ronda.
+Para seleccionar una ficha usamos derecha o tecla 6, izquierda o tecla 4, y para lanzar acción o tecla 5. 
+Para ver la disposición de las fichas en el tablero, usamos tecla 0 y las direcciónes, teclas 2, 4, 6 y 8.
+Para consultar la ayuda en cualquier momento, puedes pulsar la tecla *.
+Jugador
+{
+¡Felicidades!, te invito a tomar algo cuando acabemos.
+¡Bien jugado!, la próxima vez no te será tan fácil.
+A veces, la suerte del principiante tiene su recompensa.
+Vaya, vaya, parece que vas aprendiendo a jugar.
+Hoy no es mi día, ya ajustaremos cuentas en otra partida.
+¡Muy bien!, no me esperaba menos de ti.
+Esta vez te lo he puesto fácil...
+No siempre te saldrán las cosas tan bien.
+Disfruta de la victoria, durará poco.
+Gran jugada, ¡a qué hora dices que me darás clases!
+No está mal, te merecías ganar.
+Me lo estoy pasando muy bien, ¡quiero la revancha!
+}
+{
+Se veía venir, no tienes nivel.
+Mala suerte, quizás la próxima vez.
+Tendrás que jugar mejor para vencerme.
+No está mal pero debes seguir practicando.
+Ha sido muy fácil, ¿realmente sabes jugar?
+Lo tienes difícil para vencerme.
+Escribiré tu nombre en mi diccionario al lado de perdedor.
+Lástima, se que lo podrías haber hecho mejor.
+Con suerte y mucha práctica podrías ganarme.
+Me gusta tu estilo, me haces ganar.
+Mal jugado, piensa en lo que has hecho y como mejorarlo.
+Te aconsejo, práctica, práctica y más práctica.
+}
+Muy bien, has ganado, sigues en juego.
+Lo siento, has perdido, intenta hacerlo mejor.
+{
+¡Enhorabuena!, has obtenido un diploma por ganar el torneo regional.
+¡Felicidades!, has obtenido una medalla por ganar el torneo nacional.
+¡Increhíble!, has obtenido un trofeo por ganar el torneo continental.
+¡¡Genial!!, eres un maestro. Has obtenido la copa y el título mundial.
+}
+Juego en Pausa
+Clasificación
+Manos
+Puntos
+Torneos
+{¡Atención!|Tienes un torneo en curso, perderás los datos el torneo anterior si inicias uno nuevo. ¿Deseas continuar?}
+Antes de poder acceder a este torneo debes superar todos los anteriores.
+Sorteo
+Empieza...
+Info
+Se ha acabado el torneo
+Premio
+¡Felicidades! ¡Se ha desbloqueado el siguiente torneo!
+¡Partida cerrada!
+{El equipo | ha ganado la ronda}
+ dice:
+Actual:
+Total:
+Ronda:
+Puntos:
+{Has conseguido | puntos| punto| en | partidas.| partida.}
+{
+CONSEJO
+Muchos de una Pinta:
+Es recomendable jugar las piedras con números que tengas en abundancia. Si tienes muchos, tus oponentes tendrán pocos. Debes jugarlas colocándolas con tu número frecuente en los extremos.
+Gallo que no repite no es gallo:
+Una vez que comiences a jugar un número, debes tratar de repetir ese número, tanto como te sea posible, durante el resto de la ronda.  Esto le hará bastante daño a tu rival a la izquierda, y hasta eventualmente lo puede hacer pasar.
+Dobles:
+Los dobles son malas piedras. Aumentan la probabilidad de que tengas un fallo.
+Una Buena Salida:
+Es conveniente salir con el número más frecuente, pero también es conveniente deshacerse de los dobles.
+Evitar quedarse al fallo:
+Hay que intentar no quedarse sin fichas de un palo.
+Averiguar los palos favorables de nuestro compañero:
+Si vemos que nuestro compañero ha tenido que pasar, tendremos que recordar que números le faltan para no obligarle a pasar de nuevo si es posible.
+}
+(Montón:
+Has perdido la ronda eliminatoria. Vuelve a intentarlo, quizá la próxima vez tengas más suerte.
+{
+¡Felicidades, has conseguido una estupenda puntuación!
+¡Uau, Esa puntuación esta por encima de lo común!
+¡Vaya, juegas estupendamente!
+¡Tremenda vapuleada!
+}
+¡dominó!
+{
+No has ganado ningún punto.
+¡Prueba a jugar en el modo Torneo y cuando tengas más práctica vuelve para retar a los mejores jugadores!
+}
+RECUENTO
+
+

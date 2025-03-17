@@ -1,0 +1,48 @@
+{
+MENÚ PRINCIPAL
+Tecla 2 – subir una opción, tecla 8 – bajar una opción, tecla menú izquierda o tecla 5 – seleccionar, tecla menú derecha – atrás.
+
+JUEGO: BARRA DE ICONOS
+Usa el pad o las teclas 4 y 6 para moverte horizontalmente por las opciones, el pad o las teclas 2 y 8 para moverte por las opciones principales (barra superior) a las secundarias (barra inferior), pad central o tecla 5 para entrar en una sección.
+
+JUEGO: TEXTOS
+En las pantallas que contengan una lista o textos extensos, usa el pad o las teclas 2 y 8 para moverte arriba y abajo; pad central, tecla 5 o menú izquierda para seleccionar una opción; menú derecha para volver atrás.
+
+JUEGO: GENERAL
+Usa la tecla menú izquierda para obtener información y realizar acciones, usa menú derecha para cancelar o volver atrás.
+}
+{
+PARTIDO AMISTOSO
+Selecciona dos equipos para que jueguen el uno contra el otro y comprobar su calidad en el deporte rey.
+
+JUEGO NORMAL
+Selecciona un equipo de cualquier liga y trata de alcanzar los objetivos de este para esta temporada. La Junta directiva del club será más o menos exigente dependiendo del nivel de dificultad seleccionado. En el modo normal, los asuntos financieros y el entrenamiento serán gestionados automáticamente, mientras que en el modo experto tendrás el control total del club.
+
+"FANTASY TEAM"
+Crea tu propio equipo desde cero. Elige su nombre, la liga donde quieras participar, la equipación que llevará y los jugadores que más te convengan.
+}
+{
+MÁNAGER
+Personalizar Mánager te permite elegir tu nombre, nacionalidad, edad y equipo preferido. Después distribuye tus puntos de aptitud, que influirán en el equipo. "Motivación" mejorará la moral del equipo, "Entreno" aumentará los resultados de éste, "Criterio" mejorará las oportunidades de firmar contratos de jugadores, y "Disciplina" controlará la disciplina de los jugadores durante los partidos, reduciendo el número de jugadores sancionados.<NK-s40>!
+Distribuye tus puntos de aptitud, que influirán en el equipo. "Motivación" mejorará la moral del equipo, "Entreno" aumentará los resultados de éste, "Criterio" mejorará las oportunidades de firmar contratos de jugadores, y "Disciplina" controlará la disciplina de los jugadores durante los partidos, reduciendo el número de jugadores sancionados.<NK-s40>?
+
+EL EQUIPO
+En el modo "Fantasy Team" puedes personalizar el club, eligiendo su nombre y los colores de su insignia. Puedes elegir a los jugadores para formar tu equipo de cualquier liga, o dejar que sea completado de forma automática.
+}
+{
+La gestión del club se divide en nueve bloques principales, que son:
+EQUIPO: Gestiona todo lo relacionado con la plantilla y la alineación.
+ENTRENAMIENTO: Planifica la intensidad y frecuencia del entrenamiento.
+PORTÁTIL: Accede al correo electrónico que el usuario recibe como mánager.
+INFORMACIÓN: Información detallada muy útil para el mánager.
+FICHAJES: Compra y vende jugadores.
+FINANZAS: Gestiona a los empleados y los asuntos financieros.
+OPCIONES: Accede a la ayuda, a las opciones de sonido, a salvar el juego y a terminar la partida.
+CALENDARIO: Accede a los partidos.
+}
+{
+EXTRAS
+En la sección de Opciones puedes seleccionar "Extras", donde puedes comprobar qué falta por desbloquear y recibir consejo sobre cómo jugar.
+Cuando un "Extra" es desbloqueado tiene que activarse antes de que tenga efecto. Entra en la opción de Consejos para aceptar sugerencias que aumentarán tus dotes como Mánager.
+}
+

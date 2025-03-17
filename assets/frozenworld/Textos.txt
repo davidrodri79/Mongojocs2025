@@ -1,0 +1,121 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego: el hambre no hace el pan
+Ayuda
+Acerca de...
+Terminar
+Salir
+Cargando
+{ 
+Ayuda
+ 
+Tecla de menú izquierda:
+Ir al menú
+ 
+Tecla de menú derecha:
+Aceptar opción
+ 
+Tecla 4 y pad izquierdo:
+Mover a la izquerda
+ 
+Tecla 6 y pad derecha:
+Mover a la derecha
+ 
+Tecla 2 y pad arriba:
+Saltar
+ 
+Tecla 8 y pad abajo:
+Crear/destruir bloques abajo 
+ 
+Tecla 5 y menú derecha:
+Crear/destruir bloques
+ 
+Tecla 0:
+Disparar}
+{ 
+Frozen World 1.0.2
+ 
+Programación:
+Carlos Peris
+ 
+Gráficos:
+Raúl Durán
+ 
+Sonido:
+Esteban Moreno
+ 
+QA:
+Jordi Palomé 
+ 
+Desarrollado:
+Microjocs Mobile
+2004
+ 
+En memoria de
+Susana Grijalva
+1947 - 2003}
+Nivel
+Enhorabuena, el planeta sigue siendo un cálido hogar para todos
+{Pulsa '3' para saltar el obstáculo
+Pulsa '5' para deshacer bloques de hielo
+Pulsa '5' para crear bloques de hielo
+Pulsa '2' para romper bloques de hielo de un cabezazo
+Pulsa '8' para crear bloques bajo tus pies
+Con '1' y 2' también puedes saltar
+El reactor es la salida del nivel
+Pulsa '4' y '6' para moverte a izquierda y derecha
+Pulsa '8' para destruir bloques bajo tus pies
+Este reactor necesita células energéticas para activarse
+Recogiendo estas células el reactor podrá activarse
+¡Cuidado con los proyectiles que lanza esta gárgola!
+Recuerda que puedes disparar mientras saltas
+Este Hombre de los Hielos es peligroso, mejor andarse con ojo
+Dispara pulsando el '0'
+¡Son como un único organismo!
+}
+{la práctica hace la perfección
+la energía es necesaria para todos los aparatos eléctricos
+el camino es la meta
+más vale pensárselo dos veces que ninguna
+jamás quedes atrapado en un fuego cruzado
+el infinito es un cuadrado sin ángulos 
+ponte de frente a lo que aún has de andar y de espaldas a lo andado
+disfruta hoy; es más tarde de lo que crees
+si no entras en la madriguera del tigre, no podrás coger sus cachorros
+en la manera de afrontar las adversidades se conoce el carácter de un hombre
+todos los hombres son sabios; unos antes, los otros después
+el hombre es un animal racional, pero no un animal razonable
+hay caídas que nos sirven para levantarnos más felices
+si un negocio te abruma por el principio, comiénzalo por el final
+si eres paciente en un momento de ira, escaparás a cien días de tristeza
+hay momentos en que realmente se necesita a otra persona
+}
+{Dr. Clon: Los reactores climáticos están desconectados. ¡Ve a activarlos, rápido!
+Zoe: Necesito más células energéticas. ¡Ayúdame!
+Zoe: Si los reactores siguen apagados, la glaciación es inminente
+Frost: Ve con cuidado hijo, esta zona está plagada
+Dr. Drake: ¡Estas máquinas se han vuelto locas! ¡Nos invaden!
+Corben: Zoe, creo que nos hemos metido en un laberinto
+Frost: Hijo, necesitas munición más potente para esta misión
+Dr. Zaius: ¡No te procupes por mí! ¡Sube deprisa o morirás congelado!
+Frost: ¡Abajo! ¡Vamos, vamos, vamos!
+Zoe: En esta zona existe un reactor secreto
+Dr. Gibbs: ¡Cuidado, hay criaturas mutantes!
+Frost: ¡Acabemos con estas bestias!
+Corben: Sólo hay una opción. Voy a tirarme por el pozo
+Frost: ¡Esta zona está en cuarentena!, el reactor te será inalcanzable
+Zoe: Este es el último reactor. Corben...¡ten cuidado!
+Zoe: ¡No nos quieren dejar escapar! ¡Ayuda!
+}
+Reiniciar nivel
+Menú
+{- ERROR -
+ 
+- Si es la primera vez que ejecuta esta aplicación, asegúrese de tener activado el acceso a la red.
+ 
+- Posible problema de cobertura GPRS. Inténtelo más tarde.}
+{Teclado 3650|Teclado 7650}
+Cargando

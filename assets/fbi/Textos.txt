@@ -1,0 +1,61 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 1, 4, 7 y pad izquierdo:
+Disparar izquierda
+
+Teclas 2, 5, 8, 0 y pad central:
+Disparar centro
+
+Teclas 3, 6, 9 y pad derecho:
+Disparar derecha
+
+Tu misión es abducir a todos los frikis que te vayas encontrando por los camerinos, pero ten cuidado: No dispares a la enfermera!
+}
+{Acerca de...
+
+Una película producida por Manga Films y Joue Consultors.
+
+Créditos:
+
+Programación:
+Oscar Zurriaga
+
+Gráficos:
+Raúl Durán
+
+Sonido:
+Jordi Gutiérrez
+
+Desarrollo(2004):
+Pebegat Six
+Microjocs Mobile
+}
+Nivel
+{A por ellos!|Qué no se escapen!|Vaya colección!|Qué duro es el FBI...|Javier, cómo estamos eh!}
+{Superfuerte!|Megasuperfuerte!|Ven a por mi!|Josmar, ese soy yo.}
+{JiJiJiJi|Te van a canear!|Se te va a caer el pelo|Juan Miguel, a tope!}
+{Te voy a poner dos velas negras|Dos velas negras|Velitas negras!|Tu futuro lo veo negro!|Lola, esa soy yo.}
+{Guapo!|Macizo!|Cógeme!|Soy Carmen, guapetón!}
+{Berenjena!|Lechuguino!|Perejil!|Soy Paco, te leo el futuro?}
+{Pozi!|Pozi, Pozi!|Pozi, Pozi, Pozi!|Pozi??|Pozi , qué soy yo!|Ammmparo|Vas borracha?}
+NA
+{Ver Records|Puntuación:}
+Nuevo Record
+Cargando...

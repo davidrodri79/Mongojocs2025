@@ -1,0 +1,80 @@
+Jugar
+Continuar
+{Sonido en OFF|Sonido en ON}
+{Vibración en OFF|Vibración en ON}
+-Nada-
+GAME OVER
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando...
+{Instrucciones
+ 
+Tecla Selección Izquierda:
+- Ir al Menú
+
+Tecla 5, Centro Pad y Selección Derecha:
+- Saltar y Seleccionar Opción
+ 
+Tecla 2 y Pad Arriba:
+- Aumentar Velocidad
+ 
+Tecla 8 y Pad Abajo:
+- Frenar
+ 
+Tecla 4 y Pad Izquierda:
+- Desplazarse Izquierda
+ 
+Tecla 6 y Pad Derecha:
+- Desplazarse Derecha
+ 
+Teclas 1 y 3:
+- Atacar Lateralmente
+ 
+Teclas 7 y 9:
+- Atacar y Desplazarse Lateralmente
+ }
+{NINJA RUN!
+v1.1
+ 
+Créditos
+ 
+Gráficos:
+Jordi Palomé
+ 
+Programación:
+Oscar Zurriaga
+ 
+Sonido:
+Jordi Gutierrez
+Elias Lozano
+ 
+Agradecimientos:
+Juan Ant. Gómez
+ 
+Desarrollo:
+   Microjocs Mobile   
+2004}
+Reiniciar Nivel
+Elige Personaje
+Nivel 
+PULSA UNA TECLA
+ x COMBO!!
+ENERGÍA!!
+CREMALITY!!
+{¡ARGH!|¡ITAI!|¡OUCH!|¡UHH!|¡##!|¡¡!!|¡UPS!|¡JAR!|¡YAW!}
+UNO MENOS...
+NO PUEDO MÁS!!
+VUELVE A INTENTARLO...
+BIEN HECHO!!
+{Masao|Mikako|Usagi|Takanobu}
+{25|22|??|36}
+{Arte del Ninjitsu|Danza Kung-Fu|Indescriptible|Poder Samurai}
+{Es el antiguo Japón, durante la dinastía del clan de los Nabeshima, el jefe samurai Ryuzoji Takanobu, está entrenando a sus más destacados alumnos, Masao, especialista en las artes del ninjitsu, Mikako, experta en la antigua danza del kung-fu, Usagi, indescriptible...
+Finalmente Takanobu deberá decidir cual de ellos es el mejor para ir a la gran batalla de Seki Gamaga...
+
+Si quieres correr más rápido, coge todas las cremas mágicas "Cremality" la receta secreta ninja, que te da más potencia, y si quieres recuperar tu energía coge las riquísimas bolas de arroz de la abuela...
+
+Mide tus movimientos y corre hasta que no puedas más. Solo si llegas el primero serás elegido y llegarás a ser un ninja destacado...}
+

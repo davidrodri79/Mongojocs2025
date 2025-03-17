@@ -1,0 +1,48 @@
+giocare
+continuare
+{suono: disattivato|suono: attivato}
+{*}
+*
+Game Over
+aiuto
+a proposito di...
+Ferma
+esci
+Caricando
+Attender, prego...
+{accettare|cancellare}
+*
+*
+Sei sicuro?
+{ |Menú|Accettare|Indietro|Continuare|Cancellare|Sí|No|Compra|Vendi|Conferma|Negozia|Segna|Seleziona|Cambia|Inserisci|Leggi|Inizia|Auto|Contratta|Licenzia|Edita|Attiva|Disattiva|Cerca|Fatto}
+{
+About
+}
+*
+opzioni
+nuovo gioco
+partita dimostrativa
+Game paused
+{Match|Tactics|League|Training|Buy|General|Help}
+{Inghilterra|Scozia|Germania|Italia|Francia|Spagna}
+{Gennaio|Febbraio|Marzo|Aprile|Maggio|Giugno|Luglio|Agosto|Settembre|Ottobre|Novembre|Dicembre}
+{Lunedí|Martedí|Mercoledí|Giovedí|Venerdí|Sabato|Domenica}
+{SQUADRA|ALLENAMENTO|PORTATILE|INFORMAZIONI|TRASFERIMENTI|FINANZA|STADIO|OPZIONI|CALENDARIO}
+{SELEZIONA FORMAZIONE|TATTICHE|FORMAZIONE|STILE|INFORTUNATO|SANZIONATO|MODIFICARI NOMI}
+{PROGRAMMAZIONE|STILE}
+{MESSAGGI}
+{TABELLA CAMP. 1|TABELLA CAMP. 2|GRAFICO DEL CAMPIONATO|CAMPIONATO EUROPEO|DETTAGLI DEL CLUB|CAPICANNONIERI|TOP 11|MANAGER}
+{RICERCA MANUALE|RICERCA FILTRATA|ESPLORATORE|VENDERE}
+{ESTRATTI BANCARI|FISSARE PREZZI|LISTA IMPIEGATI|SPONSORS|ASSISTENZA}
+{COSTRUZIONE}
+{AIUTO|SUONO|SALVA|FERMA}
+{PARTITE}
+{3-4-3|5-3-2|4-4-2|4-3-3|3-5-2|5-4-1}
+{Attaccanti|Centrocampisti|Difensori|Portieri}
+{Riposare|Resistenza|Lavoro nelL'area|5 per lato|Crossing|Uno a uno|Avanzato}
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+{Inglese|Scozzese|Tedesca|Italiana|Francese|Spagnola}
+Giocatore 1
+Squadra 1
+
+

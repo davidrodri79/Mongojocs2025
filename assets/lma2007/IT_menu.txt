@@ -1,0 +1,319 @@
+SQUADRA
+SOSTITUISCE I GIOCATORI INFORTUNATI O PENALIZZATI
+SOSTITUISCE I GIOCATORI INFORTUNATI  
+SOSTITUZIONI RESTANTI
+SELEZIONA FORMAZIONE
+PG
+Nome
+{PO|DI|MD|AT}
+TATTICHE
+Difesa
+Passaggio nello spazio
+Passaggio lungo
+Attacco
+Mantenere il possesso di palla
+FORMAZIONE
+STILE
+{Difensivo|Normale|Attacco}
+INFORTUNATO
+Settimane
+Nessun giocatore infortunato
+SANZIONATO
+Nessun giocatore sanzionato
+ALLENAMENTO
+PROGRAMMAZIONE
+PROGRAMMA
+{TI|PA|VE|DI}
+{Leggero|Normale|Intenso}
+PORTATILE
+POSTA IN ARRIVO
+MESSAGGIO
+INFORMAZIONI
+{TABELLA CAMP. 1|TABELLA CAMP. 2}
+{SQUADRA|PT|V|P|S}
+{SQUADRA|PT|G+|G-}
+GRAFICO CAMPIONATO
+CAMPIONATO EUROPEO
+{Classificato al turno successivo|Fuori dal campionato}
+ - 
+DETTAGLI DEL CLUB
+Club
+Manager
+Principale sponsor
+Annuncio
+Capienza
+Staff
+Giocatori
+TOP 11
+{No|PO|NOME|QU}
+CAPICANNONIERI
+{NOME|GOL}
+MANAGER
+Nome:
+Nazionalità:
+Club preferito:
+ABILITA'
+Motivazione:
+Allenamento:
+Giudizio giocatori:
+Disciplina:
+FINANZA
+ESTRATTI BANCARI
+LISTA IMPIEGATI
+SPONSORS
+FISSARE PREZZI
+TRASFERIMENTI
+VENDERE
+RICERCA MANUALE
+COMPRARE
+RICERCA FILTRATA
+NEGOZIARE
+{-| - }
+RIPOSO: 
+{Campionato|Camp. Europeo|*}
+{Normale >|< Veloce >|< Velocissimo}
+{Classificazione al Camp. Europeo.|Terminare il campionato classificandosi tra i primi 6.|Terminare il campionato nella prima metà della classifica.|Evitare la retrocessione, cercare di ottenere la migliore classificazione possibile.|Evitare la retrocessione.}
+{Tiri|Falli|Possesso di palla}
+{TOTALE FONDI:|ENTRATE (questa settimana)|Sponsorizzazione:|Tasse di trasferta:|Proventi della partita:|Biglietti parcheggio:|ENTRATE TOTALI:|SPESE (questa settimana)|Stipendi:|Tasse di trasferta:|Espansione impianti:|Extra:|SPESE TOTALI:}<nk-s40>!
+{FONDI:|ENTRATE (questa settimana)|Sponsorizzazione:|Trasferta:|Proventi della partita:|Biglietti parcheggio:|ENTRATE TOTALI:|SPESE (questa settimana)|Stipendi:|Tasse di trasferta:|Espansione impianti:|Extra:|SPESE TOTALI:}<nk-s40>?
+TITOLI
+{Assist. Manager:|Allenatore:|Talent scout|Preparatore atletico:|Fisioterapeuta:|Manager commerciale:}
+ASSUNZIONE DIPENDENTI
+QUALITA'
+Stipendio settimanale
+{Basso|Medio|Alto}
+SPONSOR MAGLIETTA
+SPONSOR CARTELLONI
+{Nome: |Guadagni [money] alla settimana.|Contratto valido per [time] mesi.|Senza contratto dello sponsor della maglietta.}
+{Nome: |Guadagni [money] alla settimana.|Contratto valido per [time] settimane.|Senza contratto dello sponsor dei cartelloni.}
+Prezzo del biglietto
+{In piedi|Normale|VIP|Parcheggio}
+Scegli campionato
+Scegli squadra
+QU
+{Campionato|Posizione|Costo massimo}
+Nessun giocatore trovato in base ai parametri di ricerca.
+{Durata del contratto di [duration]| anni|Stipendio settimanale|Bonus per vittoria}
+{Benvenuto al |Il tuo obiettivo per questa stagione è:}
+Hai mandato la tua offerta a [player]
+Stai aspettando una risposta alla tua offerta da parte di questo giocatore.
+Nuovo sponsor della maglietta
+Nuovo sponsor dei cartelloni
+I giocatori segnalati con << possono ricevere offerte. Hai [amount] giocatori da vendere
+E' stata inviata un'offerta ai giocatori indicati con >>. Hai inviato offerte a [amount] giocatori
+{Questo dipendente attualmente lavora per noi. Desideri licenziarlo?|¿Desideri assumere questo dipendente?}
+{Hai venduto [player] per [money]|Hai già venduto questo giocatore.}
+{Non si sono trovati giocatori che corrispondono ai parametri di ricerca.|Sono stati trovati troppi giocatori. Verranno visualizzati solo i primi 100|Nessun talent scout assunto|Il talent scout dice di non aver trovato giocatori interessanti questa volta|Il talent scout consiglia [amount] giocatori}
+{Hai già effettuato i tre cambi possibili in questa partita.|Devi sostituire i giocatori infortunati o sanzionati.|Devi sostituire i giocatori infortunati.|Non puoi inserire i giocatori infortunati o sanzionati nella formazione.|I giocatori sanzionati non possono sostituirsi|Giocatori infortunati non può giocare}
+{Difensivo|Normale|Attacco}
+{England|Scotland|Germany|Italy|France|Spain|Any}
+{PO|DI|MD|AT|Qualsiasi}
+{ADW Cars|Godo & Rodo|MJ Graphics|Turley Burger|Furman Designs}
+{ADIDAS|KAPPA|KITKAT|REEBOK|UMBRO|FUNSTA|CODEMASTERS}
+{Offerta dello sponsor della maglietta|¿Vuoi firmare un contratto con lo sponsor della maglietta [name] per [money] alla settimana per [time] settimane?|Hai firmato un contratto con lo sponsor della maglietta [name] per [money] alla settimana per [time] settimane.}
+{Offerta dello sponsor del cartellone|¿Vuoi firmare un contratto con lo sponsor del cartellone [name] per [money] alla settimana per [time] settimane?|Hai firmato un contratto con lo sponsor del cartellone [name] per [money] alla settimana per [time] settimane.}
+{Offerta per [name]|Questo giocatore ha ricevuto un'offerta da una squadra di [money]. Vuoi vendere [name]?}
+{[name] rifiuta la tua offerta|[name] non è interessato a giocare nella nostra squadra.}
+{[name] non è più interessato.|[name] ha smesso di negoziare con la nostra squadra.}
+{[name] desidera negoziare.|[name] dice il compenso offerto è troppo basso.|[name] desidera un contratto di durata superiore rispetto a quello offerto.|[name] dice che il bonus per vincita offerto è troppo basso.}
+{Obiettivo della stagione|Complimenti! Sei riuscito ad ottenere l'obiettivo della stagione.}
+{Obiettivo della stagione|Ci spiace ma non hai raggiunto l'obiettivo della stagione e la squadra ha deciso di licenziarti.}
+{[name] abbandona la squadra|[name] ha raggiunto il termine del suo contratto e lascia la squadra.}
+{Campionato Europeo|Hai vinto il Campionato Europeo|Sei stato eliminato dal Campionato Europeo|Hai passato il turno del Campionato Europeo}
+Turno Europeo
+{. Hai vinto la partita|. Hai perso la partita|. Hai pareggiato.}
+{ vince il campionato}
+{Il vincitore del campionato è | con | punti.}
+{Congratulazioni|¡Siamo i campioni!|¡Siamo i vincitori del campionato!}
+{Benvenuto al |Il consiglio direttivo del | si aspetta il meglio da te e dalla tua squadra in questa stagione.}
+{Tribuna nord|Tribuna sud|Tribuna est|Tribuna ovest|Parcheggio|Campo di allenamento|Palestra|Infermeria|Prato|Marcatori}
+{Impianti dello stadio|Attuale}
+Devi avere almeno 16 anni per giocare nella squadra
+Non disponi di una somma sufficiente per comprare questo giocatore
+Hai esaurito tutti i fondi disponibili per acquisire giocatori e gestire la squadra. Sei licenziato.
+Non è stato possibile trovare giocatori in base ai parametri di ricerca.
+Sono stati trovati troppi giocatori. Verranno visualizzati solo i primi 100
+{Una sublime notte di calcio!|Un eccezionale [team1] ha sbaragliato un [team2] senza alcuna speranza. |Che partita!}
+{W, M D. Y}
+{st|nd|rd|th}
+Il campionato non è ancora iniziato
+Questa opzione viene gestita automaticamente dallo schema. Vuoi cambiarla permanentemente in modalità manuale?
+{Gol!|Un tempo|Fallo|Rigore|Fuori|Calcio d'angolo|Fuorigioco}
+{SCARSA|INSUFFICIENTE|NORMALE|BUONA|ECCELLENTE}
+MODIFICARE NOME
+MODIFICARE NOMI
+{3-4-3 (b)|4-4-2 (b)}
+{(P)|(R)}
+DETTAGLI
+Fondi
+SPONSOR E STADIO
+STAFF
+Nessuno
+ASSISTENZA
+STADIO
+DATI DELLA PARTITA
+{Hai pareggiato:|Hai vinto la partita:|Hai perso la partita:}
+I seguenti giocatori sono infortunati o sanzionati:
+partite
+DATI DEL CAMPIONATO
+Settimana
+Il Campionato europeo non è ancora iniziato
+{Il Campionato europeo è terminato|Il campione è [clubname]}
+DATI DEL CAMP. EUROPEO
+Dati
+Avanti
+prossimo incontro
+Campionato europeo
+Visualizzazione
+{Saltare partita|Partita in 2D|Partita in testo}
+{Schermata prin.|Partita|Campionato|Camp. Europeo}
+menu principale
+gioca 
+squadra fantasia
+difficoltà
+normale
+esperto
+seleziona squadra
+Amichevole
+personalizzare
+introdurre nome
+nazionalità
+età
+squadra preferita
+successivo
+capacità:
+motivazione:
+allenamento:
+criterio:
+disciplina:
+selezionare squadra
+personalizzare
+modificare nome
+modificare colore
+scegliere i giocatori
+colore sinistro
+colore destro
+SCEGLIERE I GIOCATORI
+Continuare
+Formazione
+Ordini
+Squadra
+Saltare partita
+Opzioni
+{volume: basso|volume: medio|volume: alto}
+{salvataggio automatico: no|salvataggio automatico: sí}
+informazioni su…
+extra
+pioggia durante partita
+formazioni extra
+allenamento rapido
+senza infortuni
+fondi illimitati
+Attenzione! I dati anteriori verranno eliminati. Proseguire?
+Devi distribuire tutti i punti per capacità per poter continuare
+Non puoi acquistare giocatori della tua stessa squadra
+La tua squadra possiede già 30 giocatori. Non puoi comprare questo giocatore.
+Non puoi assumere un nuovo sponsor di maglietta fino alla scadenza del contratto in vigore.
+Non puoi assumere un nuovo sponsor di cartellone fino alla scadenza del contratto in vigore.
+{Posizione inadeguata di | e | di efficienza|Continuare?}
+non può essere ulteriormente migliorata.
+{In costruzione. Mancano |settimane|. Annullare la riqualificazione?}
+Fondi insufficienti
+{I lavori richiederanno | settimane. Il costo della costruzione è pari a |. Continuare?}
+{
+Per sbloccare: classificati per il campionato europeo
+Per sbloccare: classificati sesto o in una posizione migliore
+Per sbloccare: evita la retrocessione usando una delle tre ultime squadre del campionato
+Per sbloccare: vinci il campionato europeo
+Per sbloccare: termina la stagione tra i primi tre per tre volte consecutive
+}
+Numero insufficiente di giocatori in squadra. Completare automaticamente?
+Eliminare la mail?
+desidera negoziare di nuovo
+vuole sapere cosa siamo disposti ad offrirgli.
+ha accettato la tua offerta!
+accetta le condizioni ed è pronto a giocare nella nostra squadra.
+Il contratto di [playername] sta per concludersi
+Il contratto di [playername] si conclude quest'anno e vuole negoziare il rinnovo.
+Riqualificazione dell'installazione completata
+La riqualificazione di [facility] è stata terminata
+Previsioni:
+NOTIZIE FLASH
+Attivare l'audio?
+Audio
+attivo
+disattivo
+Salvataggio in corso...
+Il vincitore del campionato è 
+Costo
+Tempo rimanente
+Tempo di costr.
+{PS|SH|PA|SP|DE}
+{GK|DE|MF|AT}
+Riserva
+Panchina
+Turno
+{La partita tra [team1] e [team2] si è conclusa.}
+Tutti parlano di [name], che ha trascinato la squadra [team] verso la vittoria. Che incredibile spirito di leader!
+Salvare il gioco?
+Età:
+{Hai sbloccato un extra! Controlla la sezione "Extra":}
+{comandi|modo di gioco|personalizzazione|direzione del club|extras}
+E
+Consigli su LMA
+SQUADRA
+Fondi insufficienti per il completamento automatico. Vendere dei giocatori e riprovare.
+Non si può inserire un giocatore sostituito nella formazione titolare.
+{
+Codemasters Software Company
+
+Producer:
+Melissa Scrivin
+
+Director, Product Development:
+Samantha Parker
+
+Director, Mobile:
+Matt Davies
+
+BDM-Mobile:
+Paul Topping 
+
+
+Sviluppato:
+Microjocs Mobile
+
+Produttore:
+Manel Sort
+
+Capo gruppo:
+Carlos Peris
+
+Disegnatore:
+Joaquín Hurtado
+
+Programmatori:
+Carlos Peris
+David Rodríguez
+Juan Antonio Gómez
+
+Artisti:
+Raúl Durán
+
+Musica:
+Jordi Gutiérrez
+
+Produttore Porting:
+Itthi Yossundara
+
+QA Direttore:
+Damià Vázquez
+
+QA
+Alfred Ferrer
+Ricard Reixach
+Victor Mora
+Arnau Castellví
+}
+
+

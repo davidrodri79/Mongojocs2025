@@ -1,0 +1,49 @@
+commencez le jeu
+continuer
+{son désactivé|son activé}
+*
+*
+*
+aide
+à propos
+Enlever
+sortie
+Chargement
+Attendez, s'il vous plaît ...
+{accepter|enlever}
+*
+Congratulations
+Êtes- vous sûr?
+{ |Menu|Accepter|Retour|Continuer|Annuler|Oui|Non|Acheter|Vendre|Confirmer|Négocier|Marquer|Sélectionner|Changer|Insérer|Lire|Commencer|Auto|Employer|Tirer|Éditer|Utiliser|Mettre hors d'action|Rechercher|Fait}
+{
+About
+}
+*
+options
+nouveau jeu
+match exhibition
+Game in pause
+{Match|Tactics|League|Training|Buy|General|Help}
+{Angleterre|Écosse|Allemagne|Italie|France|Espagne}
+{Janvier|Février|Mars|Avril|Mai|Juin|Juillet|Août|Septembre|Octobre|Novembre|Décembre}
+{Lundi|Mardi|Mercredi|Jeudi|Vendredi|Samedi|Dimanche}
+{ÉQUIPE|ENTRAÎNEMENT|PORTABLE|INFORMATION|TRANSFERTS|FINANCES|STADE|OPTIONS|CALENDRIER}
+{SÉLECTIONNEZ UNE ÉQUIPE|TACTIQUES|FORMATION|STYLE|BLESSÉ|SUSPENDU|ÉDITEZ NOMS}
+{PROGRAMME|STYLE}
+{MESSAGES}
+{TABLEAU DU CHAMP. 1|TABLEAU DU CHAMP.|CHAMPIONNAT EN CHIFFRES|CHAMP. D'EUROPE|COORDONNÉES DU CLUB|BUTEURS|TOP 11|DIRECTEUR}
+{RECHERCHE MANUELLE|RECHERCHE SÉLECTIVE|RECHERCHES|VENTE}
+{RELEVÉS DE COMPTE BANCAIRE|PRIX FIXES|LISTE DES EMPLOYÉS|SPONSORS|ASSISTANCE}
+{CONSTRUCTION}
+{AIDE|SON|SAUVEGARDER|ENLEVER}
+{MATCHS}
+{3-4-3|5-3-2|4-4-2|4-3-3|3-5-2|5-4-1}
+{Attaquants|Milieux de terrain|Défenseurs|Gardiens de but}
+{Repos|Résistance|Travail dans la surface|5 de chaque côté|Traversée|tête-à-tête|Avancé}
+ ABCDEFGHIJKLMNÑOPQRSTUVWXYZ1234567890!-
+{Anglais|Écossais|Allemand|Italien|Français|Espagnol}
+Joueur 1
+Équipe 1
+
+
+

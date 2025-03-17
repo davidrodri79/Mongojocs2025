@@ -1,0 +1,10 @@
+{
+LMA 2007
+$version$
+
+(c) 2006 The Codemasters Software Company Limited ("Codemasters").
+Tutti i diritti riservati. "Codemasters"(R) è un marchio registrato di Codemasters.
+"Football Manager Campionato"TM 2007 e "GENIUS AT PLAY"TM sono marchi di Codemasters.
+Tutti gli altri diritti d'autore o marchi che appaiono nel gioco appartengono ai rispettivi proprietari.
+Sviluppato da Microjocs. Pubblicato da Codemasters.
+}

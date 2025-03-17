@@ -1,0 +1,29 @@
+Informe del partido:
+{
+Partido sin goles el que enfrentó a [team0] y [team1].
+Interesante partido entre [team0] y [team1].
+Lluvia de goles en el partido disputado entre [team0] y [team1].
+}
+{
+Se han enfrentado dos equipos con aspiraciones muy diferentes para este partido.
+A priori, el partido no tenía un claro favorito para llevarse la victoria.
+}
+{
+[team] ha remontado un resultado adverso.
+[team] ha ganado por goleada.
+[team] ha empezado ganando y se ha llevado el partido.
+[team] ha empezado ganando, pero al final el partido ha acabado en empate.
+}
+{
+El gol de [playerName], que ha puesto el [result] en el marcador ha sido magnífico.
+Un impecable testarazo a la salida de un corner.
+Un golazo soberbio desde fuera del área, que ha entrado por toda la escuadra.
+Mano a mano con el portero y le ha colado el balón por debajo de las piernas.
+Un imparable remate de chilena. 
+}
+{
+A los jugadores del [team] se les ha visto muy bajos de forma.
+El [team] tiene que mejorar mucho si no quiere pasarlo mal esta temporada.
+La táctica del [team] no ha funcionado para este partido.
+}
+

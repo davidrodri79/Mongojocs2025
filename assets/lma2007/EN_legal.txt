@@ -1,0 +1,11 @@
+{
+LMA 2007
+$version$
+
+(c)2006 The Codemasters Software Company Limited "Codemasters".
+All rights reserved. "Codemasters"(R) is a registered trademark of Codemasters.
+"LMA Manager"TM  2007 and "GENIUS AT PLAY"TM are trademarks of Codemasters.
+All other copyrights or trademarks appearing in the game are the property of their respective owners.
+Developed by Microjocs. Published by Codemasters.
+}
+

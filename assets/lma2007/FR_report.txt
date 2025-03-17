@@ -1,0 +1,29 @@
+Compte-rendu du match
+{
+Match nul 0-0 entre [team0] et [team1]
+Match mouvementé entre [team0] et [team1]
+Avalanche de buts dans le match entre [team0] et [team1]
+}
+{
+Les deux équipes avait des espoirs très différents pour ce match.
+Le match a commencé sans un clair favori. 
+}
+{
+[team] est venu de derrière pour gagner.
+[team] a gagné largement. 
+[team] a pris le match en main et l'a emporté.
+[team] a pris le match en main, mais le match s'est terminé par un match nul.
+}
+{
+Le but de [playerName] qui a ouvert le score était magnifique.
+Une tête impressionnante à la suite d'un corner.
+Un but superbe de l'extérieur de la surface, buried on the top corner (incomprensible..) 
+Un face à face avec le gardien et il glisse le ballon entre ses jambes.
+Un tir aérien inarrêtable.
+}
+{
+Les joueurs de [team] semblent être hors de forme.
+[team] a besoin de s'améliorer pour s'épargner des moments difficiles cette saison.
+Les tactiques de [team] n'ont pas fonctionné pour ce match.
+}
+

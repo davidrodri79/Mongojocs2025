@@ -1,0 +1,319 @@
+MANNSCHAFT
+ERSATZSPIELER VERLETZT ODER SPIELER AUSGESCHIEDEN
+VERLETZTE SPIELER ERSETZEN
+LINKE WECHSEL
+WÄHLE MANNSCHAFT
+PS
+Name
+{TW|VE|MF|AN}
+TAKTIKEN
+Verteidigung
+In Freiraum weitergeben
+Langer Ball
+Angriff
+Ball behalten
+AUFSTELLUNG
+STIL
+{Verteidigung|Normal|Angriff}
+VERLETZT
+Wochen
+Du hast keine verletzten Spieler
+AUSGESCHIEDEN
+Du hast keine ausgeschiedenen Spieler
+TRAINING
+KALENDER
+PLAN
+{SC|WE|SC|VE}
+{Leicht|Normal|Stark}
+LAPTOP
+INBOX
+Nachricht
+INFO
+{LIGA TABLE 1|LIGA TABLE 2}
+{TEAM|PT|W|U|V}
+{TEAM|PT|G+|G-}
+LIGA GRAPHIK
+EUROPÄISCHER
+{Qualifiziert für die nächste Runde|Nicht mehr im Spiel}
+ VS 
+CLUB DETAILS
+Club
+Manager
+Hauptsponsor
+Anzeigen
+Kapazität
+Angestellte
+Spieler
+SPITZEN 11
+{No|PS|NAME|QA}
+SPITZENSPIELER
+{NAME|TORE}
+MANAGER
+Name:
+Nationalität:
+Lieblingsclub:
+Leistungen
+Motivation:
+Training:
+Spielerbewertung:
+Disziplin:
+FINANZEN
+BANKANGABEN
+LISTE DER ANGESTELLTEN
+SPONSOREN
+PREISE FESTLEGEN
+AUSWECHSELN
+VERKAUFEN
+MANUELLE SUCHE
+KAUFEN
+FILTRIERTE SUCHE
+VERHANDELN
+{VS| - }
+REST: 
+{Liga|Europäisch Meisterschaften|*}
+{Normal >|< Schnell >|< Am schnellsten}
+{Qualifizieren für die Europäische Pokalspiel|Beende die Saison unter den ersten 6.|Beende die Saison in der ersten Hälfte.|Abstieg vermeiden, versuche so gut wie möglich abzuschließen.|Vermeide einen Abstieg.}
+{Schüsse|Fouls|Ball behalten}
+{GESAMT FONDS:|EINKÜNFTE (diese Woche)|Sponsoren:|Gebührenüberweisung:|Match-Einkommen:|Parkhausquittungen:|GESAMT EINKÜNFTE:|AUSGABEN (diese Woche)|Gehälter:|Gebührenüberweisung:|Ausbau der Einrichtungen:|Bonus:|GESAMT AUSGABEN:}<nk-s40>!
+{FONDS:|EINKÜNFTE (diese Woche)|Sponsoren:|Gebührenüberweisung:|Match-Einkommen:|Parkhausquittungen:|GESAMT EINKÜNFTE:|AUSGABEN (diese Woche)|Gehälter:|Gebührenüberweisung:|Ausbau der Einrichtungen:|Bonus:|GESAMT AUSGABEN:}<nk-s40>?
+ARBEITEN
+{Manager Assistent:|Trainer:|Kundschafter|Fitnesstrainer:|Physiotherapeut:|Handelsmanager:}
+ANGESTELLTENGEHALT
+QUALITÄT
+Kosten pro Woche
+{Billig|Durchschnittlich|Ausgezeichnet}
+HEMDENSPONSOR
+PLAKATWAND SPONSOR
+{Name: |Man gibt dir [money] jede Woche.|Vertrag dauert [time] Monate.|Kein Hemdensponsor unter Vertrag genommen.}
+{Name: |Man gibt dir [money] jede Woche.|Vertrag dauert [time] Wochen.|Kein Plakatwandsponsor unter Vertrag genommen.}
+Ticket Preis
+{Standing|Normal|VIP|Parkhaus}
+Liga wählen
+Team wählen
+QA
+{Liga|Position|Maximalkosten}
+No players found matching this criteria.
+{Dauer des Vertrags | Jahre|Wöchentliches Gehalt|Bonus gewinnen}
+{Willkommen bei |Dein Ziel für diese Saison lautet:}
+Du hast ein Vertragsangebot an [player] geschickt
+Du wartest, dass dieser Spieler das Vertragsangebot beantwortet.
+Neuer Hemdensponsor unter Vertrag genommen
+Neuer Plakatwandsponsor unter Vertrag genommen
+Spieler mit << bezeichnet sind bereit, Wechsel-Angebote zu erhalten. Du bist bereit, [amount] Spieler zu verkaufen.
+Spieler mit >> bezeichnet haben ein Wechsel-Angebot erhalten. Du hast [amount] Spielern ein Angebot geschickt.
+{Dieser Angestellte arbeitet derzeit für unseren Club. Möchtest du ihn entlassen?|Möchtest du diesen Angestellten unter Vertrag nehmen?}
+{Du hast [player] für [money] verkauft|Du hast diesen Spieler bereits verkauft.}
+{Kein Spieler mit diesen Merkmalen gefunden.|Zu viele Spieler gefunden. Nur die ersten 100 werden angezeigt|Du hast noch keinen Kundschafter unter Vertrag genommen|Kundschafter sagt, er konnte diesmal keinen interessanten Spieler finden|Kundschafter empfiehlt dir [amount] Spieler}
+{Du hast bei diesem Spiel bereits drei Leute ersetzt.|Du musst verletzte oder ausgeschiedene Spieler ersetzen.|Du musst verletzte Spieler ersetzen.|Du darfst keine verletzten oder ausgeschiedenen Spieler in deiner 11-er-Mannschaft haben.|Ausgeschiedene Spieler können nicht ersetzt werden|Verletzte Spieler können nicht spielen}
+{Verteidigung|Normal|Angriff}
+{England|Schottland|Deutschland|Italien|Frankreich|Spanien|Any}
+{TW|VE|MF|AN|Beliebige}
+{ADW Cars|Godo & Rodo|MJ Graphics|Turley Burger|Furman Designs}
+{ADIDAS|KAPPA|KITKAT|REEBOK|UMBRO|FUNSTA|CODEMASTERS}
+{Hemdensponsor-Angebot|Möchtest du einen Hemdensponsor Vertrag mit [name] für [money] jede verbleibende Woche während [time] Wochen?|Du hast nun einen Hemdensponsor Vertrag mit [name] für [money] jede verbleibende Woche  während [time] Wochen.}
+{Plakatwandsponsor-Angebot|Möchtest du einen Plakatwandsponsor- Vertrag mit [name] für [money] jede verbleibende Woche während [time] Wochen?|Du hast hetzt einen Plakatwandsponsor- Vertrag mit [name] für [money] jede verbleibende Woche  während [time] Wochen.}
+{Auswechsel-Angebot für [name]|Dieser Spieler hat ein Angebot von einem Club für [money] erhalten. Willst du [name] wirklich verkaufen?}
+{[name] weist dein Angebot zurück|[name] hat kein Interesse, in unserem Club zu spielen.}
+{[name] hat kein Interesse mehr.|[name] verhandelt nicht mehr mit unserem Club.}
+{[name] möchte neu verhandeln.|[name] sagt, dass das von dir angebotene Gehalt zu gering ist.|[name] möchte einen längeren Vertrag als von dir angeboten.|[name] sagt, dass der von dir angebotene Bonus für jeden Sieg zu gering ist.}
+{Ziele der Saison|Glückwunsch! Du hast die für diese Saison festgelegten Ziele erreicht.}
+{Ziele der Saison|Es tut mir Leid, aber du hast die Zielsetzung für diese Saison nicht erreicht und der Club hat entschieden, dich zu entlassen.}
+{[name] verlässt den Club|[name] hat den Vertrag mit unserem Team beendet und verlässt den Club.}
+{Europäische Meisterschaft|Du hast die Europäische Meisterschaft gewonnen|Du wurdest von  der Europäischen Meisterschaft gefeuert|Du hast es durch die Europäische Meisterschaftsrunde geschafft}
+Europäische Runde
+{. Du hast das Match|. Du hast das Match verloren|. Das Match war unentschieden.}
+{ gewinnt die Liga}
+{Der Ligagewinner ist | mit | Punkten.}
+{Glückwunsch|Wir sind die Champions!|Wir sind die Liga Champions!}
+{Willkommen bei |Der Vorstand von | erwartet von die und dem Team für diese Saison das Beste Saison.}
+{Nordstand|Südstand|Oststand|Weststand|Parkhaus|Trainingsfeld|Trainingssaal|Ärztedienst|Gras|Anzeigetafeln}
+{Einrichtungen des Stadions|Derzeit}
+Du musst mindestens 16 Spieler in deinem Team haben
+Du hast nicht genug Geld, um diesen Spieler zu kaufen
+Du hast das gesamte vorhandene Geld um Spieler zu kaufen und das Team zu leiten, ausgegeben. Du bist entlassen.
+Kein Spieler mit diesen Merkmalen gefunden
+Zu viele Spieler gefunden., die ersten 100 werden aufgelistet
+{Eine fantastische Fussballnacht!|Der außergewöhnliche [team1] hat [team2] eindeutig geschlagen. |Welch ein Match!}
+{W, D. M Y}
+{st|nd|rd|th}
+Die Liga hat noch nicht begonnen
+Diese Option wird automatisch von deinen Angestellten gehandhabt. Möchtest du dauernd auf den manuellen Modus übergehen?
+{Tor!|Halbzeit|Foul|Strafschuss|Out|Ecke|Offside}
+{SCHLECHT|MANGELHAFT|DURCHSCHNITTLICH|GUT|HERVORRAGEND}
+NAME EDITIEREN
+NAMEN EDITIEREN
+{3-4-3 (b)|4-4-2 (b)}
+{(U)|(R)}
+DETAILS
+Fonds
+SPONSOREN & STADION
+PERSONAL
+Kein
+BESUCHER
+STADION
+MATCH STATISTIK
+{Das Match ist unentschieden:|Du hast das Match gewonnen:|Du hast das Match verloren:}
+Die folgenden Spieler sind verletzt oder ausgeschieden:
+Matche
+LIGA STATISTIK
+Woche
+Die Europäische Meisterschaft hat noch nicht begonnen
+{Die Europäische Meisterschaft ist vorbei|Der Champion ist }
+EUROPA STATISTIK
+Statistik
+Fortschritt
+nächstes Match
+Europäische Meisterschaft
+Visualisierung
+{Match überspringen|2D Match|Text Match}
+{Hauptbildschirm|Match Statistik|Liga Statistik|Europa Statistik}
+hauptmenü
+spielen
+fantasieteam 
+schwierigkeitsgrad
+normal
+experte
+team wählen
+Vorführungsmatch
+persönliche
+name eingeben
+nationalität
+alter
+lieblingsclub
+weiter
+talentpunkte:
+motivation:
+training:
+bewertung:
+disziplin:
+liga wählen
+persönliche team
+namen editieren
+farbe editieren
+spieler wählen
+linke farbe
+rechte farbe
+SPIELER WÄHLEN
+Weiter
+Aufstellung
+Anweisungen
+Mannschaft
+Match überspringen
+optionen
+{tonstärke: schwach|tonstärke: mittel|tonstärke: stark}
+{selbstspeichern aus|selbstspeichern an}
+punkte
+bonuscodes
+regen während dem match
+zusätzliche aufstellung
+schnelles training
+keine verletzungen
+unbegrenzte fonds
+Warnung! Alle früher gespeicherten Daten können gelöscht werden. Bist du sicher?
+Du musst alle Talentpunkte vergeben
+Du kannst keine Spieler von deinem eigenen Team kaufen
+Dein Team hat schon 30 Spieler. Du kannst diesen Spieler diesmal nicht unter Vertrag nehmen.
+Du kannst keinen neuen Hemdensponsor unter Vertrag nehmen, solange der frühere Vertrag noch gilt.
+Du kannst keinen neuen Plakatwandsponsor unter Vertrag nehmen, solange der frühere Vertrag noch gilt.
+{Schlechte position|und|effizienz|Bist du sicher?}
+kann nicht weiter verbessert werden
+{Im Bau|Wochen verbleiben|. Verbesserung stornieren?}
+Nicht genug Geld
+{Die Arbeiten dauernt | Wochen. Die Baukosten betragen |. Bist du sicher?}
+{
+Zur Freigabe: qualifizieren für die Europäische Meisterschaft
+Zur Freigabe: Saison als sechster oder besser abgeschlossen
+Zur Freigabe: vermeide Abstieg mit einer der tasten der 3 Teams in der Liga
+Zur Freigabe: gewinne die Europäisch Meisterschaft
+Zur Freigabe: beende die Saison unter den ersten drei, drei Mal in einer Reihe
+}
+Nicht genug Spieler in deiner Mannschaft. Automatisch fertig stellen?
+Bist du sicher, dass du das Mail löschen willst?
+möchte verhandeln
+möchte wissen, ob wir bereit sind, ihm ein Angebot zu unterbreiten.
+hat dein Angebot angenommen!
+kzeptiert deine Bedingungen und ist bereit, mit unserem Club zu spielen.
+Der Vertrag von [playername] läuft bald ab
+Der Vertrag von [playername] läuft dieses Jahr ab, und er möchte über eine Verlängerung verhandeln.
+Verbesserung der Einrichtungen erfolgt
+[facility] Verbesserung ist erfolgt
+In Bälde:
+NACHRICHTEN
+Spiel mit Ton?
+Ton
+ermöglicht
+blockiert
+Daten speichern
+Der Liga-Sieger ist
+Kosten
+Zeit für den Ausbau
+Bauzeit
+{PS|SC|WE|SC|VE}
+{TW|VE|MF|AN}
+Reserve
+Bänke
+Runde
+{Das Match zwischen [team1] und [team2] ist beendet }
+{Alle sprechen über [name] der [team] zum Sieg verhalf. Welch ein Führungsstil!}
+Spiel speichern
+Alter:
+{Du hast einen Bonuscode geöffnet! Überprüfe den Bonuscode-Bildschirm:}
+{kontrollen|spielarten|persönliche gestaltung|clubleitung|extraoptionen}
+E
+LMA Tipps
+TEAM
+Nicht genug Geld für die automatische Vervollständigung. Verkaufe einen Spieler und versuche noch einmal!
+Du kannst keinen ersetzten Spieler wieder in die Mannschaft eingliedern.
+{
+Codemasters Software Company
+
+Produzent:
+Melissa Scrivin
+
+Direktor, Produktentwicklung:
+Samantha Parker
+
+Direktor, Mobile:
+Matt Davies
+
+BDM-Mobile:
+Paul Topping 
+
+
+Entwickler:
+Microjocs Mobile
+
+Produzent:
+Manel Sort
+
+Mannschaftsführer:
+Carlos Peris
+
+Designer:
+Joaquín Hurtado
+
+Programmierer:
+Carlos Peris
+David Rodríguez
+Juan Antonio Gómez
+
+Künstler:
+Raúl Durán
+
+Musik:
+Jordi Gutiérrez
+
+Porting Produzent:
+Itthi Yossundara
+
+QA Manager:
+Damià Vázquez
+
+QA
+Alfred Ferrer
+Ricard Reixach
+Victor Mora
+Arnau Castellví
+}
+
+

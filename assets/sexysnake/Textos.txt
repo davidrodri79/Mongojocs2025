@@ -1,0 +1,54 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menu
+
+Tecla de menú derecha:
+Aceptar opcion
+
+Teclas 4 y pad izquierdo:
+Mover a la izquerda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Mover hacia arriba
+
+Teclas 8 y pad abajo:
+Mover hacia abajo
+}
+{
+Acerca de...
+
+Programación:
+Juan Ant. Gómez
+Raimon Rafols
+
+Gráficos:
+Raul Duran
+
+Sonido:
+Jordi Gutierrez
+
+Desarrollado por:
+Microjocs Mobile
+2004
+}
+Nivel
+Vidas
+Conejos Restantes
+Vuelve a intentarlo
+

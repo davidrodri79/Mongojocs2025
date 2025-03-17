@@ -1,0 +1,207 @@
+{
+Ambos equipos están preparados para el saque inicial de este importante partido.
+Los jugadores están en el campo y listos para el saque inicial.
+Nervios en la gradería mientras los jugadores saltan al césped.
+Todo el mundo está un poco nervioso por el partido de hoy.
+}
+{
+Saque del  [teamAtt]
+Y [teamAtt] realiza el saque
+[teamAtt] pone el balón en juego
+}
+{
+Final del primer tiempo
+Llegamos al descanso, el colegiado ha pitado el final de la primera parte
+El árbitro toca el silbato e indica el final del primer tiempo
+}
+{
+Y esto ha sido todo por hoy. Concluye el partido
+El árbitro pita el final del encuentro
+¡Y se acabó! El árbitro señala el final
+}
+{
+Saque de puerta de [playerAtt], [teamAtt] tiene la pelota
+El balón sale fuera del campo y [playerAtt] se prepara para el saque de portería
+[playerAtt] realiza un potente saque de portería
+}
+{
+Saque de falta para [teamAtt]
+[teamAtt] intentará obtener ventaja de este saque de falta
+[playerAtt] se dispone a chutar la falta
+}
+{
+[playerAtt] coge el balón para el saque de banda
+¡Saca el balón desde la banda! [teamAtt] ataca
+Este chaval es un especialista en saques de banda. El marcaje será muy importante.
+Saque de [teamAtt]
+}
+{
+[playerAtt] se prepara para el saque de corner
+[playerAtt] coloca el balón. Centra al área.
+[teamAtt] es especialista en corners. [teamDef] debe cerrar la defensa.
+A [teamDef] raramente le marcan de corner, los hinchas confían mucho en su defensa en este momento.
+Saque de corner para [teamAtt], el balón es rápidamente puesto en juego
+}
+{
+... ¡y marca! ¡Qué cañonazo de [playerAtt]! ¡¡GOOOL!!!
+¡¡Increíble!! [playerAtt] se abre paso hasta la portería y... ¡¡GOOOL!!
+...¡y entra! Fantástico gol de [playerAtt]. ¡¡GOL!!
+¡Fíjate en eso! ¡Vaya golazo de [playerAtt]!
+...¡y gol! ¡Tanto de [teamAtt]!
+ ¡¡GOOOL!!! ¡Impresionante! ¡A punto ha estado [playerAtt] de atravesar la red!
+¡GOL! ¡Ha sido visto y no visto! ¡[playerAtt] está que se sale!
+Tremendo cabezazo de [playerAtt]. ¡El portero no ha tenido la menor oportunidad!
+¡Qué golazo! ¡¡Un chut formidable de [playerAtt]!!
+¡¡GOOOL!! ¡Es alucinante! ¡[playerAtt] tiene la misma cara de sorpresa que los demás, pero acaba de marcar!
+}
+{
+La grada está desbocada tras este espectacular tanto del delantero del [teamAtt].
+Los hinchas del [teamAtt] están como locos, corean el nombre de su delantero.
+La gradería se vuelca con [teamAtt]. Les ha encantado ese último tanto.
+}
+{
+...pero el portero despeja el balón.
+El guardameta realiza un impecable despeje. ¿Cómo ha sido capaz de alcanzar ese balón?
+El balón está a punto de entrar por la escuadra, pero el guardameta rápidamente lo despeja.
+…el portero despeja el esférico.
+...el portero despeja con el puño.
+[playerDef] logra sacar el balón
+}
+{
+...¡y el esférico se va al palo!
+¡Al poste! ¡[playerAtt] no se lo puede creer!
+...¡y se va al palo! ¡Increíble!
+¡Directo al larguero!
+}
+{
+...el esférico va directo a las manos del guardameta.
+...¡y el balón acaba en las manos del portero!
+...el portero atrapa el balón sin dificultad.
+¡Impresionante! ¡El guardameta se ha hecho con el esférico justo en la línea de gol!
+...impresionante trabajo del portero. ¡Qué paradón!
+}
+{
+...¡el esférico sale del terreno de juego!
+...y el balón acaba pasando por encima de la línea
+Nadie consigue controlar el balón y éste sale del campo.
+}
+{
+¡[playerAtt] se prepara para lanzar la pena máxima!
+[playerAtt] coloca el balón en el punto de penalti, empieza a coger carrerilla..
+}
+{
+El árbitro indica que continúe la jugada...
+El árbitro la deja pasar.
+Eso ha sido una entrada muy mal calculada, le podría haber roto algo. ¡El árbitro necesita recuperar el control del encuentro!
+Eso ha sido una falta clara, pero el árbitro...
+}
+{
+[playerDef] no puede alcanzar el balón, es corner
+Y el esférico sale del terreno de juego. Corner favorable para  [teamAtt]
+[playerDef] despeja el balón, pero no puede prevenir que acabe en corner
+}
+{
+¡[playerDef] comete falta dentro del área!
+¡Eso ES penalti! ¡Seguro! ¡[playerDef] ni siquiera buscó el balón!
+Fea entrada de [playerDef] dentro del área...
+}
+{
+¡Y el árbitro señala penalti favorable al [teamAtt]!
+¡Penalti! Ésta es una buena oportunidad de marcar para [teamAtt]. 
+El árbrito señala penalti a pesar de los comentarios de [playerDef]
+Varios jugadores van a quejarse al colegiado, pero éste no perdona. ¡¡Penalti!!
+}
+{
+¡El colegiado enseña la cartulina amarilla a [playerDef]!
+[playerDef] es amonestado. ¡Tarjeta amarilla!
+¡Una tarjeta amarilla! [playerDef] parece que no se lo puede creer
+¡Eso ha sido una entrada muy dura! [playerDef] es amonestado con una tarjeta amarilla
+}
+{
+¡Y el balón sale de banda!
+¡Fuera!
+¡Salió por la banda!
+}
+{
+¡Peligrosa segada de [playerDef] a [playerAtt]!
+¡Una acción muy  imprudente de [playerDef]!
+[playerDef] podría haberlo lesionado de gravedad. ¡El árbitro debería tomar partido!
+¡[playerDef] parece frustrado, el árbitro debería decirle algo!
+¡Eso es una salvajada! ¡[playerDef] no puede hacer entradas como ésa!
+¡Violenta entrada de [playerDef]!
+}
+{
+¡[playerAtt] intercepta el pase! ¡[teamAtt] recupera el control del esférico!
+¡[playerAtt] tiene el balón! ¡[teamAtt] vuelven al ataque!
+[playerAtt] intercepta...
+[playerAtt] consigue robar el balón}
+{[playerAtt] va directo a la portería...
+[playerAtt] debe buscar la puerta
+[playerAtt] quiebra al defensa y enfila a portería…
+[playerAtt] encara al guardameta...
+}
+{
+[playerCoop] adelanta a [playerAtt]
+Pase largo de [playerCoop] a [playerAtt]
+Un buen pase de [playerCoop] a [playerAtt], ¡cómo ha roto la defensa!
+Los jugadores de [teamAtt] están moviendo el esférico entre ellos. ¡Qué forma de jugar!
+Pase corto a [playerAtt]
+Centro a [playerAtt]
+[playerAtt] recibe el balón
+}
+{
+[playerCoop] pasa de tacón a [playerAtt]
+[playerCoop] pasa hacia atrás a [playerAtt]
+[playerCoop] devuelve atrás el balón}
+{[playerAtt] decide enviar el balón de vuelta al guardameta.
+[playerAtt] la juega hacia atrás para su portero. Los hinchas lo abuchean. ¡Han venido ver fútbol ofensivo!
+[playerAtt] pasa el balón al guardameta
+}
+{
+¡[playerAtt] se va para arriba él solo!
+[playerAtt] se va solo
+[playerAtt] se interna en el área.
+¡[playerAtt] se escapa solo con la pelota!
+¡[playerAtt] busca el gol de jugada individual!
+}
+{
+¡[playerAtt] centra el balón...!
+El balón es centrado con extrema puntería.
+Preciso centro al área, ¡están OBLIGADOS a marcar!
+El esférico es lanzado al centro del área...
+[playerAtt] centra el balón al área...}
+{[playerAtt] salta y cabecea el balón...
+el esférico llega a [playerAtt]...
+el balón cae a los pies de  [playerAtt]. Lo controla y chúta...
+ [playerAtt] realiza una volea hacia la puerta…
+[playerAtt] recibe y encara a portería...}
+{¡[playerDef] roba el balón!
+[playerDef] realiza una entrada perfecta y lleva el balón fuera de peligro.
+[playerDef] intercepta y se hace con el balón}
+{[playerDef] recibe su segunda amarilla. El colegiado le muestra la tarjeta roja.
+[playerDef] ya tenía una tarjeta amarilla por una entrada tonta. Sí, es la segunda amarilla, ¡y se va a la calle!
+¡Segunda amarilla para [playerDef]! El árbitro le enseña la cartulina roja.}
+{¡Se ha lesionado [playerAtt]! Los fisioterapeutas lo retiran del terreno de juego...
+[playerAtt] cae... no se mueve... el fisio entra en el campo. Finalmente, ¡se incorpora y el público rompe en aplausos!
+Parece que [playerAtt] se ha hecho daño... y sí, se va cojeando hacia el banquillo}
+{El presidente sonríe desde el palco.
+Todo el palco felicita al presidente. Parece muy satisfecho.
+¡[teamAtt]! ¡[teamAtt]! ¡[teamAtt]! ¡La gradería se vuelve loca!
+¡Los aficionados están gritando! ¡La grada aclama al equipo! ¡Esto es espectacular!}
+{El presidente del [teamAtt] mira con cara de pocos amigos hacia el banquillo.
+Todo parece indicar que el presidente está muy decepcionado por el juego de su equipo.
+¡Los aficionados del [teamAtt] abuchean al mánager del equipo!
+La grada parece insatisfecha. A los aficionados del [teamAtt] no les gusta lo que ven.
+¡El público está decepcionado! [teamAtt] no está trabajando tal y como se esperaba.}
+{Hay dos balones en el terreno de juego. El colegiado detiene el partido mientras el recogepelotas recoge el balón que sobra.
+¡Se ha declarado algún tipo de pelea entres los seguidores de ambos equipos!
+Unos gamberros están tirando objetos al árbitro.}
+{¡El partido ha sido interrumpido de repente! ¡Hay un hincha corriendo desnudo por el campo...! Los empleados de seguridad consiguen inmovilizarlo... Tras unos minutos de retraso, el retoma el juego.}
+{[teamAtt] vuelve a poner el partido en marcha.
+El esférico ha vuelto al centro del campo. [teamAtt] saca.
+[teamAtt] restablece el juego.}
+
+
+
+
+

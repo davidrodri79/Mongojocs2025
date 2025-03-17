@@ -1,0 +1,52 @@
+{
+MAIN MENU
+2 key - up one option, 8 key - down one option, left menu key or 5 key - select current option, right menu key - go back one step.
+
+IN GAME - ICON BAR
+Use pad or keys 4 and 6 to move horizontally through the options, pad or keys 2 and 8 to move from the main options (top bar) to the secondary options (lower bar), central pad or key 5 to enter a section.<NK-s40>!
+Use pad or keys 4 and 6 to move horizontally through the options, pad or keys 2 and 8 to move from the main options (top bar) to the secondary options (lower bar), key 5 to enter a section.<NK-s40>?
+
+IN GAME - TEXT
+For screens that contain a list or long text use pad or keys 2 and 8 to move up and down, central pad, key 5 or left menu key to select an option, right menu key to go back.<NK-s40>!
+For screens that contain a list or long text use pad or keys 2 and 8 to move up and down, key 5 or left menu key to select an option, right menu key to go back.<NK-s40>?
+
+INGAME - GENERAL
+The left sofkey is used to obtain information and perform actions and the right softkey is used to cancel or go back.
+}
+{
+EXHIBITION MATCH
+Select two teams to play against each other and see how they perform.
+
+NORMAL GAME
+Select a team from any league and try to reach your club's season target. Club management is more or less demanding depending on difficulty level selected. In normal mode finances and training are automatically managed while in expert mode you are totally in control of the club.
+
+FANTASY TEAM<NK-s40>!
+Similar to the 'normal game' but you can create a fantasy team from scratch. Pick your team colours and your perfect squad!<NK-s40>!
+}
+{
+MANAGER
+Manager Customization allows you to customise your name, nationality, age and preferred club - the club you ultimately want to manage. Next distribute your skill points that will influence the game. (Motivation) will improve team morale, (Coaching) will improve training results, (Judgement) will increase chances to get player contracts signed and (Discipline) will control player discipline in matches, decreasing the number of suspended players.<NK-s40>!
+Distribute your skill points that will influence the game. (Motivation) will improve team morale, (Coaching) will improve training results, (Judgement) will increase chances to get player contracts signed and (Discipline) will control player discipline in matches, decreasing the number of suspended players.<NK-s40>?
+
+THE TEAM<NK-s40>!
+In fantasy team mode you can customize the club, choosing its name and badge colours. You can choose players to form the squad from any league and team, or let the team be completed automatically.<NK-s40>!
+}
+{
+Club management is divided into nine main blocks, they are:<NK-s40>!
+Club management is divided into eight main blocks, they are:<NK-s40>?
+SQUAD: Manage anything related to the squad.
+TRAINING: Plan training intensity and frequency.
+LAPTOP: Read all e-mails the user will receive as manager.
+INFO: Detailed information, very useful for the manager.
+TRANSFERS: Buy and sell players.
+FINANCE: Manage employees and finances
+STADIUM: Improve stadium capacity & facilities.<NK-s40>!
+OPTIONS: Access game help, sound options, save game or quit.
+CALENDAR: Play matches.
+}
+{
+EXTRAS<NK-s40>!
+In the "Options" section you can select "Bonus codes" where you can check what is left to be unlocked and find tips on how to play the console game.<NK-s40>!
+When a 'Bonus code' is unlocked it has to be enabled before it takes effect. In the case of tips just clicking on it will display the related text.<NK-s40>!
+}
+

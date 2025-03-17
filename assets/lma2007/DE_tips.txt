@@ -1,0 +1,7 @@
+{VORBEREITEN|Welcher Club?|Für eine mäßige Herausforderung wähle einen Club mit wenigen Erwartungen.| }
+{TAKTIKEN|Du kannst 5 verschiedene Taktiken speichern, auf die du Zugriff von deinem Mannschaftstaktikbildschirm hast.|Passe die Taktiken an die Fähigkeiten der Spieler an| }
+{TECHNISCHES FELD|Kannst du keine Tore erzielen?|Stelle mehr Spieler nach vorne, 4-2-4, 3-4-3 und gib den Angriffen Stil|Kaufe gute Angriffsmittelfeldspieler und einen brauchbaren Stürmer| }
+{MANNSCHAFT/AUSWECHSELN|Verhandlungen|Beginne nicht zu hoch, du kannst das Angebot immer noch erhöhen| }
+{FINANZIELLE EINSCHRÄNKUNGEN|Kaufe den besten Trainer, den du dir leisten kannst|Ein guter Fitnesstrainer ist auch hilfreich|Geh nicht ins Netz! Verkaufe einen Spitzenspieler, um dich abzusichern| }
+Zur Freigabe: Mindestens eine Saison beenden
+

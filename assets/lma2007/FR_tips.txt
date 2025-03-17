@@ -1,0 +1,7 @@
+{GETTING STARTED|Quel club ?|Pour un défi modéré, choisissez un club aux ambitions modestes| }
+{TACTIQUES|Vous pouvez sauvegarder 5 tactiques différentes, accessibles à partir de l'écran Tactiques de l'équipe |Concevez vos tactiques en fonction des qualités de vos joueurs| }
+{DOMAINE TECHNIQUE|Vous ne pouvez pas marquer?|Mettez plus de joueurs en attaque, 4-2-4, 3-4-3 et changez de style de jeu pour attaquer|Achetez de bons milieux de terrain offensifs et un buteur efficace| }
+{ÉQUIPE/TRANSFERTS|Négociations|Ne commencez pas trop haut, vous pouvez toujours augmenter une offre|}
+{CONTRAINTES FINANCIÈRES|Achetez le meilleur entraîneur que vous pouvez vous permettre financièrement d'avoir|Un bon préparateur physique est également utile.|Ne vous mettez pas dans le rouge ! Vendez un bon joueur pour vous tirer d'affaire| }
+{CONTRAINTES FINANCIÈRES|Achetez le meilleur entraîneur que vous pouvez vous permettre financièrement d'avoir|Un bon préparateur physique est également utile.|Ne vous mettez pas dans le rouge ! Vendez un bon joueur pour vous tirer d'affaire|Ouvrir : finissez au moins une saison| }
+To unlock: End at least one season

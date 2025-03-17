@@ -1,0 +1,10 @@
+{
+LMA 2007
+2022
+
+(c)2006 The Codemasters Software Company Limited ("Codemasters").
+Todos los derechos reservados. "Codemasters"(r) es una marca comercial de Codemasters. 
+"Manager de Liga"TM 2007 y "GENIUS AT PLAY"TM son marcas comerciales de Codemasters.
+El resto de copyrights o marcas comerciales son propiedad de sus respectivos titulares.
+Desarrollado por Microjocs. Publicado por Codemasters.
+}

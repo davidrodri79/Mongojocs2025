@@ -1,0 +1,70 @@
+Jugar
+Continuar 
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{Usa la tecla de menú izquierda para ir al menú o retroceder en él.
+Usa la tecla de menú derecha para avanzar en el menú.
+
+Debes pulsar las teclas de dirección tan rápido como te sea posible, siguiendo las indicaciones que aparecen en el círculo de la parte inferior de tu pantalla. La velocidad y fuerza que consigas dependerá de tu capacidad de reacción.
+
+Las direcciones se corresponden con las teclas 2(arriba), 4(izquierda), 6(derecha), 8(abajo) y 5(círculo).
+
+Conseguirás nuevas pruebas si avanzas lo suficiente en el modo Olimpiada. Para esto tendrás que vencer en las carreras y superar las marcas olímpicas en el resto de los acontecimientos.
+
+Demuestra tu habilidad y rapidez. ¿Conseguirás vencer en estas Olimpiadas?
+}
+{Gráficos:
+Elias Lozano García
+
+Programación:
+Oscar Zurriaga Jardí
+
+Sonido:
+Jordi Gutiérrez Sierra
+
+Testing:
+Víctor Mora Rodríguez
+
+Desarrollado:
+Microjocs Mobile
+2004
+}
+Nivel 
+Enhorabuena
+Iniciar Olimpiada
+Continuar Olimpiada
+Entrenamiento
+{
+Comienza la nueva Olimpiada en Poyoland. Prepárate, pues tu esfuerzo debe llevarte a la victoria.
+}
+Elige personaje
+Elige prueba
+Nueva Olimpiada
+INSTRUCCIONES
+CRÉDITOS
+{POYO|C3-KAOS|WIMMIE|BOB|SADDY|KENGUR}
+{100m Lisos|S. de Longitud|L. de Jabalina|100m Frutas|S. de Altura|L. de Melón|S. de Pértiga}
+{GO!|READY|MÍN: 5.50 m|MÍN: 78.00 m|READY|MÍN: 4.00 m|MÍN: 22.00 m|MÍN: 8.00 m}
+INTENTO 
+RESULTADOS
+Intentar de nuevo
+{Tiempo:|Medalla:}
+Longitud conseguida:
+Altura alcanzada:
+-Nulo-
+NUEVO RÉCORD
+{Medalla:|Mejor Puntuación:}
+FELICIDADES
+{
+¡Felicidades, has conseguido ser medallista en las Olimpiadas de este año!
+
+Celebra tu triunfo, y ahora intenta mejorar tus marcas en el modo entrenamiento.
+}
+

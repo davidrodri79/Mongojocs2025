@@ -1,0 +1,109 @@
+Jugar
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+El videojuego de la película 'El Juego de La Verdad' está inspirado en los populares juegos de la verdad y la botella.
+
+El funcionamiento es muy sencillo, una vez indicado el número de jugadores que van a participar, con sus respectivos nombres, éstos irán participando en diferentes pruebas. Si el jugador supera la prueba que se le ha asignado pasará el turno al siguiente jugador; en caso contrario, éste estará a merced de la botella, que le indicará si tiene que realizar una determinada acción, pagar una prenda, pasar turno o responder a una pregunta.
+
+Si el jugador no quiere realizar la acción asignada o contestar a la pregunta, deberá pagar una prenda.
+
+Cuando alguien no pueda pagar más prendas tendrá que ser eliminado del juego. Gana el jugador que conserva alguna prenda cuando todos han sido eliminados.
+
+Para continuar en las pantallas de información, pulsa la tecla Aceptar o 5.
+
+}
+{
+Acerca de...
+
+Programación:
+Ricard Ollé
+Pedro Díaz
+
+Gráficos:
+Jordi Palomé
+
+Sonido:
+Jordi Gutiérrez
+
+Desarrollado por:
+Microjocs Mobile
+2004
+}
+CARACTERÍSTICAS
+DEL JUEGO
+¿CUÁNTOS
+JUGADORES
+Modificar
+Siguiente
+Guardar
+Salir
+Aceptar
+.
+Nombre
+Jugador
+El Juego de la Verdad
+¿Núm. Jugadores?
+Nombre Jugador
+NO
+SÍ
+SELECCIONANDO
+QUIÉN VA A
+EMPEZAR...
+Menú
+EMPIEZA:
+SIGUIENTE
+===========
+OOOOOHH
+NO HAS SUPERADO
+LA PRUEBA, ASÍ QUE...
+¡¡A LA RULETA!!
+PREGUNTA
+ACCIÓN
+PASAR
+TURNO
+PRENDA
+TIENES QUE PAGAR
+PRENDA.
+(PULSA UNA TECLA
+PARA CONTINUAR)
+RANKING
+Mini-Juegos
+Modificar Juego
+Guardar Juego
+Recuperar Juego
+Debes coger todos los productos con el carro sin que se te caigan, e ir apilándolos por tipo.\n\nSi se te caen más de tres productos o los apilas incorrectamente perderás.\n\n¡¡SUERTE!!
+Debes llegar el primero a la meta. Para acelerar debes pulsar las teclas que se te indiquen, y si te equivocas de teclas frenarás.\n\n¡Rápido, hay una carrera por ganar!
+Selecciona un jugador
+¡¡Has ganado!!
+¡¡Has perdido!!
+Debes ordenar las letras siguientes para formar una palabra.\n\n¡¡SUERTE!!
+¡¡¡CORRECTO!!!
+¡¡INCORRECTO!!
+Introduce la palabra
+El Súper
+La Carrera
+Las Palabras
+Eliminar
+BORRADO
+No se ha podido borrar el Jugador. Como mínimo se requieren 2 jugadores
+¿Estás seguro?
+¡JUEGO GUARDADO!
+Entrar
+Nivel
+Puntuación
+Introduce tu nombre
+Final
+¡Ningún juego guardado!
+¡Los mini juegos no se pueden guardar!
+

@@ -1,0 +1,7 @@
+{EMPEZANDO|¿Qué equipo?|Para un reto moderado elige un equipo con pocas expectativas| }
+{TÁCTICAS|Puedes guardar 5 tácticas diferentes, accesibles desde la pantalla de Tácticas de Equipo|Modela tus tácticas a las habilidades de tus jugadores| }
+{ÁREA TÉCNICA|¿No consigues marcar?|Juega con más jugadores arriba, 4-2-4, 3-4-3, y selecciona un estilo atacante|Compra buenos delanteros, centrocampistas y un goleador decente| }
+{PLANTILLA/TRANSFERENCIAS|Negociaciones|No empieces muy alto, siempre puedes incrementar tu oferta}
+{RESTRICCIONES FINANCIERAS|Compra el mejor entrenador que te puedas permitir|Un buen fisioterapeuta también es una compra útil|¡No caigas en números rojos! Vende un buen jugador para salir del paso| }
+Para desbloquear: Acaba al menos una temporada
+

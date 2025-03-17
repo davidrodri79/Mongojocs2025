@@ -1,0 +1,5 @@
+{english|Select|EN}
+{deutsch|Akzeptieren|DE}
+{français|Accepter|FR}
+{español|Aceptar|ES}
+{italiano|Accettare|IT}

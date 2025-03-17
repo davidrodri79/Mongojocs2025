@@ -1,0 +1,8 @@
+{Enviar tiempos|DESCARGAR RÉCORDS DE ESTE NIVEL|Descargar nuevos|Descargar récords|Tu tiempo:|Desc. nuevos|Desc. récords}
+{Error conectando con la red}
+{Introduce tu nombre|Aceptar|Introduce tu código de descarga}
+{Elige uno de los packs disponibles o introduce un código|INTRODUCIR CÓDIGO DE DESCARGA| (Ya adquirido)|(Descargar)}
+{¡Todavia no se han registrado récords!|¡Código de descarga inválido!}
+{Conectando con la red. Por favor espera... (Pulsar tecla de Menú para cancelar)}
+{Todavia no has enviado tus tiempos para este pack}
+

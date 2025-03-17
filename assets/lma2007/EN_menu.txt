@@ -1,0 +1,319 @@
+SQUAD
+SUBSTITUTE INJURED OR SUSPENDED PLAYERS
+SUBSTITUTE INJURED PLAYERS
+CHANGES LEFT
+SELECT SQUAD
+PS
+Name
+{GK|DE|MF|AT}
+TACTICS
+Defensive
+Pass into space
+Long ball
+Offensive
+Keep possession
+FORMATION
+STYLE
+{Defensive|Normal|Offensive}
+INJURED
+Weeks
+You have no injured players
+SUSPENDED
+You have no suspended players
+TRAINING
+POSITION
+SCHEDULE
+{SH|PA|SP|DE}
+{Gentle|Normal|Hard}
+LAPTOP
+INBOX
+Message
+INFO
+{LEAGUE TABLE 1|LEAGUE TABLE 2}
+{TEAM|PT|W|D|L}
+{TEAM|PT|G+|G-}
+LEAGUE GRAPH
+EUROPEAN CHAMP.
+{Qualified for next round|No longer in competition}
+ VS 
+CLUB DETAILS
+Club
+Manager
+Main Sponsor
+Advertisements
+Capacity
+Personnel
+Players
+TOP 11
+{No|PS|NAME|QA}
+TOP SCORERS
+{NAME|GOALS}
+MANAGER
+Name:
+Nationality:
+Preferred club:
+SKILLS
+Motivation:
+Coaching:
+Player Judgement:
+Discipline:
+FINANCE
+BANK STATEMENTS
+EMPLOYEE LIST
+SPONSORS
+PRICES SET
+TRANSFERS
+SELL
+MANUAL SEARCH
+BUY
+FILTERED SEARCH
+NEGOTIATE
+{VS| - }
+REST: 
+{League|European champ|Pre-season}
+{Normal >|< Fast >|< Fastest}
+{Qualify for the European Cup.|Finish the season in the top 6.|Finish the season in the top half of the table.|Avoiding relegation, try to finish as high as possible in the table.|Avoid relegation.}
+{Shots|Fouls|Possession}
+{TOTAL FUNDS:|IN (Current week)|Sponsorship:|Transfer fees:|Match income:|Parking tickets:|TOTAL IN:|OUT (Current week)|Wages:|Transfer fees:|Facilities expansion:|Bonuses:|TOTAL OUT:}<nk-s40>!
+{FUNDS:|IN (Current week)|Sponsors:|Transfers:|Match income:|Parking:|TOTAL:|OUT (Current week)|Wages:|Transfers:|Facilities:|Bonuses:|TOTAL:}<nk-s40>?
+JOBS
+{Assist. Manager:|Coach:|Scout:|Fitness instructor:|Physiotherapist:|Commercial manager:}
+EMPLOYEE HIRE
+QUALITY
+Cost per week
+{Cheap|Average|Excellent}
+SHIRT SPONSOR
+HOARDING SPONSOR
+{Name: |Give you [money] each week.|Contract lasts for [time] months.|No shirt sponsor contracted.}
+{Name: |Give you [money] each week.|Contract lasts for [time] weeks.|No hoarding sponsor contracted.}
+Ticket price
+{Standing|Normal|VIP|Parking}
+Choose League
+Choose Team
+QA
+{League|Position|Maximum cost}
+No players found matching this criteria.
+{Length of contract| years|Weekly salary|Winning bonus}
+{Welcome to [team].|Your target for this season is:}
+You sent your contract offer to [player]
+You are already waiting for this player to answer a contract offer.
+New shirt sponsor contracted
+New hoarding sponsor contracted
+Players marked with << are ready to receive transfer offers. You are ready to sell [amount] players
+Players marked with >> were sent a transfer offer. You sent transfer offers for [amount] players
+{This employee is currently working for our club. Do you want to fire him?|Do you want to hire this employee?}
+{You sold [player] for [money]|You have already sold this player.}
+{No players found matching this criteria.|Too many players found. Displaying only first 100|You have no scout contracted yet|Scout says he couldn't find any interesting players at this time|Scout recommends you [amount] players}
+{You've done three substitutions already in this match.|You must replace injured or suspended players.|You must replace injured players.|You must not have injured or suspended players in your 11 player squad.|Sanctioned players can't be substituted|Injured players can't play}
+{Defensive|Normal|Offensive}
+{England|Scotland|Germany|Italy|France|Spain|Any}
+{GK|DE|MF|AT|Any}
+{ADW Cars|Godo & Rodo|MJ Graphics|Turley Burger|Furman Designs}
+{ADIDAS|KAPPA|KITKAT|REEBOK|UMBRO|FUNSTA|CODEMASTERS}
+{Shirt sponsor offer|Do you want to have a shirt sponsor contract with [name] for [money] each week lasting [time] weeks?|You now have a shirt sponsor contract with [name] for [money] each week lasting [time] weeks.}
+{Hoarding sponsor offer|Do you want to have a hoarding sponsor contract with [name] for [money] each week lasting [time] weeks?|You now have a hoarding sponsor contract with [name] for [money] each week lasting [time] weeks.}
+{Transfer offer for [name]|This player received an offer from a club for [money]. Are you really going to sell [name]?}
+{[name] rejects your offer|[name] isn't interested in playing with our club.}
+{[name] isn't interested anymore.|[name] stops negotiating with our club.}
+{[name] wants to renegotiate.|[name] says that your offered salary is too low.|[name] wants a longer contract than the one you offered.|[name] says that your offered bonus per victory is low.}
+{Season goal|Congratulations! You succeeded in achieving current season goal.}
+{Season goal|Sorry, but you didn't succeed on this season target and the club decided to fire you.}
+{[name] leaves the club|[name] has ended his contract with our team and leaves the club.}
+{European Championship|You won the European Championship|You got kicked from the European Championship|You got through the European Championship round}
+European Round
+{. You won the match|. You lost the match|. You drew the match.}
+{ wins the league}
+{The league winner is | with | points.}
+{Congratulations|We are the champions!|We are the league champions!}
+{Welcome to |The board of directors of | expects the best from you and the team for this season.}
+{North Stand|South Stand|East Stand|West Stand|Parking|Training Camp|Gym|Medical|Grass|Scoreboards}
+{Stadium Facility|Current}
+You must have at least 16 players in your team
+You haven't enough money to buy this player
+You have exhausted all the funds available to acquire players and manage the team. You're fired.
+No players found matching these criteria
+Too many players found, listing first 100
+{A fantastic night of football!|The outstanding [team1] beat hopeless [team2]. |What a match!}
+{W, M D*. Y}
+{st|nd|rd|th}
+The league has not started yet
+This option is automatically managed by your staff. Do you want to permanently switch it to manual mode?
+{Goal!|Half-time|Foul|Penalty|Out|Corner|Offside}
+{BAD|POOR|AVERAGE|GOOD|EXCELLENT}
+EDIT NAME
+EDIT NAMES
+{3-4-3 (b)|4-4-2 (b)}
+{(S)|(R)}
+DETAILS
+Funds
+SPONSORS & STADIUM
+PERSONNEL
+None
+ATTENDANCE
+STADIUM
+MATCH STATS
+{You drew the match:|You won the match:|You lose the match:}
+The following players are injured or suspended:
+matches
+LEAGUE STATS
+Week
+The European Championship competition has not started yet
+{The European Championship is over|The champion is}
+EUROPE STATS
+Stats
+Advance
+next match
+European Championship
+Visualization
+{Skip match|2D match|Text match}
+{Main Screen|Match stats|League stats|Europe stats}
+main menu
+play game
+fantasy team
+difficulty
+normal
+expert
+select team
+Exhibition Match
+customization
+edit name
+nationality
+age
+preferred club
+next
+skill points:
+motivation:
+coaching:
+judgement:
+discipline:
+select league
+customization
+edit name
+edit colour
+choose players
+left colour
+right colour
+CHOOSE PLAYERS
+Continue
+Formation
+Orders
+Squad
+Skip match
+options
+{volume: low|volume: medium|volume: high}
+{autosave off|autosave on}
+credits
+bonus codes
+rain in match
+extra formations
+fast training
+no injuries
+unlimited funds
+Warning! All previously stored data will be deleted. Are you sure?
+You must distribute all skill points to continue
+Can't buy players from your own team
+Your team has 30 players already. You cannot contract this player at this moment.
+You cannot contract a new shirt sponsor until your current contract expires.
+You cannot contract a new fences sponsor until your current contract expires.
+{Bad position|and|efficiency|Are you sure?}
+cannot be improved further
+{Under construction.|weeks left|. Cancel upgrade?}
+Not enough money
+{Works will last | weeks. The build cost is |. Are you sure?}
+{
+To unlock: qualify for the European Championship
+To unlock: end the season sixth or better
+To unlock: avoid relegation using one of the bottom 3 teams in the league
+To unlock: win the European Championship
+To unlock: end the season in the top three of the table three times in a row
+}
+Not enough players in your squad. Complete automatically?
+Are you sure you want to delete this mail?
+wants to negotiate
+wants to know what we are ready to offer for him.
+accepted your offer!
+accepts your conditions and is ready to play with our club.
+[playername]'s contract is about to expire
+[playername]'s contract ends this year and he wants to negotiate his renewal.
+Facility improvement completed
+[facility] upgrade has been completed
+Expectation:
+NEWSFLASHES
+Game with sound?
+Sound
+enabled
+disabled
+Saving data...
+The league winner is
+Cost
+Time Left
+Build Time
+{PS|SH|PA|SP|DE}
+{GK|DE|MF|AT}
+Reserve
+Subs bench
+Round
+{The match between [team1] and [team2] ended }
+{Everybody is talking about [name] who led [team] to the victory. What fantastic management skills!}
+Save game?
+Age:
+{You unlocked a bonus code! Check it at bonus codes screen:}
+{controls|game modes|customization|club management|extras}
+GBP
+LMA Tips
+TEAM
+Not enough money to complete automatically. Please sell some players and try again!
+You can't put a substituted player back into the squad.
+{
+Codemasters Software Company
+
+Producer:
+Melissa Scrivin
+
+Director, Product Development:
+Samantha Parker
+
+Director, Mobile:
+Matt Davies
+
+BDM-Mobile:
+Paul Topping 
+
+
+Developed by:
+Microjocs Mobile
+
+Producer:
+Manel Sort
+
+Team Leader:
+Carlos Peris
+
+Designer:
+Joaquín Hurtado
+
+Programmers:
+Carlos Peris
+David Rodríguez
+Juan Antonio Gómez
+
+Artists:
+Raúl Durán
+
+Music:
+Jordi Gutiérrez
+
+Porting Producer:
+Itthi Yossundara
+
+QA Manager:
+Damià Vázquez
+
+QA
+Alfred Ferrer
+Ricard Reixach
+Victor Mora
+Arnau Castellví
+}
+
+

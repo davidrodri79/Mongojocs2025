@@ -1,0 +1,52 @@
+{
+HAUPTMENÜ
+2 Taste - eine Option hinauf, 8 Taste - eine Option hinunter, linke Menütaste oder 5 Taste - offene Option wählen, rechte Menütaste - einen Schritt zurückgehen.
+
+BEIM SPIEL IKONENLEISTE
+Für horizontale Bewegungen durch die Optionen, Knopf oder Tasten 4 und 6 benützen, und für horizontale Bewegungen durch die Optionen, Knopf oder Tasten 2 und 8 um sich durch die Hauptoptionen (obere Leiste) zu den sekundären Optionen (untere Leiste), zu bewegen, mittleren Knopf oder Taste 5  um in eine Sektion zu gelangen.<NK-s40>!
+Für horizontale Bewegungen durch die Optionen, Knopf oder Tasten 4 und 6 benützen, und für horizontale Bewegungen durch die Optionen, Knopf oder Tasten 2 und 8 um sich durch die Hauptoptionen (obere Leiste) zu den sekundären Optionen (untere Leiste), zu bewegen, Taste 5  um in eine Sektion zu gelangen.<NK-s40>?
+
+BEIM SPIEL - TEXT
+Auf Bildschirmen, die eine Liste oder einen langen Text beinhalten, benützen Sie Knopf oder Tasten 2 und 8, um sich hinauf oder hinunter zu bewegen, und die mittleren Knopf oder Taste 5 oder die linke Menütaste um eine Option zu wählen, die rechte Menütaste um zurückzugehen.<NK-s40>!
+Auf Bildschirmen, die eine Liste oder einen langen Text beinhalten, benützen Sie Knopf oder Tasten 2 und 8, um sich hinauf oder hinunter zu bewegen, Taste 5 oder die linke Menütaste um eine Option zu wählen, die rechte Menütaste um zurückzugehen.<NK-s40>?
+
+BEIM SPIEL – ALLGEMEIN
+Die linke Taste wird benützt, um Information zu erhalten und Aktionen durchzuführen, und die rechte Taste wird zum Stornieren oder Zurückgehen verwenden.
+}
+{
+VORFÜHRUNGSMATCH
+Wähle zwei Mannschaften, die gegeneinander spielen und beobachte, wie gut sie spielen.
+
+NORMALES SPIEL
+Wähle eine Mannschaft von einer beliebigen Liga und versuche, das Saisonziel deines Clubs zu erreichen. Die Clubleitung verlangt mehr oder weniger, je nach dem gewählten Schwierigkeitsgrad. Im normalen Spielmodus werden die Finanzen und das Training automatisch gehandhabt, während du im Expertenmodus die gesamte Kontrolle über den CLub ausübst. .
+
+FANTASIEMANNSCHAFT<NK-s40>!
+Ähnlich wie das "normale Spiel", aber du kannst von Anfang an eine Fantasiemannschaft zusammenstellen. Wähle deine Mannschaftsfarben und das perfekte Mannschaft!<NK-s40>!
+}
+{
+MANAGER
+Die persönliche Gestaltung ermöglicht es dir, deinen Namen, Nationalität, Alter und Lieblingsclub  - den Club, den du letztlich leiten möchtest, einzugeben. Dann verteilst du die Talentpunkte, die das Spiel beeinflussen werden. "Motivation" verbessert die Mannschaftsmoral, "Coaching" verbessert die Trainingsergebnisse, "Urteil" erhöht die Möglichkeit, Verträge mit den Spielern abzuschließen, und "Disziplin" kontrolliert die Disziplin der Spieler bei Spielen und verringert die Anzahl der ausgeschiedenen Spieler.<NK-s40>!
+Verteilst du die Talentpunkte, die das Spiel beeinflussen werden. “Motivation” verbessert die Mannschaftsmoral, "Coaching" verbessert die Trainingsergebnisse, “Urteil" erhöht die Möglichkeit, Verträge mit den Spielern abzuschließen, und "Disziplin" kontrolliert die Disziplin der Spieler bei Spielen und verringert die Anzahl der ausgeschiedenen Spieler.<NK-s40>?
+
+DIE MANNSCHAFT<NK-s40>!
+Im Fantasiemannschafts-Modus kannst du den Club persönlich gestalten und seinen Namen und die Clubfarben wählen. Du kannst Spieler vom Team einer beliebigen Liga und Mannschaft wählen oder die Mannschaft automatisch zusammenstellen lassen.<NK-s40>!
+}
+{
+Die Clubleitung ist in die folgenden neun Hauptblöcke unterteilt:<NK-s40>!
+Die Clubleitung ist in die folgenden acht Hauptblöcke unterteilt:<NK-s40>?
+MANNSCHAFT: Regelt alles in Beziehung mit der Mannschaft.
+TRAINING: Planmäßige Trainingintensivität und Häufigkeit .
+LAPTOP: Liest alle Mails, die der Benützer als Manager erhält.
+INFO: Genaue Information, sehr nützlich für den Manager.
+WECHSEL: Spieler kaufen und verkaufen.
+FINANZEN: Regelt Angestellt und Finanzen
+STADIUM: Verbessert Kapazität und Einrichtungen des Stadions.<NK-s40>!
+OPTIONEN: Zugriff auf Spielhilfe, Tonoptionen, Spiel speichern oder verlassen.
+KALENDER: Matche spielen.
+}
+{
+EXTRAOPTIONEN<NK-s40>!
+Unter "Optionen" kannst du die "Bonuscodes" wählen, wo du überprüfen kannst, was noch nicht gesperrt ist und Tipps zum Konsole-Spielen erhältst.<NK-s40>!
+Wenn ein "Bonuscode" geöffnet wird, muss er erst aktiviert werden. Die Tipps können angeklickt werden, und der entsprechende Text erscheint.<NK-s40>!
+}
+

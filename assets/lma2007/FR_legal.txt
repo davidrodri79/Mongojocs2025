@@ -1,0 +1,10 @@
+{
+LMA 2007
+$version$
+
+(c)2006 The Codemasters Software Company Limited ("Codemasters").
+Tous droits réservés. "Codemasters"(R) est une marque déposée de Codemasters.
+"F.C. Manager"TM 2007 La Passion Du foot" et "GENIUS AT PLAY"TM sont des marques de Codemasters.
+Tous les autres copyrights ou marques apparaissant dans le jeu sont la propriété de leurs détenteurs respectifs.
+Développé par Microjocs. Edité par Codemasters.
+}

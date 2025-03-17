@@ -1,0 +1,86 @@
+Torneo nuevo
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{Modo: Fácil|Modo: Normal|Modo: Difícil}
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Tecla 4 y pad izquierdo:
+Correr a la izquerda
+
+Tecla 6 y pad derecha:
+Correr a la derecha
+
+Tecla 2 y pad arriba:
+Correr hacia arriba
+
+Tecla 8 y pad abajo:
+Correr hacia abajo
+
+Tecla 5 y menu derecha:
+Pasar o chutar
+(cerca de la porteria)
+}
+{
+Programación:
+Carlos Peris
+David Rodríguez
+
+Gráficos:
+Raúl Durán
+
+Sonido:
+Jordi Gutiérrez
+
+Microjocs Mobile
+2004
+}
+Nivel
+Enhorabuena
+Ver clasificación
+{Alemania|Bulgaria|Croacia|Dinamarca|España|Francia|Grecia|Holanda|Inglaterra|Italia|Letonia|Portugal|Rep.Checa|Rusia|Suecia|Suiza}
+{4-4-2|4-3-3|3-5-2|5-4-1|3-4-3|2-3-5}
+{Partido de 2 min|Partido de 5 min|Partido de 10 min}
+Continuar torneo
+{La Final|Semifinales|Cuartos de final|Octavos de final|Eliminatoria}
+Cargando
+{¡Enhorabuena!|Sois los campeones}
+{Teclas 7650,N-Gage|Teclas 3650}
+{
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 2,3 y pad izquierdo:
+Correr a la izquerda
+
+Teclas 8,9 y pad derecha:
+Correr a la derecha
+
+Pad arriba:
+Correr hacia arriba
+
+Teclas 5,6 y pad abajo:
+Correr hacia abajo
+
+Parrilla y menu derecha:
+Pasar o chutar
+(cerca de la porteria)
+}
+
+

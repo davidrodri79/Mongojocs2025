@@ -1,0 +1,126 @@
+Torneo nuevo
+Continuar
+{Sonido OFF|Sonido ON}
+{Vibración OFF|Vibración ON}
+{ }
+Fin del juego
+Instrucciones
+Acerca de...
+Terminar
+Salir
+Cargando
+{
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla 5, tecla de menú derecha:
+Aceptar opción
+
+Tecla 4 y pad izquierdo:
+Mover raqueta a la izquerda
+
+Tecla 6 y pad derecha:
+Mover raqueta a la derecha
+
+Teclas 1,2,3,7,8,9,
+pad arriba y pad abajo:
+
+Aumentar fuerza
+(Soltar para golpear la pelota)
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 2,3 y pad izquierdo:
+Mover raqueta a la izquerda
+
+Teclas 8,9 y pad derecha:
+Mover raqueta a la derecha
+
+Teclas 1,4,5,6,7,0,
+pad arriba y pad abajo:
+
+Aumentar fuerza
+(Soltar para golpear la pelota)
+}
+{
+Ping Poyo v
+
+
+Programación:
+David Rodríguez
+
+Gráficos:
+Elías Lozano
+
+Sonido:
+Esteban Moreno
+
+Testeo:
+Alfred Ferrer
+Josep Ruiz
+Xavi Espejo
+Juan Molla
+
+
+Desarrollado:
+Microjocs Mobile
+2004}
+{Poyo|Leo|Bob|Blak|Pigy|Ponk|Robo DK|Kill DK}
+Saque de
+FALLO
+Tú ganas
+Has perdido
+¿Reintentar?
+Continuar torneo
+Partido amistoso
+Entrenamiento
+{Posición manual|Posición automática}
+Ya han pasado dos años desde que Poyo salvó a sus amigos de la amenaza del Doctor Kaos. Ahora la comarca está en paz. Está a punto de comenzar en la capital el gran torneo mundial de Ping-Pong, Poyo y sus amigos están inscritos para competir contra participantes de todo el mundo. Parece una competición amistosa, pero Poyo tendrá que ir con cuidado... Quién sabe contra quien deberá enfrentarse...
+{Primera eliminatoria|Segunda eliminatoria|Tercera eliminatoria|Cuarta eliminatoria|Cuartos de final|Semifinal|¡La Gran Final!}
+Elige oponente
+¡Enhorabuena!
+Total:
+Tiempo récord
+Introduce tus iniciales
+Aceptar
+{Mantén la tecla 3 presionada. Al soltar golpearás. Hagamos una prueba. ¿Preparado?
+¡Ups! Saque fallido. Para hacer bien el saque no has de golpear la pelota ni muy alta, ni muy baja.
+Como has visto la tecla 3 es para tirar a la derecha. Usa 1 y 2 para tirar a la izquierda y al centro.
+Durante el encuentro tendrás dos intentos para hacer el saque. Si fallas el segundo pierdes un punto.
+¡El contrincante te devuelve la pelota! La raqueta se moverá automáticamente siguiéndola. 
+Presiona 1, 2 o 3 para coger fuerza y suelta cuando la pelota esté a punto de llegar.
+¡Muy bien! Es tu primer punto. Recuerda que los partidos se juegan a 11 puntos.
+Si te atreves puedes activar el modo manual en el menú para mover la raqueta con las teclas 4 y 6.
+¡Punto para Leo! Para devolver la pelota, golpea justo cuando esté cerca del borde de la mesa.
+Ahora sacará Leo. Recuerda que cada cinco saques, cambia el jugador que saca.
+Mantén la tecla 7 presionada. Al soltar golpearás. Hagamos una prueba. ¿Preparado?
+¡Ups! Saque fallido. Para hacer bien el saque no has de golpear la pelota ni muy alta, ni muy baja.
+Como has visto la tecla 7 es para tirar a la derecha. Usa 4 y 5 (o 6) para tirar a la izquierda y al centro.
+Durante el encuentro tendrás dos intentos para hacer el saque. Si fallas el segundo pierdes un punto.
+¡El contrincante te devuelve la pelota! La raqueta se moverá automáticamente siguiéndola. 
+Presiona 4, 5, 6 o 7 para coger fuerza y suelta cuando la pelota esté a punto de llegar.
+¡Muy bien! Es tu primer punto. Recuerda que los partidos se juegan a 11 puntos.
+Si te atreves puedes activar el modo manual en el menú para mover la raqueta con las teclas 2 y 9.
+¡Punto para Leo! Para devolver la pelota, golpea justo cuando esté cerca del borde de la mesa.
+Ahora sacará Leo. Recuerda que cada cinco saques, cambia el jugador que saca.
+}
+{NO|SI}
+{Jijijijiji|¡Soy el rey!|¡Soy el mejor!|¡Pan comido!|¡No es justo!|¡¡Tramposo!!|No entiendo|No puede ser...}
+{Pop pop|Bob bueno|Pobrecito|¡¡Wey, bueno!!|¡¡Mama!!|¡¡Poyo malo!!|Poyo feo|Yo bueno tu malo}
+{Oohhh|Je je|Hey|Bien|Ups|Ang|Ay|Mmmm...}
+{Estoy de suerte|Creo que ganaré|Fallaste Poyo|Hoy es mi día|Ups la pifié|Hoy no es mi día|Otra vez fallé|Esto no es lo mío}
+{Jejeje je je|Estás acabado|Ríndete.|¡¡Te retorceré las alas!!|¡¡Argggh maldición!!|¡¡¡NO!!!|¡Grrrrrr!|Maldito #@#* !!!!}
+{Destruir enemigo|Matar enemigo|Eliminar enemigo|Poyo=enemigo|Null pointer|System.io.exception|Error de sistema|Desbordamiento de pila}
+{Jajaja|No ganarás|Estás perdido|Te voy a machacar|No puede ser|¡¡No!!|¿¿Cómo??|Pero...}
+Ver récords
+Mejores tiempos
+{Teclado 3650|Teclado 7650,3660,NGage}
+Cargando
+

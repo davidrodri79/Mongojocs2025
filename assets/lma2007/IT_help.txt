@@ -1,0 +1,51 @@
+{
+MENU' PRINCIPALE
+tasto 2 - un opzione sopra, tasto 8 - un opzione sotto, tasto menu' di sinistra o tasto 5 - seleziona opzione corrente, tasto menu' di destra - torna indietro di un passo.
+
+GIOCO - ICONE DELLA BARRA
+Usa il pad o il tasto 4 e 6 per muoverti orizontalmente tra le opzioni, i pad o il tasto 2 e 8 per muoverti dalle opzioni principali (barra alta) alle opzioni secondarie (barra sotto), il pad centrale o il tasto 5 per antrare una sezione.<NK-s40>!
+Usa il pad o il tasto 4 e 6 per muoverti orizontalmente tra le opzioni, i pad o il tasto 2 e 8 per muoverti dalle opzioni principali (barra alta) alle opzioni secondarie (barra sotto), il tasto 5 per antrare una sezione.<NK-s40>?
+
+GIOCO - TESTO
+Per le schermate che contengono una lista o un tasto lungo usa il pad o il tasto 2 e 8 per muoverti su e giu', il pad centrale, tasto 5 o il  tasto menu' di sinistra per selezionare un'apzione, tasto menu' di destra per tornare indietro.<NK-s40>!
+Per le schermate che contengono una lista o un tasto lungo usa il pad o il tasto 2 e 8 per muoverti su e giu', tasto 5 o il  tasto menu' di sinistra per selezionare un'apzione, tasto menu' di destra per tornare indietro.<NK-s40>?
+
+GIOCO - GENERALE
+Il tastino di sinistra serve per avere informazioni ed agire e il tastino di destra serve per cancellare o tornare indietro.
+}
+{
+PARTITA DI DIMOSTRAZIONE
+Seleziona due squadre che giochino tra di loro e guarda le loro prestazioni 
+
+GIOCO NORMALE
+Seleziona una squadra per ongi campionato e cerca di raggiungere l'obbiettivo stagionale del club. La direzione del club esige piu' o meno in funzione del del livello di difficoltá selezionato. Per la modalitá normale la contabilitá e l'allenamento sono automaticamente gestiti mentre per la modalitá esperto tu hai il pieno controllo del club.
+
+SQUADRA FANTASIA<NK-s40>!
+Simile al "gioco normale" ma puoi creare una squadra di fantasia da zero. Scegli I colori e la tua squadra perfetta!
+}
+{
+DIRIGENZA
+La personalizzazione della dirigenza ti permette di personalizzare il tuo nome, nazionalitá, etá e club preferito - il club che finalmente vuoi gestire. Distribuisci I punti di abilitá che influenzano il gioco. "Motivazione" migliorerá la morale della squadra, "Allenamento" migliorerá i risultati dell'addestramento, "Valutazione" migliorerá la possibilitá di firmare i contratti dei giocatori e "Disciplina" permetterá il controllo della disciplina dei giocatori nelle partite, diminuendo il numero di giocatori ammoniti. 
+
+LA SQUADRA<NK-s40>!
+Per la modalitá squadra fantasia puoi personalizzare il club, scegliendone il nome ed i colori. Puoi scegliere I giocatori dalle squadre di qualsiasi campionato e squadra, o lasciare che la squadra si completi automaticamente<NK-s40>!
+}
+{
+La direzione del club è diviso in nove blocchi principali che sono:<NK-s40>!
+La direzione del club è diviso in otto blocchi principali che sono:<NK-s40>?
+SQUADRA: gestisce ogni questione relativa all'organico.
+ALLENAMENTO: pianificazione dell'intensitá e frequenza dell'allenamento.
+PORTATILE: leggere tutti gli email che riceve l'usuario in quanto dirigente.
+INFORMAZIONI: informazioni dettagliate molto utili alla dirigenza.
+TRASFERIMENTI: comprare e vendere giocatori.
+FINANZA: gestire gli impiegati e la finanza.
+STADIO: migliorare la capacitá e attrezzature.<NK-s40>!
+OPZIONI: accedere all'aiuto al gioco, opzioni del suono, salvare il gioco o interromperlo.
+CALENDARIO: giocare le partite.
+}
+{
+EXTRA<NK-s40>!
+Nella sezione "Opzioni" puoi selezionare "Codici bonus" dove puoi controllare cosa è stato lasciato aperto e cercare suggerimeti su come giocare con la console.<NK-s40>!
+Quando un "Codice bonus" e aperto deve essere disabilitato prima che abbia effetto. In caso di suggerimenti seplicemente cliccandoci sopra fara sparire il testo relativo.<NK-s40>!
+}
+

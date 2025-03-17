@@ -1,0 +1,141 @@
+Jugar
+Continuar
+{So OFF|So ON}
+{Vibració OFF|Vibració ON}
+ 
+Fi de la partida
+Instruccions
+Sobre...
+Acabar
+Sortir
+Carregant
+{
+La Miss Frame, la cotorra catòdica del 3XL.net, no pot estar-se quieta.
+
+Ajuda-la a passar per les habitacions del No passeu! i a esquivar tots els obstacles que li apareixen pel camí. Quin perill.
+
+Tecla de menú esquerra:
+Anar al menú
+
+Tecla de menú dreta:
+Acceptar l'opció
+
+Tecles 4 i pad esquerra:
+Moure a l'esquerra
+
+Tecles 6 i pad dreta:
+Moure a la dreta
+
+Tecles 2 i pad amunt:
+Saltar
+
+Tecles 1 i 3:
+Salt en diagonal esquerra i dreta
+
+Tecles 8 i pad avall:
+Abaixar plataforma
+
+Tecla 5:
+Acceptar o llançar caixa
+
+Has de recollir totes les claus per poder passar a l'habitació següent.
+
+En el marcador superior de l'esquerra pots veure quantes claus et falten per trobar. Pel camí aniràs descobrint objectes. Com més n'agafis, més punts t'emportaràs.
+
+Tens tres cors de vida i temps limitat, així que afanya't!!
+
+Agafa les caixes de colors, prement la tecla 5, i llança-les contra els enemics prement també el 5.
+
+Recorda que pots moure't amb la caixa a sobre, però aleshores no pots saltar tant.
+
+Si agafes el rellotge, tindràs temps extra.
+
+Si agafes el punt del logo del 3XL.net, tindràs immunitat durant uns segons.
+
+El got de llet amb cacau et dóna un cor de vida extra.
+}
+{
+No passeu!
+version
+
+Idea original:
+3XL.net i CCRTV Interactiva, S.A.
+
+Cap de projecte:
+Manel Sort
+
+Programador:
+Juan Antonio Gómez
+
+Grafista:
+Jordi Palome
+
+Disseny del joc:
+Jordi Palome
+Juan Antonio Gómez
+
+Dissenyadors de nivells:
+Jordi Palome
+Oscar Zurriaga
+
+Música / efectes sonors:
+Jordi Gutierrez
+
+Control de qualitat:
+Alfredo Ferrer
+Xavi Espejo
+Joaquín Hurtado
+Jordi Balfegó
+Josep Ruiz
+Arnau Castellví
+Juan Mollá
+Eduardo Berti
+Albert Sans
+Mario Ruz
+
+Desenvolupa:
+Microjocs Mobile
+2005
+}
+Nivell
+Enhorabona
+{ |Menú|Acceptar|Enrere|Continuar|Cancel·lar|Sí|No}
+N'està segur?
+Habitació
+Habitació completada
+Nou joc
+Canviar Idioma
+{Idioma: Català|Idioma: Espanyol}
+{
+Utilitza les tecles 4 i 6 per moure't a dreta i esquerra.
+Les tecles 1, 2 i 3 per saltar amunt i amb direccions.
+}
+{
+Has de recollir totes les claus per poder passar a l'habitació següent.
+En el marcador superior de l'esquerra pots veure quantes claus et falten per trobar. Pel camí aniràs trobant objectes. Com més n'agafis, més punt t'emportaràs.
+Vés amb compte, no tot és el que sembla. Qui sap què passa a la teva habitació quan no hi ets.
+Tens tres cors de vida i temps limitat, així que afanya't!!
+}
+{
+Agafa les caixes de colors, prement la tecla 5, i llança-les contra els enemics prement també el 5.
+Recorda que pots moure't amb la caixa a sobre, però aleshores no pots saltar tant.
+}
+{
+Aquest rellotge verd et donarà una bonificació de temps extra. Aprofita-la bé.
+}
+{
+Sempre que vegis el punt del logo del 3XL.net, agafa'l, perquè seràs invencible durant uns segons.
+}
+{
+Mmmmm, que bo! El got de llet amb cacau et dóna un cor de vida extra.
+}
+{
+Perfecte!! Has aconseguit totes les claus. Ara vés a la porta, obre-la i passa a l'habitació següent.
+}
+{
+Final de la partida:
+Enhorabona, has aconseguit completar totes les habitacions.
+}
+{Temps:|x10|Objectes:|x100| |Punts acumulats:|0|Millor puntuació:|0|}
+
+

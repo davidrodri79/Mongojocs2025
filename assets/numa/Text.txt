@@ -1,0 +1,31 @@
+Jugar
+Volver al juego
+{Sonido en Off|Sonido en On}
+{Vibración Off|Vibración On}
+A
+Fin del juego
+Controles
+Acerca de...
+Ir al menú
+Salir
+A
+{Controlar a Numa|4,6: Caminar|1,2,3: Saltar|7,8,9: Agacharse|5: Disparar,aceptar|0,Menú izq: Menú|2,9: Caminar|1,0: Saltar|5,6: Agacharse|#: Disparar|Menú izq: Menú}
+{Numa the Beast|Gráficos|Raúl Durán|Programación|David Rodríguez|Sonido|Esteban Moreno|Microjocs 2005}
+Escoge nivel
+Como mínimo
+Recoge más gemas
+{¡Bien hecho, Numa!|Has aplastado la|invasión de las|serpientes.|¡Has salvado tu|raza y tu planeta!}
+{Tengo que recoger cuantas más gemas mejor. Recuerda que cuantas más recoja, más poderoso será mi ataque.
+Va a ser un largo viaje... y tengo hambre. ¡Puedo cazar estos lagartos azules para recuperar fuerzas!
+Cuidado con los escapes de gas... No tengo ganas de salir disparado. ¡Aunque quizá podamos aprovechar el impulso!
+¡Uh! Estas criaturas peludas son mis favoritas. ¡Intenta saltar encima de alguna y podremos cabalgar un rato!			
+A
+¡Ouch! Eso ha dolido. Acabemos con estas criaturas disparándoles o saltándoles encima.}
+Nivel
+¡Nivel completado!
+Gemas: 
+{Teclado 7650,N-Gage|Teclado 3650}
+Cargando
+	
+
+

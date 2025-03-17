@@ -1,0 +1,114 @@
+JUGAR
+CONTINUAR
+{SONIDO OFF|SONIDO ON}
+{VIBRACIÓN OFF|VIBRACIÓN ON}
+{REINICIAR NIVEL|ESCOGER NIVEL}
+Tiempo
+AYUDA
+ACERCA DE...
+Volver al menú
+SALIR
+Cargando...
+{
+Bienvenido a 3D QBlast 2.0
+
+Supera los niveles conduciendo la bola por los laberintos, superando los obstáculos y llegando hasta la salida. Según el tiempo empleado obtendrás categoria bronce, plata u oro. ¡Encuentra el modo de llegar en el tiempo mínimo!
+En cada nivel se esconde una joya. Una recompensa te espera si las encuentras todas.
+
+Instrucciones
+
+Tecla de menú izquierda:
+Ir al menú o volver atrás
+
+Tecla de menú derecha:
+Aceptar opción
+
+Teclas 4 y pad izquierdo:
+Mover a la izquierda
+
+Teclas 6 y pad derecha:
+Mover a la derecha
+
+Teclas 2 y pad arriba:
+Mover hacia arriba
+
+Teclas 8 y pad abajo:
+Mover hacia abajo
+
+Tecla 5 y botón del pad:
+Aceptar o poner bombas
+
+Teclas 1 y 7:
+Rotar cámara en sentido antihorario
+
+Teclas 3 y 9:
+Rotar cámara en sentido horario
+}
+{
+3D QBlast 2.0
+Versión 
+
+Programación:
+David Rodríguez
+
+Gráficos:
+Elías Lozano
+
+Sonido:
+Jordi Gutiérrez
+
+Agradecimientos:
+Carlos Carrasco
+Manel Martori
+Oscar Zurriaga
+Juan Antonio Gómez
+
+Testeo:
+Alfredo Ferrer
+Xavi Espejo
+Joaquín Hurtado
+Josep Ruiz
+Antoni González
+Arnau Castellví
+Juan Mollá
+Eduardo Berti
+Jordi Balfegó
+Albert Sans
+Mario Ruz
+
+(c) Microjocs Mobile
+2005
+}
+nivel
+{Récord actual|¡Joya conseguida!|Récord|/20}
+{ |Menú|Aceptar|Atras|Más}
+{Nivel|completado|(No dispon.)|Nivel completado|¡Enhorabuena!|Serie completada|Trucos activados}
+{Te has quedado sin tiempo|Nivel fallido}
+{¿Reintentar el nivel?|¿Seguro que deseas salir?|SÍ|NO}
+{Elige una serie|Originales}
+{Categoría Oro|Categoría Plata|Categoría Bronce|Oro|Plata|Bronce}
+{Pulsa cualquier tecla|Pulsa 2 o 8 para elegir|Pulsa 4 o 6 para elegir|4 o 6 elegir|Pulsa OK}
+{Elige un nivel|(No dispon.)}
+{SIGUIENTE NIVEL|REPETIR ESTE NIVEL|Ver resultados}
+{TRUCOS|INVULNERABILIDAD|POTENCIA|TIEMPO EXTRA|PÚAS|MULTIBOMBA|VER OCULTOS|REDUCCIÓN|QUITAR ENEMIGOS}
+{Usa las bombas para destruir los bloques grises y poder alcanzar la salida "GOAL".
+Si tocas la bola de goma, rebotarás con fuerza. El escudo te hace invulnerable a los enemigos durante unos segundos.
+Los ítems de potencia aumentan el radio de explosión de la bomba. Úsalos para alcanzar los bloques desde lejos.
+La bola eléctrica te paraliza unos instantes, mientras que la negra te rompe en pedacitos. Esquívalas.
+Las baldosas agrietadas se romperán poco después de que pases por encima. ¡No te entretengas encima de ellas!
+Las cintas transportadoras te arrastran en la dirección que indica la flecha.
+Pasa por debajo del reductor para reducir las dimensiones de la bola unos segundos y poder colarte por los agujeros.
+Puedes subirte sobre las plataformas móviles para alcanzar ciertas zonas.
+Si entras en la ruleta saldrás despedido al cabo de unos segundos en la dirección que indique la flecha.
+La bola resbala mucho sobre el hielo. Recoge el ítem de las púas para evitarlo.
+Los trampolines te hacen saltar y puedes usarlos para alcanzar ciertas plataformas.
+El ítem de multibomba te permite colocar más de una bomba simultáneamente.
+Recoge el ítem de secreto para visualizar por unos instantes los caminos ocultos.
+Tu bola sólo puede atravesar los aros si están orientados adecuadamente.
+La bola espejo reproduce tus movimientos pero a la inversa. Si la tocas, te destruirá.
+La bola magnética atrae tu bola con fuerza hacia ella.
+|
+|
+|
+|
+}

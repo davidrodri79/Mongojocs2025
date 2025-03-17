@@ -1,0 +1,30 @@
+Match Report:
+{
+Nil-all draw between [team0] and [team1].
+Eventful match between [team0] and [team1].
+Goals galore in the match between [team0] and [team1].
+}
+{
+The two teams had very different expectations for this match.
+The match started with no clear favourite.
+}
+{
+[team] came from behind to win.
+[team] won by a mile.
+[team] took the lead and held onto it.
+[team] took the lead, but the match ended a draw.
+}
+{
+[playerName]'s goal that lead to [result] on the scoreboard was beautiful. 
+An impressive header from a corner-kick.
+Superb goal from outside the box, buried in the top corner.
+One-on-one with the keeper and he just slips the ball between his legs.
+An unstoppable overhead-kick.
+}
+{
+[team] players seem to be off form.
+[team] need to improve to avoid a tough time this season.
+[team]'s tactics have not worked for this match.
+}
+
+
