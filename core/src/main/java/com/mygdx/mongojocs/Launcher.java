@@ -78,7 +78,7 @@ public class Launcher extends Game {
 
 
 	}
-	
+
 	@Override
 	public void dispose () {
 
